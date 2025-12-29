@@ -85,6 +85,7 @@ function categoryToShortName(category) {
         'Categoria EC': 'EC',
         'Categoria RV': 'RV',
         'Categoria BUS': 'BUS',
+        'Categoria  RJ': 'RJ'
     }
 
     return mapping[category] || category;
