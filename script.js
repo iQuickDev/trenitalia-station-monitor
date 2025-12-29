@@ -3,7 +3,7 @@ window.onload = async () => {
     const stations = await fetch('./stations.json').then(res => res.json());
     const selector = document.querySelector('#stationSelector');
     const header = document.querySelector('h1');
-    
+
     stations.forEach(station => {
         const option = document.createElement('option');
         option.value = station.code;
@@ -13,7 +13,7 @@ window.onload = async () => {
 
     selector.value = localStorage.getItem('stationCode') || '2000';
     header.textContent = currentDirection === 'departures' ? 'PARTENZE' : 'ARRIVI';
-    
+
     document.addEventListener('keydown', (e) => {
         if (e.shiftKey && e.key === 'S') {
             selector.classList.toggle('hidden');
@@ -36,7 +36,7 @@ window.onload = async () => {
     });
 
     await loadStationData(selector.value, currentDirection);
-    
+
     setInterval(() => {
         loadStationData(selector.value, currentDirection);
     }, 120000);
@@ -51,7 +51,7 @@ async function loadStationData(stationCode, direction = 'departures') {
     const scrapedTableRows = doc.querySelectorAll('#monitor tbody tr')
     const table = document.querySelector('#trains')
     const tableBody = table.querySelector('tbody')
-    
+
     tableBody.innerHTML = '';
 
     scrapedTableRows.forEach(tr => {
@@ -60,7 +60,7 @@ async function loadStationData(stationCode, direction = 'departures') {
         for (let i = 2; i < cells.length - 1; i++) {
             const tdElement = document.createElement('td')
             if (i === 2) {
-                tdElement.textContent = categoryToShortName(cells[i-1].querySelector('img').alt.trim())
+                tdElement.textContent = categoryToShortName(cells[i - 1].querySelector('img').alt.trim())
             }
             tdElement.textContent += " " + cells[i].innerText.trim()
 
@@ -80,12 +80,12 @@ function categoryToShortName(category) {
         'Categoria INTERCITY': 'IC',
         'Categoria ALTA VELOCITA\'': 'AV',
         'Categoria MXP': 'MXP',
-        'Categoria RE' : 'RE',
-        'Categoria REG' : 'REG',
+        'Categoria RE': 'RE',
+        'Categoria REG': 'REG',
         'Categoria EC': 'EC',
         'Categoria RV': 'RV',
         'Categoria BUS': 'BUS',
-        'Categoria  RJ': 'RJ',
+        'Categoria RJ': 'RJ',
         'Categoria REGIONALE VELOCE': 'RV',
         'Categoria ARL': 'ARL',
     }
@@ -99,18 +99,18 @@ function createMatrixCanvas() {
     orangeCanvas.width = window.innerWidth;
     orangeCanvas.height = window.innerHeight / 5.5;
     orangeCanvas.className = 'orange-canvas';
-    
+
     const blackCanvas = document.createElement('canvas');
     const blackCtx = blackCanvas.getContext('2d');
     blackCanvas.width = window.innerWidth;
     blackCanvas.height = window.innerHeight * 3.1;
     blackCanvas.className = 'black-canvas';
     blackCanvas.style.top = window.innerHeight / 5.5 + 'px';
-    
+
     const cellSize = 6;
     const cols = Math.floor(window.innerWidth / cellSize);
     const blackRows = Math.floor(blackCanvas.height / cellSize);
-    
+
     orangeCtx.fillStyle = '#ff8800';
     for (let i = 0; i < Math.floor(orangeCanvas.height / cellSize); i++) {
         for (let j = 0; j < cols; j++) {
@@ -124,7 +124,7 @@ function createMatrixCanvas() {
             blackCtx.fillRect(j * cellSize, i * cellSize, cellSize - 1, cellSize - 1);
         }
     }
-    
+
     document.body.appendChild(blackCanvas);
     document.body.appendChild(orangeCanvas);
 }
