@@ -85,7 +85,9 @@ function categoryToShortName(category) {
         'Categoria EC': 'EC',
         'Categoria RV': 'RV',
         'Categoria BUS': 'BUS',
-        'Categoria  RJ': 'RJ'
+        'Categoria  RJ': 'RJ',
+        'Categoria REGIONALE VELOCE': 'RV',
+        'Categoria ARL': 'ARL',
     }
 
     return mapping[category] || category;
