@@ -1,0 +1,9686 @@
+[
+    {
+        "code": "365",
+        "name": "ABBADIA LARIANA"
+    },
+    {
+        "code": "366",
+        "name": "ABBASANTA"
+    },
+    {
+        "code": "367",
+        "name": "ABBIATEGRASSO"
+    },
+    {
+        "code": "368",
+        "name": "ACATE"
+    },
+    {
+        "code": "369",
+        "name": "ACCIANO"
+    },
+    {
+        "code": "370",
+        "name": "ACERRA"
+    },
+    {
+        "code": "371",
+        "name": "ACIREALE"
+    },
+    {
+        "code": "372",
+        "name": "ACQUA ACETOSA"
+    },
+    {
+        "code": "1",
+        "name": "ACQUAFREDDA"
+    },
+    {
+        "code": "373",
+        "name": "ACQUAMELA"
+    },
+    {
+        "code": "374",
+        "name": "ACQUANEGRA CREMONESE"
+    },
+    {
+        "code": "2",
+        "name": "ACQUAPPESA"
+    },
+    {
+        "code": "5453",
+        "name": "ACQUASPARTA"
+    },
+    {
+        "code": "376",
+        "name": "ACQUAVIVA CASTELTERMINI"
+    },
+    {
+        "code": "377",
+        "name": "ACQUAVIVA DELLE FONTI"
+    },
+    {
+        "code": "2499",
+        "name": "ACQUEDOLCI-S.FRATELLO"
+    },
+    {
+        "code": "188",
+        "name": "ACQUI TERME"
+    },
+    {
+        "code": "378",
+        "name": "ADRIA"
+    },
+    {
+        "code": "4",
+        "name": "AFRICO NUOVO"
+    },
+    {
+        "code": "379",
+        "name": "AGLIANO CASTELNUOVO CALCEA"
+    },
+    {
+        "code": "3252",
+        "name": "AGOGNATE"
+    },
+    {
+        "code": "383",
+        "name": "AGRIGENTO BASSA"
+    },
+    {
+        "code": "384",
+        "name": "AGRIGENTO CENTRALE"
+    },
+    {
+        "code": "5",
+        "name": "AGROPOLI CASTELLABATE"
+    },
+    {
+        "code": "386",
+        "name": "AIELLI"
+    },
+    {
+        "code": "387",
+        "name": "AIRASCA"
+    },
+    {
+        "code": "189",
+        "name": "AIROLE"
+    },
+    {
+        "code": "388",
+        "name": "AIRUNO"
+    },
+    {
+        "code": "389",
+        "name": "ALA"
+    },
+    {
+        "code": "390",
+        "name": "ALANNO"
+    },
+    {
+        "code": "391",
+        "name": "ALANO FENER VALDOBBIADENE"
+    },
+    {
+        "code": "190",
+        "name": "ALASSIO"
+    },
+    {
+        "code": "392",
+        "name": "ALBA"
+    },
+    {
+        "code": "393",
+        "name": "ALBA ADRIATICA-NERETO-CONTROGUERRA"
+    },
+    {
+        "code": "394",
+        "name": "ALBACINA"
+    },
+    {
+        "code": "779",
+        "name": "ALBAIRATE-VERMEZZO"
+    },
+    {
+        "code": "395",
+        "name": "ALBANO DI LUCANIA"
+    },
+    {
+        "code": "396",
+        "name": "ALBANO LAZIALE"
+    },
+    {
+        "code": "397",
+        "name": "ALBANO S.ALESSANDRO"
+    },
+    {
+        "code": "398",
+        "name": "ALBANOVA"
+    },
+    {
+        "code": "399",
+        "name": "ALBAREDO"
+    },
+    {
+        "code": "401",
+        "name": "ALBATE-TRECALLO"
+    },
+    {
+        "code": "191",
+        "name": "ALBENGA"
+    },
+    {
+        "code": "404",
+        "name": "ALBINIA"
+    },
+    {
+        "code": "192",
+        "name": "ALBISOLA"
+    },
+    {
+        "code": "405",
+        "name": "ALBIZZATE SOLBIATE ARNO"
+    },
+    {
+        "code": "406",
+        "name": "ALBONESE"
+    },
+    {
+        "code": "407",
+        "name": "ALBUZZANO"
+    },
+    {
+        "code": "409",
+        "name": "ALCAMO DIRAMAZIONE"
+    },
+    {
+        "code": "410",
+        "name": "ALCANTARA"
+    },
+    {
+        "code": "193",
+        "name": "ALESSANDRIA"
+    },
+    {
+        "code": "411",
+        "name": "ALFEDENA-SCONTRONE"
+    },
+    {
+        "code": "412",
+        "name": "ALFONSINE"
+    },
+    {
+        "code": "413",
+        "name": "ALI' TERME"
+    },
+    {
+        "code": "414",
+        "name": "ALICE BELCOLLE"
+    },
+    {
+        "code": "415",
+        "name": "ALLERONA-CASTEL VISCARDO"
+    },
+    {
+        "code": "416",
+        "name": "ALPIGNANO"
+    },
+    {
+        "code": "418",
+        "name": "ALTAMURA"
+    },
+    {
+        "code": "196",
+        "name": "ALTARE"
+    },
+    {
+        "code": "419",
+        "name": "ALTAVILLA IRPINA"
+    },
+    {
+        "code": "420",
+        "name": "ALTAVILLA MILICIA"
+    },
+    {
+        "code": "421",
+        "name": "ALTAVILLA TAVERNELLE"
+    },
+    {
+        "code": "422",
+        "name": "ALTOPASCIO"
+    },
+    {
+        "code": "423",
+        "name": "ALVIANO"
+    },
+    {
+        "code": "8",
+        "name": "AMANTEA"
+    },
+    {
+        "code": "424",
+        "name": "AMBIVERE MAPELLO"
+    },
+    {
+        "code": "9",
+        "name": "AMENDOLARA ORIOLO"
+    },
+    {
+        "code": "427",
+        "name": "AMOROSI MELIZZANO"
+    },
+    {
+        "code": "428",
+        "name": "ANAGNI-FIUGGI"
+    },
+    {
+        "code": "429",
+        "name": "ANCONA"
+    },
+    {
+        "code": "1096",
+        "name": "ANCONA STADIO"
+    },
+    {
+        "code": "3473",
+        "name": "ANCONA TORRETTE"
+    },
+    {
+        "code": "3365",
+        "name": "ANCONETTA"
+    },
+    {
+        "code": "4503",
+        "name": "ANDORA"
+    },
+    {
+        "code": "431",
+        "name": "ANGRI"
+    },
+    {
+        "code": "432",
+        "name": "ANGUILLARA"
+    },
+    {
+        "code": "1310",
+        "name": "ANNA'"
+    },
+    {
+        "code": "3466",
+        "name": "ANNONE VENETO"
+    },
+    {
+        "code": "434",
+        "name": "ANTIGNANO"
+    },
+    {
+        "code": "435",
+        "name": "ANTRODOCO BORGO VELINO"
+    },
+    {
+        "code": "436",
+        "name": "ANTRODOCO CENTRO"
+    },
+    {
+        "code": "437",
+        "name": "ANVERSA-VILLALAGO-SCANNO"
+    },
+    {
+        "code": "438",
+        "name": "ANZANO DEL PARCO"
+    },
+    {
+        "code": "439",
+        "name": "ANZIO"
+    },
+    {
+        "code": "440",
+        "name": "ANZIO COLONIA"
+    },
+    {
+        "code": "441",
+        "name": "ANZOLA DELL'EMILIA"
+    },
+    {
+        "code": "442",
+        "name": "AOSTA"
+    },
+    {
+        "code": "3501",
+        "name": "AOSTA ISTITUTO"
+    },
+    {
+        "code": "3502",
+        "name": "AOSTA VIALE EUROPA"
+    },
+    {
+        "code": "443",
+        "name": "APICE S.ARCANGELO BONITO"
+    },
+    {
+        "code": "3428",
+        "name": "APPIANO"
+    },
+    {
+        "code": "444",
+        "name": "APRICENA"
+    },
+    {
+        "code": "445",
+        "name": "APRILIA"
+    },
+    {
+        "code": "448",
+        "name": "ARAGONA CALDARE"
+    },
+    {
+        "code": "449",
+        "name": "ARBIA"
+    },
+    {
+        "code": "2110",
+        "name": "ARBOSTELLA"
+    },
+    {
+        "code": "450",
+        "name": "ARCE"
+    },
+    {
+        "code": "3594",
+        "name": "ARCENE"
+    },
+    {
+        "code": "451",
+        "name": "ARCISATE"
+    },
+    {
+        "code": "452",
+        "name": "ARCOLA"
+    },
+    {
+        "code": "453",
+        "name": "ARCORE"
+    },
+    {
+        "code": "455",
+        "name": "ARDENNO MASINO"
+    },
+    {
+        "code": "10",
+        "name": "ARDORE"
+    },
+    {
+        "code": "2115",
+        "name": "ARECHI"
+    },
+    {
+        "code": "457",
+        "name": "ARENA PO"
+    },
+    {
+        "code": "198",
+        "name": "ARENZANO"
+    },
+    {
+        "code": "458",
+        "name": "AREZZO"
+    },
+    {
+        "code": "459",
+        "name": "ARGENTA"
+    },
+    {
+        "code": "460",
+        "name": "ARIANO IRPINO"
+    },
+    {
+        "code": "461",
+        "name": "ARONA"
+    },
+    {
+        "code": "462",
+        "name": "ARPINO"
+    },
+    {
+        "code": "463",
+        "name": "ARQUA'"
+    },
+    {
+        "code": "199",
+        "name": "ARQUATA SCRIVIA"
+    },
+    {
+        "code": "464",
+        "name": "ARSOLI"
+    },
+    {
+        "code": "465",
+        "name": "ARTEGNA"
+    },
+    {
+        "code": "466",
+        "name": "ARVIER"
+    },
+    {
+        "code": "11",
+        "name": "ASCEA"
+    },
+    {
+        "code": "467",
+        "name": "ASCIANO"
+    },
+    {
+        "code": "468",
+        "name": "ASCIANO MONTE OLIVETO MAGGIORE"
+    },
+    {
+        "code": "469",
+        "name": "ASCOLI PICENO"
+    },
+    {
+        "code": "470",
+        "name": "ASCOLI SATRIANO"
+    },
+    {
+        "code": "472",
+        "name": "ASOLA"
+    },
+    {
+        "code": "473",
+        "name": "ASSEMINI"
+    },
+    {
+        "code": "3052",
+        "name": "ASSEMINI CARMINE"
+    },
+    {
+        "code": "3051",
+        "name": "ASSEMINI S.LUCIA"
+    },
+    {
+        "code": "474",
+        "name": "ASSISI"
+    },
+    {
+        "code": "475",
+        "name": "ASTI"
+    },
+    {
+        "code": "476",
+        "name": "ATTIGLIANO-BOMARZO"
+    },
+    {
+        "code": "480",
+        "name": "AUGUSTA"
+    },
+    {
+        "code": "3587",
+        "name": "AULLA LUNIGIANA"
+    },
+    {
+        "code": "483",
+        "name": "AVELLINO"
+    },
+    {
+        "code": "484",
+        "name": "AVERSA"
+    },
+    {
+        "code": "485",
+        "name": "AVEZZANO"
+    },
+    {
+        "code": "486",
+        "name": "AVIANO"
+    },
+    {
+        "code": "487",
+        "name": "AVIGLIANA"
+    },
+    {
+        "code": "488",
+        "name": "AVIGLIANO LUCANIA"
+    },
+    {
+        "code": "489",
+        "name": "AVIO"
+    },
+    {
+        "code": "490",
+        "name": "AVISE"
+    },
+    {
+        "code": "491",
+        "name": "AVOLA"
+    },
+    {
+        "code": "564",
+        "name": "BADESSE"
+    },
+    {
+        "code": "565",
+        "name": "BADIA POLESINE"
+    },
+    {
+        "code": "12",
+        "name": "BADOLATO"
+    },
+    {
+        "code": "566",
+        "name": "BAGHERIA"
+    },
+    {
+        "code": "567",
+        "name": "BAGNACAVALLO"
+    },
+    {
+        "code": "13",
+        "name": "BAGNARA"
+    },
+    {
+        "code": "568",
+        "name": "BAGNARIA ARSA"
+    },
+    {
+        "code": "569",
+        "name": "BAGNASCO"
+    },
+    {
+        "code": "570",
+        "name": "BAGNI DI LUCCA"
+    },
+    {
+        "code": "572",
+        "name": "BAGNI DI TIVOLI"
+    },
+    {
+        "code": "573",
+        "name": "BAGNOLI AGNANO TERME"
+    },
+    {
+        "code": "576",
+        "name": "BAGNOLO MELLA"
+    },
+    {
+        "code": "577",
+        "name": "BAIANO DI SPOLETO"
+    },
+    {
+        "code": "5043",
+        "name": "BALANGERO"
+    },
+    {
+        "code": "5439",
+        "name": "BALANZANO"
+    },
+    {
+        "code": "578",
+        "name": "BALDICHIERI-TIGLIOLE"
+    },
+    {
+        "code": "579",
+        "name": "BALESTRATE"
+    },
+    {
+        "code": "580",
+        "name": "BALSORANO"
+    },
+    {
+        "code": "3348",
+        "name": "BALVANO RICIGLIANO"
+    },
+    {
+        "code": "581",
+        "name": "BALZOLA"
+    },
+    {
+        "code": "583",
+        "name": "BANDITO"
+    },
+    {
+        "code": "584",
+        "name": "BARAGIANO-RUOTI"
+    },
+    {
+        "code": "585",
+        "name": "BARANELLO"
+    },
+    {
+        "code": "587",
+        "name": "BARBERINO DI VAL D'ELSA"
+    },
+    {
+        "code": "588",
+        "name": "BARBIANELLO"
+    },
+    {
+        "code": "589",
+        "name": "BARBIANO"
+    },
+    {
+        "code": "591",
+        "name": "BARCELLONA-CASTROREALE"
+    },
+    {
+        "code": "593",
+        "name": "BARDONECCHIA"
+    },
+    {
+        "code": "594",
+        "name": "BARGA GALLICANO"
+    },
+    {
+        "code": "595",
+        "name": "BARI CENTRALE"
+    },
+    {
+        "code": "3234",
+        "name": "BARI LOSETO"
+    },
+    {
+        "code": "555",
+        "name": "BARI PALESE MACCHIE"
+    },
+    {
+        "code": "557",
+        "name": "BARI PARCO SUD"
+    },
+    {
+        "code": "3233",
+        "name": "BARI S.RITA"
+    },
+    {
+        "code": "560",
+        "name": "BARI S.SPIRITO"
+    },
+    {
+        "code": "562",
+        "name": "BARI TORRE A MARE"
+    },
+    {
+        "code": "2699",
+        "name": "BARI TORRE QUETTA"
+    },
+    {
+        "code": "2468",
+        "name": "BARI VILLAGGIO DEL LAVORATORE"
+    },
+    {
+        "code": "563",
+        "name": "BARI ZONA INDUSTRIALE"
+    },
+    {
+        "code": "596",
+        "name": "BARICETTA"
+    },
+    {
+        "code": "597",
+        "name": "BARILE"
+    },
+    {
+        "code": "598",
+        "name": "BARLETTA"
+    },
+    {
+        "code": "599",
+        "name": "BARONISSI"
+    },
+    {
+        "code": "601",
+        "name": "BASILIANO"
+    },
+    {
+        "code": "602",
+        "name": "BASSANO DEL GRAPPA"
+    },
+    {
+        "code": "604",
+        "name": "BASSANO ROMANO"
+    },
+    {
+        "code": "605",
+        "name": "BASTIA"
+    },
+    {
+        "code": "608",
+        "name": "BATTAGLIA TERME"
+    },
+    {
+        "code": "14",
+        "name": "BATTIPAGLIA"
+    },
+    {
+        "code": "5420",
+        "name": "BAUCCA-GARAVELLE"
+    },
+    {
+        "code": "610",
+        "name": "BAVENO"
+    },
+    {
+        "code": "611",
+        "name": "BAZZANA"
+    },
+    {
+        "code": "3179",
+        "name": "BAZZANO"
+    },
+    {
+        "code": "612",
+        "name": "BEAULARD"
+    },
+    {
+        "code": "613",
+        "name": "BEFFI"
+    },
+    {
+        "code": "614",
+        "name": "BEINETTE"
+    },
+    {
+        "code": "615",
+        "name": "BELGIOIOSO"
+    },
+    {
+        "code": "616",
+        "name": "BELGIRATE"
+    },
+    {
+        "code": "617",
+        "name": "BELLA MURO"
+    },
+    {
+        "code": "618",
+        "name": "BELLANO TARTAVALLE TERME"
+    },
+    {
+        "code": "619",
+        "name": "BELLANTE RIPATTONE"
+    },
+    {
+        "code": "620",
+        "name": "BELLARIA"
+    },
+    {
+        "code": "623",
+        "name": "BELLINZAGO"
+    },
+    {
+        "code": "624",
+        "name": "BELLISIO SOLFARE"
+    },
+    {
+        "code": "625",
+        "name": "BELLUNO"
+    },
+    {
+        "code": "15",
+        "name": "BELMONTE CALABRO"
+    },
+    {
+        "code": "16",
+        "name": "BELVEDERE MARITTIMO"
+    },
+    {
+        "code": "626",
+        "name": "BENEVENTO"
+    },
+    {
+        "code": "628",
+        "name": "BENEVENTO ARCO TRAIANO"
+    },
+    {
+        "code": "670",
+        "name": "BENEVENTO PORTA RUFINA"
+    },
+    {
+        "code": "629",
+        "name": "BERCETO"
+    },
+    {
+        "code": "630",
+        "name": "BERCHIDDA"
+    },
+    {
+        "code": "631",
+        "name": "BERGAMASCO"
+    },
+    {
+        "code": "632",
+        "name": "BERGAMO"
+    },
+    {
+        "code": "3183",
+        "name": "BERGAMO OSPEDALE"
+    },
+    {
+        "code": "633",
+        "name": "BERNALDA"
+    },
+    {
+        "code": "634",
+        "name": "BESANA"
+    },
+    {
+        "code": "635",
+        "name": "BESNATE"
+    },
+    {
+        "code": "636",
+        "name": "BESOZZO"
+    },
+    {
+        "code": "200",
+        "name": "BEVERA"
+    },
+    {
+        "code": "638",
+        "name": "BEVILACQUA"
+    },
+    {
+        "code": "639",
+        "name": "BIAGIONI LAGACCI"
+    },
+    {
+        "code": "17",
+        "name": "BIANCO"
+    },
+    {
+        "code": "640",
+        "name": "BIANZE'"
+    },
+    {
+        "code": "641",
+        "name": "BIANZONE"
+    },
+    {
+        "code": "642",
+        "name": "BIASSONO-LESMO PARCO"
+    },
+    {
+        "code": "646",
+        "name": "BIBIANA"
+    },
+    {
+        "code": "647",
+        "name": "BICOCCA"
+    },
+    {
+        "code": "649",
+        "name": "BIELLA S.PAOLO"
+    },
+    {
+        "code": "650",
+        "name": "BIFORCO"
+    },
+    {
+        "code": "652",
+        "name": "BISCEGLIE"
+    },
+    {
+        "code": "653",
+        "name": "BISTAGNO"
+    },
+    {
+        "code": "654",
+        "name": "BISUSCHIO-VIGGIU'"
+    },
+    {
+        "code": "655",
+        "name": "BITETTO PALO DEL COLLE"
+    },
+    {
+        "code": "3235",
+        "name": "BITRITTO"
+    },
+    {
+        "code": "520",
+        "name": "BIVIO D'AURISINA"
+    },
+    {
+        "code": "213",
+        "name": "BOGLIASCO"
+    },
+    {
+        "code": "681",
+        "name": "BOIANO"
+    },
+    {
+        "code": "682",
+        "name": "BOLGHERI"
+    },
+    {
+        "code": "672",
+        "name": "BOLOGNA BORGO PANIGALE"
+    },
+    {
+        "code": "942",
+        "name": "BOLOGNA C.LE/AV"
+    },
+    {
+        "code": "683",
+        "name": "BOLOGNA CENTRALE"
+    },
+    {
+        "code": "673",
+        "name": "BOLOGNA CORTICELLA"
+    },
+    {
+        "code": "1249",
+        "name": "BOLOGNA FIERE"
+    },
+    {
+        "code": "1709",
+        "name": "BOLOGNA MAZZINI"
+    },
+    {
+        "code": "679",
+        "name": "BOLOGNA S.RUFFILLO"
+    },
+    {
+        "code": "2003",
+        "name": "BOLOGNA S.VITALE"
+    },
+    {
+        "code": "685",
+        "name": "BOLZANO"
+    },
+    {
+        "code": "1966",
+        "name": "BOLZANO CASANOVA"
+    },
+    {
+        "code": "686",
+        "name": "BOLZANO NOVARESE"
+    },
+    {
+        "code": "687",
+        "name": "BOLZANO SUD"
+    },
+    {
+        "code": "214",
+        "name": "BONASSOLA"
+    },
+    {
+        "code": "689",
+        "name": "BONEFRO S.CROCE"
+    },
+    {
+        "code": "690",
+        "name": "BONFERRARO"
+    },
+    {
+        "code": "691",
+        "name": "BONORVA"
+    },
+    {
+        "code": "215",
+        "name": "BORDIGHERA"
+    },
+    {
+        "code": "5035",
+        "name": "BORGARO"
+    },
+    {
+        "code": "693",
+        "name": "BORGHETTO PARMENSE"
+    },
+    {
+        "code": "216",
+        "name": "BORGHETTO S.SPIRITO"
+    },
+    {
+        "code": "694",
+        "name": "BORGHETTO SULL'ADIGE"
+    },
+    {
+        "code": "217",
+        "name": "BORGIO VEREZZI"
+    },
+    {
+        "code": "695",
+        "name": "BORGO"
+    },
+    {
+        "code": "696",
+        "name": "BORGO A BUGGIANO"
+    },
+    {
+        "code": "697",
+        "name": "BORGO A MOZZANO"
+    },
+    {
+        "code": "218",
+        "name": "BORGO FORNARI PER VOLTAGGIO"
+    },
+    {
+        "code": "698",
+        "name": "BORGO LAVEZZARO"
+    },
+    {
+        "code": "699",
+        "name": "BORGO REVEL"
+    },
+    {
+        "code": "700",
+        "name": "BORGO S.DALMAZZO"
+    },
+    {
+        "code": "701",
+        "name": "BORGO S.LORENZO"
+    },
+    {
+        "code": "702",
+        "name": "BORGO S.LORENZO RIMORELLI"
+    },
+    {
+        "code": "703",
+        "name": "BORGO S.MARTINO"
+    },
+    {
+        "code": "704",
+        "name": "BORGO TICINO"
+    },
+    {
+        "code": "705",
+        "name": "BORGO VAL DI TARO"
+    },
+    {
+        "code": "706",
+        "name": "BORGO VALSUGANA CENTRO"
+    },
+    {
+        "code": "3503",
+        "name": "BORGO VALSUGANA EST"
+    },
+    {
+        "code": "707",
+        "name": "BORGO VERCELLI"
+    },
+    {
+        "code": "1547",
+        "name": "BORGOCHIESANUOVA"
+    },
+    {
+        "code": "709",
+        "name": "BORGOFRANCO"
+    },
+    {
+        "code": "710",
+        "name": "BORGOLOMBARDO"
+    },
+    {
+        "code": "711",
+        "name": "BORGOMANERO"
+    },
+    {
+        "code": "712",
+        "name": "BORGONE"
+    },
+    {
+        "code": "713",
+        "name": "BORGONUOVO"
+    },
+    {
+        "code": "714",
+        "name": "BORGORATTO"
+    },
+    {
+        "code": "715",
+        "name": "BORGOSESIA"
+    },
+    {
+        "code": "716",
+        "name": "BORORE"
+    },
+    {
+        "code": "717",
+        "name": "BOSCHI S.ANNA"
+    },
+    {
+        "code": "5023",
+        "name": "BOSCONERO"
+    },
+    {
+        "code": "21",
+        "name": "BOTRICELLO"
+    },
+    {
+        "code": "5075",
+        "name": "BOTTENICCO ZONA INDUSTRIALE"
+    },
+    {
+        "code": "22",
+        "name": "BOVA MARINA"
+    },
+    {
+        "code": "23",
+        "name": "BOVALINO"
+    },
+    {
+        "code": "722",
+        "name": "BOVINO DELICETO"
+    },
+    {
+        "code": "724",
+        "name": "BOVOLONE"
+    },
+    {
+        "code": "725",
+        "name": "BOZZOLO"
+    },
+    {
+        "code": "727",
+        "name": "BRA"
+    },
+    {
+        "code": "728",
+        "name": "BRACCIANO"
+    },
+    {
+        "code": "3437",
+        "name": "BRAGNO"
+    },
+    {
+        "code": "24",
+        "name": "BRANCALEONE"
+    },
+    {
+        "code": "729",
+        "name": "BRANDIZZO"
+    },
+    {
+        "code": "730",
+        "name": "BREIL SUR ROYA"
+    },
+    {
+        "code": "731",
+        "name": "BRENNA-ALZATE"
+    },
+    {
+        "code": "732",
+        "name": "BRENNERO"
+    },
+    {
+        "code": "734",
+        "name": "BRESCIA"
+    },
+    {
+        "code": "736",
+        "name": "BRESSANA ARGINE"
+    },
+    {
+        "code": "737",
+        "name": "BRESSANA BOTTARONE"
+    },
+    {
+        "code": "738",
+        "name": "BRESSANONE"
+    },
+    {
+        "code": "25",
+        "name": "BRIATICO"
+    },
+    {
+        "code": "740",
+        "name": "BRICHERASIO"
+    },
+    {
+        "code": "741",
+        "name": "BRINDISI"
+    },
+    {
+        "code": "2723",
+        "name": "BRINDISI CITTADELLA DELLA RICERCA"
+    },
+    {
+        "code": "2786",
+        "name": "BRINDISI PERRINO"
+    },
+    {
+        "code": "743",
+        "name": "BRIONA"
+    },
+    {
+        "code": "744",
+        "name": "BRISIGHELLA"
+    },
+    {
+        "code": "745",
+        "name": "BROLO FICARRA"
+    },
+    {
+        "code": "746",
+        "name": "BRONI"
+    },
+    {
+        "code": "747",
+        "name": "BRONZOLO"
+    },
+    {
+        "code": "748",
+        "name": "BROZOLO"
+    },
+    {
+        "code": "750",
+        "name": "BRUCOLI"
+    },
+    {
+        "code": "751",
+        "name": "BRUNICO"
+    },
+    {
+        "code": "1967",
+        "name": "BRUNICO NORD"
+    },
+    {
+        "code": "752",
+        "name": "BRUNO"
+    },
+    {
+        "code": "753",
+        "name": "BRUZOLO DI SUSA"
+    },
+    {
+        "code": "754",
+        "name": "BUCCINO S.GREGORIO MAGNO"
+    },
+    {
+        "code": "755",
+        "name": "BUCINE"
+    },
+    {
+        "code": "756",
+        "name": "BUDOIA POLCENIGO"
+    },
+    {
+        "code": "757",
+        "name": "BUGNARA"
+    },
+    {
+        "code": "758",
+        "name": "BUONCONVENTO"
+    },
+    {
+        "code": "760",
+        "name": "BURONZO"
+    },
+    {
+        "code": "2386",
+        "name": "BUSA DI VIGONZA"
+    },
+    {
+        "code": "219",
+        "name": "BUSALLA"
+    },
+    {
+        "code": "761",
+        "name": "BUSCA"
+    },
+    {
+        "code": "762",
+        "name": "BUSCHE LENTIAI MEL"
+    },
+    {
+        "code": "763",
+        "name": "BUSSETO"
+    },
+    {
+        "code": "764",
+        "name": "BUSSI"
+    },
+    {
+        "code": "765",
+        "name": "BUSSOLENO"
+    },
+    {
+        "code": "766",
+        "name": "BUSTO ARSIZIO"
+    },
+    {
+        "code": "768",
+        "name": "BUTTAFAVA"
+    },
+    {
+        "code": "769",
+        "name": "BUTTAPIETRA"
+    },
+    {
+        "code": "770",
+        "name": "BUTTRIO"
+    },
+    {
+        "code": "778",
+        "name": "CA` DI BOSCHETTI"
+    },
+    {
+        "code": "785",
+        "name": "CADEO"
+    },
+    {
+        "code": "787",
+        "name": "CAGLIARI"
+    },
+    {
+        "code": "788",
+        "name": "CAGLIARI ELMAS"
+    },
+    {
+        "code": "3164",
+        "name": "CAGLIARI S.GILLA"
+    },
+    {
+        "code": "790",
+        "name": "CAIRO MONTENOTTE"
+    },
+    {
+        "code": "791",
+        "name": "CALA SABINA"
+    },
+    {
+        "code": "792",
+        "name": "CALALZO PIEVE CADORE CORTINA"
+    },
+    {
+        "code": "793",
+        "name": "CALAMANDRANA"
+    },
+    {
+        "code": "794",
+        "name": "CALATABIANO"
+    },
+    {
+        "code": "795",
+        "name": "CALATAFIMI"
+    },
+    {
+        "code": "797",
+        "name": "CALCERANICA"
+    },
+    {
+        "code": "801",
+        "name": "CALDE'"
+    },
+    {
+        "code": "3537",
+        "name": "CALDERARA-BARGELLINO"
+    },
+    {
+        "code": "803",
+        "name": "CALDONAZZO"
+    },
+    {
+        "code": "804",
+        "name": "CALENZANO"
+    },
+    {
+        "code": "3223",
+        "name": "CALLIANO"
+    },
+    {
+        "code": "807",
+        "name": "CALOLZIOCORTE OLGINATE"
+    },
+    {
+        "code": "26",
+        "name": "CALOPEZZATI"
+    },
+    {
+        "code": "809",
+        "name": "CALTAGIRONE"
+    },
+    {
+        "code": "772",
+        "name": "CALTANISSETTA CENTRALE"
+    },
+    {
+        "code": "773",
+        "name": "CALTANISSETTA XIRBI"
+    },
+    {
+        "code": "810",
+        "name": "CALTIGNAGA"
+    },
+    {
+        "code": "811",
+        "name": "CALUSCO"
+    },
+    {
+        "code": "812",
+        "name": "CALUSO"
+    },
+    {
+        "code": "813",
+        "name": "CALVISANO"
+    },
+    {
+        "code": "814",
+        "name": "CAMAIORE LIDO CAPEZZANO"
+    },
+    {
+        "code": "817",
+        "name": "CAMBIANO SANTENA"
+    },
+    {
+        "code": "2439",
+        "name": "CAMERANO ASPIO"
+    },
+    {
+        "code": "818",
+        "name": "CAMMARATA S.GIOVANNI GEMINI"
+    },
+    {
+        "code": "819",
+        "name": "CAMNAGO-LENTATE"
+    },
+    {
+        "code": "221",
+        "name": "CAMOGLI S.FRUTTUOSO"
+    },
+    {
+        "code": "820",
+        "name": "CAMPAGNA SERRE PERSANO"
+    },
+    {
+        "code": "822",
+        "name": "CAMPELLO SUL CLITUNNO"
+    },
+    {
+        "code": "823",
+        "name": "CAMPIGLIA MARITTIMA"
+    },
+    {
+        "code": "2174",
+        "name": "CAMPO DI CARNE"
+    },
+    {
+        "code": "824",
+        "name": "CAMPO DI GIOVE"
+    },
+    {
+        "code": "771",
+        "name": "CAMPO DI GIOVE-MONTE MAIELLA"
+    },
+    {
+        "code": "826",
+        "name": "CAMPO DI TRENS"
+    },
+    {
+        "code": "222",
+        "name": "CAMPO LIGURE-MASONE"
+    },
+    {
+        "code": "827",
+        "name": "CAMPOBASSO"
+    },
+    {
+        "code": "828",
+        "name": "CAMPOBELLO DI MAZARA"
+    },
+    {
+        "code": "829",
+        "name": "CAMPOBELLO RAVANUSA"
+    },
+    {
+        "code": "831",
+        "name": "CAMPODARSEGO"
+    },
+    {
+        "code": "832",
+        "name": "CAMPOFELICE"
+    },
+    {
+        "code": "833",
+        "name": "CAMPOFRANCO"
+    },
+    {
+        "code": "835",
+        "name": "CAMPOLEONE"
+    },
+    {
+        "code": "836",
+        "name": "CAMPOLIETO MONACILIONI"
+    },
+    {
+        "code": "838",
+        "name": "CAMPOMARINO"
+    },
+    {
+        "code": "3421",
+        "name": "CAMPOMIGLIAIO"
+    },
+    {
+        "code": "27",
+        "name": "CAMPORA S.GIOVANNI SERRA AIELLO"
+    },
+    {
+        "code": "840",
+        "name": "CAMPORGIANO"
+    },
+    {
+        "code": "842",
+        "name": "CAMPOSAMPIERO"
+    },
+    {
+        "code": "843",
+        "name": "CAMPOSANTO"
+    },
+    {
+        "code": "844",
+        "name": "CAMUCIA CORTONA"
+    },
+    {
+        "code": "845",
+        "name": "CANARO"
+    },
+    {
+        "code": "847",
+        "name": "CANCELLIERA"
+    },
+    {
+        "code": "848",
+        "name": "CANCELLO"
+    },
+    {
+        "code": "849",
+        "name": "CANCELLO ARNONE"
+    },
+    {
+        "code": "852",
+        "name": "CANDELO"
+    },
+    {
+        "code": "853",
+        "name": "CANDIA CANAVESE"
+    },
+    {
+        "code": "854",
+        "name": "CANDIA LOMELLINA"
+    },
+    {
+        "code": "856",
+        "name": "CANDIOLO"
+    },
+    {
+        "code": "858",
+        "name": "CANEGRATE"
+    },
+    {
+        "code": "859",
+        "name": "CANELLI"
+    },
+    {
+        "code": "860",
+        "name": "CANETRA"
+    },
+    {
+        "code": "861",
+        "name": "CANICATTI'"
+    },
+    {
+        "code": "863",
+        "name": "CANISTRO"
+    },
+    {
+        "code": "865",
+        "name": "CANNE DELLA BATTAGLIA"
+    },
+    {
+        "code": "866",
+        "name": "CANNETO SULL'OGLIO"
+    },
+    {
+        "code": "867",
+        "name": "CANNIZZARO"
+    },
+    {
+        "code": "868",
+        "name": "CANOSA DI PUGLIA"
+    },
+    {
+        "code": "5422",
+        "name": "CANOSCIO"
+    },
+    {
+        "code": "3181",
+        "name": "CANSANO"
+    },
+    {
+        "code": "3256",
+        "name": "CANSANO SCAVI DI OCRITICUM"
+    },
+    {
+        "code": "2974",
+        "name": "CANTELLO GAGGIOLO"
+    },
+    {
+        "code": "872",
+        "name": "CANTU'"
+    },
+    {
+        "code": "873",
+        "name": "CANTU'-CERMENATE"
+    },
+    {
+        "code": "874",
+        "name": "CAORSO"
+    },
+    {
+        "code": "28",
+        "name": "CAPACCIO ROCCADASPIDE"
+    },
+    {
+        "code": "3224",
+        "name": "CAPACI"
+    },
+    {
+        "code": "876",
+        "name": "CAPALBIO"
+    },
+    {
+        "code": "877",
+        "name": "CAPANNELLE"
+    },
+    {
+        "code": "878",
+        "name": "CAPISTRELLO"
+    },
+    {
+        "code": "30",
+        "name": "CAPO BONIFATI"
+    },
+    {
+        "code": "879",
+        "name": "CAPO D'ORLANDO-NASO"
+    },
+    {
+        "code": "31",
+        "name": "CAPO SPARTIVENTO"
+    },
+    {
+        "code": "880",
+        "name": "CAPOCROCE"
+    },
+    {
+        "code": "882",
+        "name": "CAPPELLE-MAGLIANO"
+    },
+    {
+        "code": "883",
+        "name": "CAPRALBA"
+    },
+    {
+        "code": "884",
+        "name": "CAPRANICA-SUTRI"
+    },
+    {
+        "code": "886",
+        "name": "CAPRIATI AL VOLTURNO"
+    },
+    {
+        "code": "888",
+        "name": "CAPRIVA"
+    },
+    {
+        "code": "889",
+        "name": "CAPUA"
+    },
+    {
+        "code": "891",
+        "name": "CARATE-CALO'"
+    },
+    {
+        "code": "892",
+        "name": "CARAVAGGIO"
+    },
+    {
+        "code": "893",
+        "name": "CARBONA"
+    },
+    {
+        "code": "968",
+        "name": "CARBONIA SERBARIU"
+    },
+    {
+        "code": "894",
+        "name": "CARBONIA STATO"
+    },
+    {
+        "code": "898",
+        "name": "CARENTINO"
+    },
+    {
+        "code": "34",
+        "name": "CARIATI"
+    },
+    {
+        "code": "899",
+        "name": "CARIMATE"
+    },
+    {
+        "code": "900",
+        "name": "CARINI"
+    },
+    {
+        "code": "3442",
+        "name": "CARINI TORRE CIACHEA"
+    },
+    {
+        "code": "902",
+        "name": "CARMAGNOLA"
+    },
+    {
+        "code": "904",
+        "name": "CARMIGNANO DI BRENTA"
+    },
+    {
+        "code": "905",
+        "name": "CARNATE USMATE"
+    },
+    {
+        "code": "906",
+        "name": "CARNIA"
+    },
+    {
+        "code": "908",
+        "name": "CARONIA"
+    },
+    {
+        "code": "909",
+        "name": "CAROVIGNO"
+    },
+    {
+        "code": "910",
+        "name": "CAROVILLI-ROCCASICURA"
+    },
+    {
+        "code": "911",
+        "name": "CARPANE'-VALSTAGNA"
+    },
+    {
+        "code": "912",
+        "name": "CARPI"
+    },
+    {
+        "code": "913",
+        "name": "CARPIGNANO SESIA"
+    },
+    {
+        "code": "914",
+        "name": "CARPINONE"
+    },
+    {
+        "code": "915",
+        "name": "CARRARA AVENZA"
+    },
+    {
+        "code": "916",
+        "name": "CARRITO-ORTONA"
+    },
+    {
+        "code": "918",
+        "name": "CARRUBA"
+    },
+    {
+        "code": "919",
+        "name": "CARSOLI"
+    },
+    {
+        "code": "921",
+        "name": "CASABIANCA"
+    },
+    {
+        "code": "922",
+        "name": "CASACALENDA GUARDIALFIERA"
+    },
+    {
+        "code": "924",
+        "name": "CASALBORDINO POLLUTRI"
+    },
+    {
+        "code": "926",
+        "name": "CASALBUTTANO"
+    },
+    {
+        "code": "927",
+        "name": "CASALE MONFERRATO"
+    },
+    {
+        "code": "929",
+        "name": "CASALECCHIO DI RENO"
+    },
+    {
+        "code": "3506",
+        "name": "CASALECCHIO GARIBALDI"
+    },
+    {
+        "code": "930",
+        "name": "CASALEGGIO"
+    },
+    {
+        "code": "932",
+        "name": "CASALETTO VAPRIO"
+    },
+    {
+        "code": "934",
+        "name": "CASALMAGGIORE"
+    },
+    {
+        "code": "935",
+        "name": "CASALNUOVO"
+    },
+    {
+        "code": "937",
+        "name": "CASALPUSTERLENGO"
+    },
+    {
+        "code": "938",
+        "name": "CASARSA"
+    },
+    {
+        "code": "939",
+        "name": "CASCINA"
+    },
+    {
+        "code": "5036",
+        "name": "CASELLE TORINESE"
+    },
+    {
+        "code": "945",
+        "name": "CASERTA"
+    },
+    {
+        "code": "946",
+        "name": "CASINO DI TERRA"
+    },
+    {
+        "code": "947",
+        "name": "CASLETTO-ROGENO"
+    },
+    {
+        "code": "948",
+        "name": "CASORATE SEMPIONE"
+    },
+    {
+        "code": "949",
+        "name": "CASORIA-AFRAGOLA"
+    },
+    {
+        "code": "950",
+        "name": "CASSAGO-NIBIONNO-BULCIAGO"
+    },
+    {
+        "code": "951",
+        "name": "CASSANO D'ADDA"
+    },
+    {
+        "code": "954",
+        "name": "CASSINE"
+    },
+    {
+        "code": "955",
+        "name": "CASSINO"
+    },
+    {
+        "code": "956",
+        "name": "CASSOLA"
+    },
+    {
+        "code": "959",
+        "name": "CASTAGNARO"
+    },
+    {
+        "code": "960",
+        "name": "CASTAGNETO CARDUCCI-DONORATICO"
+    },
+    {
+        "code": "961",
+        "name": "CASTAGNO"
+    },
+    {
+        "code": "962",
+        "name": "CASTAGNOLE DELLE LANZE"
+    },
+    {
+        "code": "964",
+        "name": "CASTEGGIO"
+    },
+    {
+        "code": "967",
+        "name": "CASTEL D'ARIO"
+    },
+    {
+        "code": "969",
+        "name": "CASTEL DI SANGRO"
+    },
+    {
+        "code": "970",
+        "name": "CASTEL GANDOLFO"
+    },
+    {
+        "code": "971",
+        "name": "CASTEL LAGOPESOLE"
+    },
+    {
+        "code": "972",
+        "name": "CASTEL MADAMA"
+    },
+    {
+        "code": "973",
+        "name": "CASTEL S.ANGELO"
+    },
+    {
+        "code": "974",
+        "name": "CASTEL S.GIORGIO ROCCAPIEMONTE"
+    },
+    {
+        "code": "975",
+        "name": "CASTEL S.GIOVANNI"
+    },
+    {
+        "code": "976",
+        "name": "CASTEL S.PIETRO TERME"
+    },
+    {
+        "code": "978",
+        "name": "CASTELBOLOGNESE-RIOLO TERME"
+    },
+    {
+        "code": "980",
+        "name": "CASTELDACCIA"
+    },
+    {
+        "code": "981",
+        "name": "CASTELDARNE"
+    },
+    {
+        "code": "3505",
+        "name": "CASTELDEBOLE"
+    },
+    {
+        "code": "982",
+        "name": "CASTELFERRETTI-FALCONARA AEROPORTO"
+    },
+    {
+        "code": "983",
+        "name": "CASTELFIORENTINO"
+    },
+    {
+        "code": "985",
+        "name": "CASTELFRANCO EMILIA"
+    },
+    {
+        "code": "987",
+        "name": "CASTELFRANCO VENETO"
+    },
+    {
+        "code": "988",
+        "name": "CASTELGUELFO"
+    },
+    {
+        "code": "989",
+        "name": "CASTELL'ALFERO"
+    },
+    {
+        "code": "991",
+        "name": "CASTELLALTO CANZANO"
+    },
+    {
+        "code": "958",
+        "name": "CASTELLAMMARE DEL GOLFO"
+    },
+    {
+        "code": "992",
+        "name": "CASTELLAMMARE DI STABIA"
+    },
+    {
+        "code": "993",
+        "name": "CASTELLANETA"
+    },
+    {
+        "code": "994",
+        "name": "CASTELLANETA MARINA"
+    },
+    {
+        "code": "997",
+        "name": "CASTELLEONE"
+    },
+    {
+        "code": "999",
+        "name": "CASTELLETTO TICINO"
+    },
+    {
+        "code": "1000",
+        "name": "CASTELLINA IN CHIANTI-MONTERIGGIONI"
+    },
+    {
+        "code": "1004",
+        "name": "CASTELLO D'ANNONE"
+    },
+    {
+        "code": "957",
+        "name": "CASTELLO DI GODEGO"
+    },
+    {
+        "code": "1005",
+        "name": "CASTELLUCCHIO"
+    },
+    {
+        "code": "1007",
+        "name": "CASTELMAGGIORE"
+    },
+    {
+        "code": "1009",
+        "name": "CASTELNUOVO BELBO"
+    },
+    {
+        "code": "1010",
+        "name": "CASTELNUOVO BERARDENGA"
+    },
+    {
+        "code": "1011",
+        "name": "CASTELNUOVO DEL GARDA"
+    },
+    {
+        "code": "1012",
+        "name": "CASTELNUOVO DI GARFAGNANA"
+    },
+    {
+        "code": "1013",
+        "name": "CASTELPLANIO CUPRAMONTANA"
+    },
+    {
+        "code": "1014",
+        "name": "CASTELRAIMONDO CAMERINO"
+    },
+    {
+        "code": "1015",
+        "name": "CASTELROSSO"
+    },
+    {
+        "code": "1016",
+        "name": "CASTELVECCHIO PASCOLI"
+    },
+    {
+        "code": "1018",
+        "name": "CASTELVETRANO"
+    },
+    {
+        "code": "1019",
+        "name": "CASTELVETRO"
+    },
+    {
+        "code": "1020",
+        "name": "CASTIGLION DEL LAGO"
+    },
+    {
+        "code": "1021",
+        "name": "CASTIGLION FIORENTINO"
+    },
+    {
+        "code": "1022",
+        "name": "CASTIGLIONCELLO"
+    },
+    {
+        "code": "38",
+        "name": "CASTIGLIONE COSENTINO"
+    },
+    {
+        "code": "1025",
+        "name": "CASTIONE ANDEVENNO"
+    },
+    {
+        "code": "1026",
+        "name": "CASTIONE DEI MARCHESI"
+    },
+    {
+        "code": "1027",
+        "name": "CASTRO-POFI-VALLECORSA"
+    },
+    {
+        "code": "1029",
+        "name": "CASTRONNO"
+    },
+    {
+        "code": "1031",
+        "name": "CATANIA ACQUICELLA"
+    },
+    {
+        "code": "3209",
+        "name": "CATANIA AEROPORTO FONTANAROSSA"
+    },
+    {
+        "code": "1032",
+        "name": "CATANIA CENTRALE"
+    },
+    {
+        "code": "39",
+        "name": "CATANZARO"
+    },
+    {
+        "code": "40",
+        "name": "CATANZARO LIDO"
+    },
+    {
+        "code": "1034",
+        "name": "CATENANUOVA-CENTURIPE"
+    },
+    {
+        "code": "1035",
+        "name": "CATTOLICA S.GIOVANNI GABICCE"
+    },
+    {
+        "code": "41",
+        "name": "CAULONIA"
+    },
+    {
+        "code": "1037",
+        "name": "CAVA CARBONARA"
+    },
+    {
+        "code": "1038",
+        "name": "CAVA DEI TIRRENI"
+    },
+    {
+        "code": "1040",
+        "name": "CAVA TIGOZZI"
+    },
+    {
+        "code": "1041",
+        "name": "CAVAGNOLO BRUSASCO"
+    },
+    {
+        "code": "1042",
+        "name": "CAVALLEGGERI AOSTA"
+    },
+    {
+        "code": "1043",
+        "name": "CAVALLERMAGGIORE"
+    },
+    {
+        "code": "1044",
+        "name": "CAVANELLA D'ADIGE"
+    },
+    {
+        "code": "1046",
+        "name": "CAVARIA OGGIONA IERAGO"
+    },
+    {
+        "code": "1047",
+        "name": "CAVAZZALE"
+    },
+    {
+        "code": "227",
+        "name": "CAVI"
+    },
+    {
+        "code": "1049",
+        "name": "CECCANO"
+    },
+    {
+        "code": "1050",
+        "name": "CECCHINA"
+    },
+    {
+        "code": "1051",
+        "name": "CECINA"
+    },
+    {
+        "code": "1053",
+        "name": "CEFALU'"
+    },
+    {
+        "code": "1054",
+        "name": "CEGGIA"
+    },
+    {
+        "code": "1055",
+        "name": "CELANO-OVINDOLI"
+    },
+    {
+        "code": "228",
+        "name": "CELLE"
+    },
+    {
+        "code": "42",
+        "name": "CELLE BULGHERIA ROCCAGLORIOSA"
+    },
+    {
+        "code": "1056",
+        "name": "CENGIO"
+    },
+    {
+        "code": "1057",
+        "name": "CENTALLO"
+    },
+    {
+        "code": "43",
+        "name": "CENTOLA-PALINURO-MARINA DI CAMEROTA"
+    },
+    {
+        "code": "1058",
+        "name": "CEPRANO-FALVATERRA"
+    },
+    {
+        "code": "5416",
+        "name": "CERBARA"
+    },
+    {
+        "code": "1061",
+        "name": "CERCHIO"
+    },
+    {
+        "code": "1062",
+        "name": "CERDA"
+    },
+    {
+        "code": "1063",
+        "name": "CEREA"
+    },
+    {
+        "code": "1064",
+        "name": "CEREGNANO"
+    },
+    {
+        "code": "229",
+        "name": "CERIALE"
+    },
+    {
+        "code": "1065",
+        "name": "CERIGNOLA CAMPAGNA"
+    },
+    {
+        "code": "1066",
+        "name": "CERNUSCO-MERATE"
+    },
+    {
+        "code": "5444",
+        "name": "CERQUETO"
+    },
+    {
+        "code": "1067",
+        "name": "CERRETO D'ESI"
+    },
+    {
+        "code": "1068",
+        "name": "CERTALDO"
+    },
+    {
+        "code": "1069",
+        "name": "CERTOSA DI PAVIA"
+    },
+    {
+        "code": "1072",
+        "name": "CERVIA-MILANO MARITTIMA"
+    },
+    {
+        "code": "1073",
+        "name": "CERVIGNANO-AQUILEIA-GRADO"
+    },
+    {
+        "code": "780",
+        "name": "CESANO BOSCONE"
+    },
+    {
+        "code": "1075",
+        "name": "CESANO DI ROMA"
+    },
+    {
+        "code": "1077",
+        "name": "CESENA"
+    },
+    {
+        "code": "1078",
+        "name": "CESENATICO"
+    },
+    {
+        "code": "5267",
+        "name": "CESI"
+    },
+    {
+        "code": "44",
+        "name": "CETRARO"
+    },
+    {
+        "code": "1079",
+        "name": "CEVA"
+    },
+    {
+        "code": "1081",
+        "name": "CHATILLON-SAINT-VINCENT"
+    },
+    {
+        "code": "1083",
+        "name": "CHIANCHE CEPPALONI"
+    },
+    {
+        "code": "1084",
+        "name": "CHIARAVALLE"
+    },
+    {
+        "code": "1085",
+        "name": "CHIARI"
+    },
+    {
+        "code": "1087",
+        "name": "CHIASSO"
+    },
+    {
+        "code": "231",
+        "name": "CHIAVARI"
+    },
+    {
+        "code": "1089",
+        "name": "CHIAVENNA"
+    },
+    {
+        "code": "1090",
+        "name": "CHIERI"
+    },
+    {
+        "code": "1091",
+        "name": "CHIETI"
+    },
+    {
+        "code": "2663",
+        "name": "CHIETI-MADONNA DELLE PIANE"
+    },
+    {
+        "code": "1092",
+        "name": "CHIEUTI SERRACAPRIOLA"
+    },
+    {
+        "code": "1093",
+        "name": "CHIGNOLO PO"
+    },
+    {
+        "code": "1094",
+        "name": "CHIOGGIA"
+    },
+    {
+        "code": "1095",
+        "name": "CHIOMONTE"
+    },
+    {
+        "code": "1099",
+        "name": "CHIUDUNO"
+    },
+    {
+        "code": "1100",
+        "name": "CHIURO"
+    },
+    {
+        "code": "1101",
+        "name": "CHIUSA"
+    },
+    {
+        "code": "1103",
+        "name": "CHIUSANO COSSOMBRATO"
+    },
+    {
+        "code": "1104",
+        "name": "CHIUSI-CHIANCIANO TERME"
+    },
+    {
+        "code": "1105",
+        "name": "CHIVASSO"
+    },
+    {
+        "code": "1106",
+        "name": "CIAMPINO"
+    },
+    {
+        "code": "1110",
+        "name": "CINISI TERRASINI"
+    },
+    {
+        "code": "5039",
+        "name": "CIRIE'"
+    },
+    {
+        "code": "46",
+        "name": "CIRO'"
+    },
+    {
+        "code": "1111",
+        "name": "CISANO CAPRINO BERGAMASCO"
+    },
+    {
+        "code": "1112",
+        "name": "CISMON DEL GRAPPA"
+    },
+    {
+        "code": "1113",
+        "name": "CISTERNA DI LATINA"
+    },
+    {
+        "code": "1114",
+        "name": "CISTERNINO"
+    },
+    {
+        "code": "5419",
+        "name": "CITTA' DI CASTELLO"
+    },
+    {
+        "code": "5418",
+        "name": "CITTA` DI CASTELLO - FORNACE"
+    },
+    {
+        "code": "5417",
+        "name": "CITTA` DI CASTELLO - ZONA INDUSTRIALE"
+    },
+    {
+        "code": "1117",
+        "name": "CITTADELLA"
+    },
+    {
+        "code": "1118",
+        "name": "CITTADUCALE"
+    },
+    {
+        "code": "1119",
+        "name": "CIVATE"
+    },
+    {
+        "code": "799",
+        "name": "CIVIDATE-CALCIO"
+    },
+    {
+        "code": "1120",
+        "name": "CIVITA CASTELLANA-MAGLIANO"
+    },
+    {
+        "code": "1121",
+        "name": "CIVITA D'ANTINO-MORINO"
+    },
+    {
+        "code": "1122",
+        "name": "CIVITANOVA MARCHE-MONTEGRANARO"
+    },
+    {
+        "code": "1123",
+        "name": "CIVITAVECCHIA"
+    },
+    {
+        "code": "1124",
+        "name": "CIVITELLA PAGANICO"
+    },
+    {
+        "code": "1125",
+        "name": "CIVITELLA ROVETO"
+    },
+    {
+        "code": "1127",
+        "name": "CLASSE"
+    },
+    {
+        "code": "1128",
+        "name": "COCCAGLIO"
+    },
+    {
+        "code": "1129",
+        "name": "COCCONATO"
+    },
+    {
+        "code": "1130",
+        "name": "COCULLO"
+    },
+    {
+        "code": "1134",
+        "name": "CODOGNO"
+    },
+    {
+        "code": "1135",
+        "name": "CODOLA"
+    },
+    {
+        "code": "1136",
+        "name": "CODROIPO"
+    },
+    {
+        "code": "232",
+        "name": "COGOLETO"
+    },
+    {
+        "code": "1138",
+        "name": "COLFELICE"
+    },
+    {
+        "code": "1139",
+        "name": "COLICO"
+    },
+    {
+        "code": "1140",
+        "name": "COLLARMELE"
+    },
+    {
+        "code": "1141",
+        "name": "COLLE ISARCO"
+    },
+    {
+        "code": "1142",
+        "name": "COLLE MATTIA"
+    },
+    {
+        "code": "1144",
+        "name": "COLLECCHIO"
+    },
+    {
+        "code": "1145",
+        "name": "COLLEFERRO-SEGNI-PALIANO"
+    },
+    {
+        "code": "1146",
+        "name": "COLLEGNO"
+    },
+    {
+        "code": "5450",
+        "name": "COLLEVALENZA R.R."
+    },
+    {
+        "code": "1148",
+        "name": "COLLEVECCHIO-POGGIO SOMMAVILLA"
+    },
+    {
+        "code": "2333",
+        "name": "COLLI DEL TRONTO"
+    },
+    {
+        "code": "1149",
+        "name": "COLLI DI MONTE BOVE"
+    },
+    {
+        "code": "1151",
+        "name": "COLOGNE"
+    },
+    {
+        "code": "1152",
+        "name": "COLONNA GALLERIA"
+    },
+    {
+        "code": "1153",
+        "name": "COLORNO"
+    },
+    {
+        "code": "1154",
+        "name": "COMIGNAGO"
+    },
+    {
+        "code": "1155",
+        "name": "COMISO"
+    },
+    {
+        "code": "3222",
+        "name": "COMO CAMERLATA"
+    },
+    {
+        "code": "1158",
+        "name": "COMO S.GIOVANNI"
+    },
+    {
+        "code": "1159",
+        "name": "COMPIOBBI"
+    },
+    {
+        "code": "1160",
+        "name": "COMPRE S.VINCENZO"
+    },
+    {
+        "code": "48",
+        "name": "CONDOFURI"
+    },
+    {
+        "code": "1162",
+        "name": "CONDOVE-CHIUSA S.MICHELE"
+    },
+    {
+        "code": "1163",
+        "name": "CONEGLIANO"
+    },
+    {
+        "code": "1166",
+        "name": "CONSELICE"
+    },
+    {
+        "code": "1167",
+        "name": "CONTEA LONDA"
+    },
+    {
+        "code": "1168",
+        "name": "CONTESSE"
+    },
+    {
+        "code": "1169",
+        "name": "CONTIGLIANO"
+    },
+    {
+        "code": "1170",
+        "name": "CONTURSI TERME"
+    },
+    {
+        "code": "1174",
+        "name": "CORBETTA-S.STEFANO TICINO"
+    },
+    {
+        "code": "1175",
+        "name": "CORBEZZI"
+    },
+    {
+        "code": "1178",
+        "name": "CORDOVADO SESTO"
+    },
+    {
+        "code": "49",
+        "name": "CORIGLIANO CALABRO"
+    },
+    {
+        "code": "1180",
+        "name": "CORMONS"
+    },
+    {
+        "code": "233",
+        "name": "CORNIGLIA"
+    },
+    {
+        "code": "1182",
+        "name": "CORNINO"
+    },
+    {
+        "code": "1183",
+        "name": "CORNUDA"
+    },
+    {
+        "code": "1184",
+        "name": "CORONELLA"
+    },
+    {
+        "code": "1185",
+        "name": "CORRIDONIA MOGLIANO"
+    },
+    {
+        "code": "1186",
+        "name": "CORSANO"
+    },
+    {
+        "code": "1187",
+        "name": "CORSICO"
+    },
+    {
+        "code": "1188",
+        "name": "CORTEOLONA"
+    },
+    {
+        "code": "50",
+        "name": "COSENZA"
+    },
+    {
+        "code": "1189",
+        "name": "COSIO TRAONA"
+    },
+    {
+        "code": "1190",
+        "name": "COSSATO"
+    },
+    {
+        "code": "1192",
+        "name": "COSTA"
+    },
+    {
+        "code": "1193",
+        "name": "COSTA MASNAGA"
+    },
+    {
+        "code": "1194",
+        "name": "COSTIGLIOLE (MOTTA DI)"
+    },
+    {
+        "code": "1195",
+        "name": "COSTIGLIOLE D`ASTI"
+    },
+    {
+        "code": "1196",
+        "name": "COSTIGLIOLE SALUZZO"
+    },
+    {
+        "code": "1197",
+        "name": "COTIGNOLA"
+    },
+    {
+        "code": "1201",
+        "name": "CREMA"
+    },
+    {
+        "code": "1202",
+        "name": "CREMONA"
+    },
+    {
+        "code": "1203",
+        "name": "CRESCENTINO"
+    },
+    {
+        "code": "1204",
+        "name": "CRESPINO DEL LAMONE"
+    },
+    {
+        "code": "1205",
+        "name": "CRESSA FONTANETO"
+    },
+    {
+        "code": "1206",
+        "name": "CREVALCORE"
+    },
+    {
+        "code": "51",
+        "name": "CROPANI"
+    },
+    {
+        "code": "52",
+        "name": "CROTONE"
+    },
+    {
+        "code": "53",
+        "name": "CRUCOLI"
+    },
+    {
+        "code": "1208",
+        "name": "CUCCIAGO"
+    },
+    {
+        "code": "1211",
+        "name": "CUNEO"
+    },
+    {
+        "code": "1212",
+        "name": "CUNEO GESSO"
+    },
+    {
+        "code": "1213",
+        "name": "CUNICO SCANDELUZZA"
+    },
+    {
+        "code": "1214",
+        "name": "CUPONE"
+    },
+    {
+        "code": "1215",
+        "name": "CUPRAMARITTIMA"
+    },
+    {
+        "code": "1216",
+        "name": "CUREGGIO"
+    },
+    {
+        "code": "54",
+        "name": "CURINGA"
+    },
+    {
+        "code": "1217",
+        "name": "CUSANO"
+    },
+    {
+        "code": "55",
+        "name": "CUTRO"
+    },
+    {
+        "code": "1218",
+        "name": "CUZZAGO (MI)"
+    },
+    {
+        "code": "3208",
+        "name": "CUZZAGO (NO)"
+    },
+    {
+        "code": "1223",
+        "name": "DECIMOMANNU"
+    },
+    {
+        "code": "1224",
+        "name": "DEGO"
+    },
+    {
+        "code": "234",
+        "name": "DEIVA MARINA"
+    },
+    {
+        "code": "1225",
+        "name": "DELEBIO"
+    },
+    {
+        "code": "1227",
+        "name": "DERBY"
+    },
+    {
+        "code": "5441",
+        "name": "DERUTA"
+    },
+    {
+        "code": "1228",
+        "name": "DERVIO"
+    },
+    {
+        "code": "1229",
+        "name": "DESENZANO DEL GARDA-SIRMIONE"
+    },
+    {
+        "code": "1230",
+        "name": "DESIO"
+    },
+    {
+        "code": "56",
+        "name": "DIAMANTE BUONVICINO"
+    },
+    {
+        "code": "4502",
+        "name": "DIANO"
+    },
+    {
+        "code": "1240",
+        "name": "DICOMANO"
+    },
+    {
+        "code": "1241",
+        "name": "DIECIMO-PESCAGLIA"
+    },
+    {
+        "code": "1246",
+        "name": "DITTAINO"
+    },
+    {
+        "code": "1247",
+        "name": "DOBBIACO"
+    },
+    {
+        "code": "1251",
+        "name": "DOLO"
+    },
+    {
+        "code": "1252",
+        "name": "DOMEGLIARA-S.AMBROGIO"
+    },
+    {
+        "code": "1253",
+        "name": "DOMODOSSOLA"
+    },
+    {
+        "code": "1255",
+        "name": "DONNAFUGATA"
+    },
+    {
+        "code": "1256",
+        "name": "DONNAS"
+    },
+    {
+        "code": "1258",
+        "name": "DORIO"
+    },
+    {
+        "code": "1259",
+        "name": "DORMELLETTO"
+    },
+    {
+        "code": "1260",
+        "name": "DORMELLETTO PAESE"
+    },
+    {
+        "code": "1261",
+        "name": "DOSSOBUONO"
+    },
+    {
+        "code": "1263",
+        "name": "DUBINO"
+    },
+    {
+        "code": "3199",
+        "name": "DUCA D'AOSTA"
+    },
+    {
+        "code": "1265",
+        "name": "DUEVILLE"
+    },
+    {
+        "code": "3513",
+        "name": "DUOMO VIA VERNIERI"
+    },
+    {
+        "code": "1266",
+        "name": "EBOLI"
+    },
+    {
+        "code": "1267",
+        "name": "ECA NASAGO`"
+    },
+    {
+        "code": "1268",
+        "name": "EGNA-TERMENO"
+    },
+    {
+        "code": "1270",
+        "name": "ELLERA CORCIANO"
+    },
+    {
+        "code": "1048",
+        "name": "ELMAS AEROPORTO"
+    },
+    {
+        "code": "1271",
+        "name": "EMPOLI"
+    },
+    {
+        "code": "1272",
+        "name": "ENAS"
+    },
+    {
+        "code": "1273",
+        "name": "ENNA"
+    },
+    {
+        "code": "1275",
+        "name": "EQUI TERME"
+    },
+    {
+        "code": "1276",
+        "name": "ESTE"
+    },
+    {
+        "code": "2288",
+        "name": "EUROPA PES"
+    },
+    {
+        "code": "1281",
+        "name": "FABRIANO"
+    },
+    {
+        "code": "1282",
+        "name": "FABRIANO CA' MAIANO"
+    },
+    {
+        "code": "1284",
+        "name": "FABRO-FICULLE"
+    },
+    {
+        "code": "1286",
+        "name": "FAE'-FORTOGNA"
+    },
+    {
+        "code": "1285",
+        "name": "FAENZA"
+    },
+    {
+        "code": "3405",
+        "name": "FAGARE'"
+    },
+    {
+        "code": "1287",
+        "name": "FAGNANO CAMPANA"
+    },
+    {
+        "code": "1288",
+        "name": "FALCIANO-MONDRAGONE-CARINOLA"
+    },
+    {
+        "code": "1289",
+        "name": "FALCONARA"
+    },
+    {
+        "code": "1291",
+        "name": "FALCONARA MARITTIMA"
+    },
+    {
+        "code": "3577",
+        "name": "FALCONARA STADIO"
+    },
+    {
+        "code": "1292",
+        "name": "FALCONE"
+    },
+    {
+        "code": "59",
+        "name": "FALERNA"
+    },
+    {
+        "code": "5442",
+        "name": "FANCIULLATA"
+    },
+    {
+        "code": "1293",
+        "name": "FANNA-CAVASSO"
+    },
+    {
+        "code": "1294",
+        "name": "FANO"
+    },
+    {
+        "code": "1295",
+        "name": "FANZOLO"
+    },
+    {
+        "code": "1296",
+        "name": "FARA"
+    },
+    {
+        "code": "1297",
+        "name": "FARA SABINA-MONTELIBRETTI"
+    },
+    {
+        "code": "1299",
+        "name": "FASANO"
+    },
+    {
+        "code": "60",
+        "name": "FAVAZZINA"
+    },
+    {
+        "code": "1302",
+        "name": "FEDERICO"
+    },
+    {
+        "code": "1303",
+        "name": "FELEGARA-S.ANDREA BAGNI"
+    },
+    {
+        "code": "5024",
+        "name": "FELETTO"
+    },
+    {
+        "code": "1304",
+        "name": "FELIZZANO"
+    },
+    {
+        "code": "1306",
+        "name": "FELTRE"
+    },
+    {
+        "code": "1307",
+        "name": "FERENTINO-SUPINO"
+    },
+    {
+        "code": "1308",
+        "name": "FERRANDINA SCALO-MATERA"
+    },
+    {
+        "code": "237",
+        "name": "FERRANIA"
+    },
+    {
+        "code": "1309",
+        "name": "FERRARA"
+    },
+    {
+        "code": "1311",
+        "name": "FERRERA LOMELLINA"
+    },
+    {
+        "code": "62",
+        "name": "FERRUZZANO"
+    },
+    {
+        "code": "644",
+        "name": "FICARAZZI"
+    },
+    {
+        "code": "3351",
+        "name": "FIDENE"
+    },
+    {
+        "code": "1317",
+        "name": "FIDENZA"
+    },
+    {
+        "code": "1318",
+        "name": "FIERA"
+    },
+    {
+        "code": "4040",
+        "name": "FIERA DI ROMA"
+    },
+    {
+        "code": "3415",
+        "name": "FIESOLE CALDINE"
+    },
+    {
+        "code": "1319",
+        "name": "FIGLINE VALDARNO"
+    },
+    {
+        "code": "1320",
+        "name": "FILATTIERA"
+    },
+    {
+        "code": "1322",
+        "name": "FILIANO"
+    },
+    {
+        "code": "238",
+        "name": "FINALE LIGURE MARINA"
+    },
+    {
+        "code": "1324",
+        "name": "FIORENZUOLA"
+    },
+    {
+        "code": "1312",
+        "name": "FIRENZE CAMPO MARTE"
+    },
+    {
+        "code": "1314",
+        "name": "FIRENZE CASTELLO"
+    },
+    {
+        "code": "1315",
+        "name": "FIRENZE RIFREDI"
+    },
+    {
+        "code": "3369",
+        "name": "FIRENZE ROVEZZANO"
+    },
+    {
+        "code": "1325",
+        "name": "FIRENZE SANTA MARIA NOVELLA"
+    },
+    {
+        "code": "1316",
+        "name": "FIRENZE STATUTO"
+    },
+    {
+        "code": "1326",
+        "name": "FISCIANO"
+    },
+    {
+        "code": "3151",
+        "name": "FIUMARA GAZZI"
+    },
+    {
+        "code": "63",
+        "name": "FIUMEFREDDO BRUZIO"
+    },
+    {
+        "code": "1328",
+        "name": "FIUMEFREDDO DI SICILIA"
+    },
+    {
+        "code": "1329",
+        "name": "FIUMELATTE"
+    },
+    {
+        "code": "1330",
+        "name": "FIUMETORTO"
+    },
+    {
+        "code": "1327",
+        "name": "FIUMICINO AEROPORTO"
+    },
+    {
+        "code": "1333",
+        "name": "FIVIZZANO ROMETTA-SOLIERA"
+    },
+    {
+        "code": "1332",
+        "name": "FIVIZZANO-GASSANO"
+    },
+    {
+        "code": "1334",
+        "name": "FOGGIA"
+    },
+    {
+        "code": "1335",
+        "name": "FOGNANO"
+    },
+    {
+        "code": "1336",
+        "name": "FOLIGNO"
+    },
+    {
+        "code": "1337",
+        "name": "FOLLONICA"
+    },
+    {
+        "code": "1338",
+        "name": "FONDI-SPERLONGA"
+    },
+    {
+        "code": "1339",
+        "name": "FONTAN SAORGE"
+    },
+    {
+        "code": "1341",
+        "name": "FONTANA LIRI"
+    },
+    {
+        "code": "1340",
+        "name": "FONTANA LIRI INFERIORE"
+    },
+    {
+        "code": "1342",
+        "name": "FONTANAFREDDA"
+    },
+    {
+        "code": "1343",
+        "name": "FONTANAROSA-CERVARO"
+    },
+    {
+        "code": "4087",
+        "name": "FONTANE BIANCHE"
+    },
+    {
+        "code": "1344",
+        "name": "FONTANETTO PO"
+    },
+    {
+        "code": "1345",
+        "name": "FONTANIVA"
+    },
+    {
+        "code": "1346",
+        "name": "FONTECCHIO"
+    },
+    {
+        "code": "1348",
+        "name": "FORENZA"
+    },
+    {
+        "code": "1349",
+        "name": "FORGARIA BAGNI ANDUINS"
+    },
+    {
+        "code": "1350",
+        "name": "FORLI'"
+    },
+    {
+        "code": "1351",
+        "name": "FORLIMPOPOLI-BERTINORO"
+    },
+    {
+        "code": "1352",
+        "name": "FORMIA-GAETA"
+    },
+    {
+        "code": "1353",
+        "name": "FORNACI DI BARGA"
+    },
+    {
+        "code": "1354",
+        "name": "FORNOVO"
+    },
+    {
+        "code": "1355",
+        "name": "FORTE DEI MARMI-SERAVEZZA-QUERCETA"
+    },
+    {
+        "code": "1356",
+        "name": "FORTEZZA"
+    },
+    {
+        "code": "1357",
+        "name": "FOSCIANDORA-CESERANA"
+    },
+    {
+        "code": "1359",
+        "name": "FOSSACESIA-TORINO DI SANGRO"
+    },
+    {
+        "code": "1360",
+        "name": "FOSSALTA DI PIAVE"
+    },
+    {
+        "code": "1362",
+        "name": "FOSSANO"
+    },
+    {
+        "code": "1363",
+        "name": "FOSSATO DI VICO GUBBIO"
+    },
+    {
+        "code": "1364",
+        "name": "FRAGNETO MONFORTE"
+    },
+    {
+        "code": "239",
+        "name": "FRAMURA"
+    },
+    {
+        "code": "1367",
+        "name": "FRANCAVILLA AL MARE"
+    },
+    {
+        "code": "64",
+        "name": "FRANCAVILLA ANGITOLA-FILADELFIA"
+    },
+    {
+        "code": "1366",
+        "name": "FRANCAVILLA FONTANA"
+    },
+    {
+        "code": "1369",
+        "name": "FRANCIOSA"
+    },
+    {
+        "code": "1370",
+        "name": "FRASCATI"
+    },
+    {
+        "code": "3349",
+        "name": "FRASSO"
+    },
+    {
+        "code": "1371",
+        "name": "FRASSO TELESINO-DUGENTA"
+    },
+    {
+        "code": "1372",
+        "name": "FRATTA"
+    },
+    {
+        "code": "5446",
+        "name": "FRATTA TODINA"
+    },
+    {
+        "code": "1373",
+        "name": "FRATTAMAGGIORE-GRUMO"
+    },
+    {
+        "code": "1375",
+        "name": "FRATTE"
+    },
+    {
+        "code": "1376",
+        "name": "FRATTE CENTRO"
+    },
+    {
+        "code": "5143",
+        "name": "FRATTE VILLA COMUNALE"
+    },
+    {
+        "code": "1377",
+        "name": "FROSINONE"
+    },
+    {
+        "code": "240",
+        "name": "FRUGAROLO BOSCOMARENGO"
+    },
+    {
+        "code": "3518",
+        "name": "FUNO CENTERGROSS"
+    },
+    {
+        "code": "5454",
+        "name": "FURAPANE"
+    },
+    {
+        "code": "1381",
+        "name": "FURCI"
+    },
+    {
+        "code": "65",
+        "name": "FUSCALDO"
+    },
+    {
+        "code": "1386",
+        "name": "GAGGIANO"
+    },
+    {
+        "code": "3162",
+        "name": "GAGGIO PORTA EST"
+    },
+    {
+        "code": "1388",
+        "name": "GAGLIOLE"
+    },
+    {
+        "code": "1389",
+        "name": "GAIBANELLA"
+    },
+    {
+        "code": "1390",
+        "name": "GAIFANA"
+    },
+    {
+        "code": "1391",
+        "name": "GALATI"
+    },
+    {
+        "code": "1393",
+        "name": "GALLARATE"
+    },
+    {
+        "code": "1396",
+        "name": "GALLESE IN TEVERINA"
+    },
+    {
+        "code": "1397",
+        "name": "GALLIERA"
+    },
+    {
+        "code": "1398",
+        "name": "GALLIERA VENETA TOMBOLO"
+    },
+    {
+        "code": "1401",
+        "name": "GAMBETTOLA"
+    },
+    {
+        "code": "1402",
+        "name": "GAMBOLO'-REMONDO'"
+    },
+    {
+        "code": "1404",
+        "name": "GARBAGNA"
+    },
+    {
+        "code": "1405",
+        "name": "GARESSIO"
+    },
+    {
+        "code": "3504",
+        "name": "GARGAZZONE"
+    },
+    {
+        "code": "1407",
+        "name": "GARLASCO"
+    },
+    {
+        "code": "1408",
+        "name": "GATTEO A MARE"
+    },
+    {
+        "code": "1409",
+        "name": "GATTINARA"
+    },
+    {
+        "code": "1410",
+        "name": "GAVIGNANO SABINO"
+    },
+    {
+        "code": "1411",
+        "name": "GAVORRANO"
+    },
+    {
+        "code": "1413",
+        "name": "GAZZADA SCHIANNO MORAZZONE"
+    },
+    {
+        "code": "1414",
+        "name": "GAZZO DI BIGARELLO"
+    },
+    {
+        "code": "1415",
+        "name": "GAZZO PIEVE S.GIACOMO"
+    },
+    {
+        "code": "1416",
+        "name": "GELA"
+    },
+    {
+        "code": "1417",
+        "name": "GELA-ANIC"
+    },
+    {
+        "code": "2380",
+        "name": "GEMELLI"
+    },
+    {
+        "code": "1419",
+        "name": "GEMONA DEL FRIULI"
+    },
+    {
+        "code": "1420",
+        "name": "GENGA S.VITTORE TERME"
+    },
+    {
+        "code": "242",
+        "name": "GENOVA ACQUASANTA"
+    },
+    {
+        "code": "243",
+        "name": "GENOVA BOLZANETO"
+    },
+    {
+        "code": "244",
+        "name": "GENOVA BORZOLI"
+    },
+    {
+        "code": "245",
+        "name": "GENOVA BRIGNOLE"
+    },
+    {
+        "code": "248",
+        "name": "GENOVA CORNIGLIANO"
+    },
+    {
+        "code": "249",
+        "name": "GENOVA COSTA DI SESTRI PONENTE"
+    },
+    {
+        "code": "251",
+        "name": "GENOVA GRANARA"
+    },
+    {
+        "code": "254",
+        "name": "GENOVA NERVI"
+    },
+    {
+        "code": "256",
+        "name": "GENOVA PEGLI"
+    },
+    {
+        "code": "257",
+        "name": "GENOVA PIAZZA PRINCIPE"
+    },
+    {
+        "code": "255",
+        "name": "GENOVA PIAZZA PRINCIPE SOTTERRANEA"
+    },
+    {
+        "code": "258",
+        "name": "GENOVA PONTEDECIMO"
+    },
+    {
+        "code": "259",
+        "name": "GENOVA PRA"
+    },
+    {
+        "code": "260",
+        "name": "GENOVA QUARTO DEI MILLE"
+    },
+    {
+        "code": "261",
+        "name": "GENOVA QUINTO AL MARE"
+    },
+    {
+        "code": "262",
+        "name": "GENOVA RIVAROLO"
+    },
+    {
+        "code": "204",
+        "name": "GENOVA S.BIAGIO"
+    },
+    {
+        "code": "263",
+        "name": "GENOVA SAMPIERDARENA"
+    },
+    {
+        "code": "266",
+        "name": "GENOVA SESTRI PONENTE AEROPORTO"
+    },
+    {
+        "code": "267",
+        "name": "GENOVA STURLA"
+    },
+    {
+        "code": "269",
+        "name": "GENOVA VESIMA"
+    },
+    {
+        "code": "203",
+        "name": "GENOVA VIA DI FRANCIA"
+    },
+    {
+        "code": "270",
+        "name": "GENOVA VOLTRI"
+    },
+    {
+        "code": "5045",
+        "name": "GERMAGNANO"
+    },
+    {
+        "code": "1425",
+        "name": "GHEDI"
+    },
+    {
+        "code": "1426",
+        "name": "GHEMME"
+    },
+    {
+        "code": "1427",
+        "name": "GHISLARENGO"
+    },
+    {
+        "code": "1428",
+        "name": "GHIVIZZANO-COREGLIA"
+    },
+    {
+        "code": "1429",
+        "name": "GIACHERY"
+    },
+    {
+        "code": "1430",
+        "name": "GIAMPILIERI"
+    },
+    {
+        "code": "1431",
+        "name": "GIAROLE"
+    },
+    {
+        "code": "1432",
+        "name": "GIARRE RIPOSTO"
+    },
+    {
+        "code": "1433",
+        "name": "GIAVE"
+    },
+    {
+        "code": "1434",
+        "name": "GINOSA"
+    },
+    {
+        "code": "1435",
+        "name": "GIOIA DEL COLLE"
+    },
+    {
+        "code": "67",
+        "name": "GIOIA TAURO"
+    },
+    {
+        "code": "68",
+        "name": "GIOIOSA JONICA"
+    },
+    {
+        "code": "1436",
+        "name": "GIOJOSA MAREA"
+    },
+    {
+        "code": "1437",
+        "name": "GIOVINAZZO"
+    },
+    {
+        "code": "1438",
+        "name": "GIUGLIANO QUALIANO"
+    },
+    {
+        "code": "1439",
+        "name": "GIULIANOVA"
+    },
+    {
+        "code": "69",
+        "name": "GIZZERIA LIDO"
+    },
+    {
+        "code": "1442",
+        "name": "GLORIE"
+    },
+    {
+        "code": "1443",
+        "name": "GODO"
+    },
+    {
+        "code": "1383",
+        "name": "GOLFO ARANCI"
+    },
+    {
+        "code": "1444",
+        "name": "GONZAGA-REGGIOLO"
+    },
+    {
+        "code": "3408",
+        "name": "GORGO AL MONTICANO"
+    },
+    {
+        "code": "1445",
+        "name": "GORIANO SICOLI"
+    },
+    {
+        "code": "1446",
+        "name": "GORIZIA CENTRALE"
+    },
+    {
+        "code": "1447",
+        "name": "GOZZANO"
+    },
+    {
+        "code": "1451",
+        "name": "GRAGNOLA"
+    },
+    {
+        "code": "1452",
+        "name": "GRAMMICHELE"
+    },
+    {
+        "code": "1453",
+        "name": "GRANAIOLO"
+    },
+    {
+        "code": "1454",
+        "name": "GRANAROLO FAENTINO"
+    },
+    {
+        "code": "1456",
+        "name": "GRASSANO-GARAGUSO-TRICARICO"
+    },
+    {
+        "code": "1457",
+        "name": "GRAVELLONA TOCE"
+    },
+    {
+        "code": "1458",
+        "name": "GRAVINA IN PUGLIA"
+    },
+    {
+        "code": "1459",
+        "name": "GRECCIO"
+    },
+    {
+        "code": "1460",
+        "name": "GRICIGNANO-TEVEROLA"
+    },
+    {
+        "code": "1462",
+        "name": "GRIGNASCO"
+    },
+    {
+        "code": "1463",
+        "name": "GRIGNO"
+    },
+    {
+        "code": "1464",
+        "name": "GRISIGNANO DI ZOCCO"
+    },
+    {
+        "code": "70",
+        "name": "GRISOLIA S.MARIA"
+    },
+    {
+        "code": "1465",
+        "name": "GRIZZANA"
+    },
+    {
+        "code": "1467",
+        "name": "GROPELLO CAIROLI"
+    },
+    {
+        "code": "1468",
+        "name": "GROSSETO"
+    },
+    {
+        "code": "1469",
+        "name": "GROTTAGLIE"
+    },
+    {
+        "code": "1470",
+        "name": "GROTTAMMARE"
+    },
+    {
+        "code": "1471",
+        "name": "GROTTE"
+    },
+    {
+        "code": "1472",
+        "name": "GROTTE S.STEFANO"
+    },
+    {
+        "code": "3166",
+        "name": "GRUGLIASCO"
+    },
+    {
+        "code": "1473",
+        "name": "GRUMELLO DEL MONTE"
+    },
+    {
+        "code": "1474",
+        "name": "GRUMO APPULA"
+    },
+    {
+        "code": "1475",
+        "name": "GUALDO TADINO"
+    },
+    {
+        "code": "71",
+        "name": "GUARDAVALLE"
+    },
+    {
+        "code": "1384",
+        "name": "GUARDIA MANGANO S.VENERINA"
+    },
+    {
+        "code": "72",
+        "name": "GUARDIA PIEMONTESE TERME"
+    },
+    {
+        "code": "1481",
+        "name": "GUIDONIA-MONTECELIO-S.ANGELO"
+    },
+    {
+        "code": "1482",
+        "name": "HONE-BARD"
+    },
+    {
+        "code": "1483",
+        "name": "IGEA MARINA"
+    },
+    {
+        "code": "1484",
+        "name": "IGLESIAS"
+    },
+    {
+        "code": "1485",
+        "name": "IL NETO"
+    },
+    {
+        "code": "5447",
+        "name": "ILCI-PIAN DEI MORI"
+    },
+    {
+        "code": "1487",
+        "name": "IMOLA"
+    },
+    {
+        "code": "4501",
+        "name": "IMPERIA"
+    },
+    {
+        "code": "1488",
+        "name": "INCISA"
+    },
+    {
+        "code": "1489",
+        "name": "INCISA SCAPACCINO"
+    },
+    {
+        "code": "1490",
+        "name": "INCORONATA"
+    },
+    {
+        "code": "1492",
+        "name": "INDUNO OLONA"
+    },
+    {
+        "code": "3427",
+        "name": "IPOGEO DEGLI OTTAVI"
+    },
+    {
+        "code": "1497",
+        "name": "ISERNIA"
+    },
+    {
+        "code": "1499",
+        "name": "ISOLA D`ASTI"
+    },
+    {
+        "code": "274",
+        "name": "ISOLA DEL CANTONE"
+    },
+    {
+        "code": "1501",
+        "name": "ISOLA DELLA SCALA"
+    },
+    {
+        "code": "1500",
+        "name": "ISOLA DELLE FEMMINE"
+    },
+    {
+        "code": "1502",
+        "name": "ISOLA LIRI"
+    },
+    {
+        "code": "1503",
+        "name": "ISOLETTA-S.GIOVANNI INCARICO"
+    },
+    {
+        "code": "1504",
+        "name": "ISPICA"
+    },
+    {
+        "code": "1506",
+        "name": "ISTRANA"
+    },
+    {
+        "code": "1507",
+        "name": "ITRI"
+    },
+    {
+        "code": "1508",
+        "name": "IVREA"
+    },
+    {
+        "code": "1509",
+        "name": "JESI"
+    },
+    {
+        "code": "74",
+        "name": "JOPPOLO"
+    },
+    {
+        "code": "1510",
+        "name": "L'AQUILA"
+    },
+    {
+        "code": "3174",
+        "name": "L'AQUILA CAMPO DI PILE"
+    },
+    {
+        "code": "2917",
+        "name": "L'AQUILA S.GREGORIO"
+    },
+    {
+        "code": "2901",
+        "name": "L'AQUILA SASSA NUCLEO SVILUPPO"
+    },
+    {
+        "code": "1511",
+        "name": "LA BRIGUE"
+    },
+    {
+        "code": "5413",
+        "name": "LA DOGANA"
+    },
+    {
+        "code": "1512",
+        "name": "LA FIORA"
+    },
+    {
+        "code": "1513",
+        "name": "LA GIUSTINIANA"
+    },
+    {
+        "code": "4043",
+        "name": "LA RUSTICA CITTA'"
+    },
+    {
+        "code": "1515",
+        "name": "LA RUSTICA UIR"
+    },
+    {
+        "code": "1516",
+        "name": "LA SALLE"
+    },
+    {
+        "code": "275",
+        "name": "LA SPEZIA CENTRALE"
+    },
+    {
+        "code": "1517",
+        "name": "LA SPEZIA MIGLIARINA"
+    },
+    {
+        "code": "1519",
+        "name": "LA STORTA"
+    },
+    {
+        "code": "1520",
+        "name": "LABICO"
+    },
+    {
+        "code": "1521",
+        "name": "LABRO MOGGIO"
+    },
+    {
+        "code": "1071",
+        "name": "LADISPOLI-CERVETERI"
+    },
+    {
+        "code": "276",
+        "name": "LAIGUEGLIA"
+    },
+    {
+        "code": "1525",
+        "name": "LAIVES"
+    },
+    {
+        "code": "1526",
+        "name": "LAMA"
+    },
+    {
+        "code": "1527",
+        "name": "LAMA DI RENO"
+    },
+    {
+        "code": "1528",
+        "name": "LAMBRINIA"
+    },
+    {
+        "code": "75",
+        "name": "LAMEZIA TERME CENTRALE"
+    },
+    {
+        "code": "76",
+        "name": "LAMEZIA TERME NICASTRO"
+    },
+    {
+        "code": "77",
+        "name": "LAMEZIA TERME SAMBIASE"
+    },
+    {
+        "code": "1529",
+        "name": "LANA-POSTAL"
+    },
+    {
+        "code": "1530",
+        "name": "LANCENIGO"
+    },
+    {
+        "code": "1531",
+        "name": "LANUVIO"
+    },
+    {
+        "code": "1532",
+        "name": "LANZARA FIMIANI"
+    },
+    {
+        "code": "5044",
+        "name": "LANZO TORINESE"
+    },
+    {
+        "code": "1534",
+        "name": "LARINO"
+    },
+    {
+        "code": "2865",
+        "name": "LASCARI"
+    },
+    {
+        "code": "4031",
+        "name": "LASTRA A SIGNA"
+    },
+    {
+        "code": "1537",
+        "name": "LATERINA"
+    },
+    {
+        "code": "1538",
+        "name": "LATIANO"
+    },
+    {
+        "code": "1539",
+        "name": "LATINA"
+    },
+    {
+        "code": "1540",
+        "name": "LATISANA LIGNANO-BIBIONE"
+    },
+    {
+        "code": "1541",
+        "name": "LAURIANO"
+    },
+    {
+        "code": "277",
+        "name": "LAVAGNA"
+    },
+    {
+        "code": "1542",
+        "name": "LAVENO MOMBELLO"
+    },
+    {
+        "code": "1543",
+        "name": "LAVEZZOLA"
+    },
+    {
+        "code": "1545",
+        "name": "LAVIS"
+    },
+    {
+        "code": "3449",
+        "name": "LE CURE"
+    },
+    {
+        "code": "3534",
+        "name": "LE PIAGGE"
+    },
+    {
+        "code": "1549",
+        "name": "LECCE"
+    },
+    {
+        "code": "1550",
+        "name": "LECCO"
+    },
+    {
+        "code": "1551",
+        "name": "LECCO MAGGIANICO"
+    },
+    {
+        "code": "1552",
+        "name": "LEGGIUNO MONVALLE"
+    },
+    {
+        "code": "1553",
+        "name": "LEGNAGO"
+    },
+    {
+        "code": "1554",
+        "name": "LEGNANO"
+    },
+    {
+        "code": "1555",
+        "name": "LENDINARA"
+    },
+    {
+        "code": "1557",
+        "name": "LENTINI"
+    },
+    {
+        "code": "1558",
+        "name": "LENTINI DIRAMAZIONE"
+    },
+    {
+        "code": "2154",
+        "name": "LEONFORTE-PIRATO"
+    },
+    {
+        "code": "2595",
+        "name": "LERCARA DIRAMAZIONE"
+    },
+    {
+        "code": "1561",
+        "name": "LERINO"
+    },
+    {
+        "code": "1562",
+        "name": "LESA"
+    },
+    {
+        "code": "1563",
+        "name": "LESEGNO"
+    },
+    {
+        "code": "1565",
+        "name": "LESMO"
+    },
+    {
+        "code": "1566",
+        "name": "LETOJANNI"
+    },
+    {
+        "code": "1567",
+        "name": "LEVADA"
+    },
+    {
+        "code": "278",
+        "name": "LEVANTO"
+    },
+    {
+        "code": "895",
+        "name": "LEVATA"
+    },
+    {
+        "code": "3595",
+        "name": "LEVATE"
+    },
+    {
+        "code": "1568",
+        "name": "LEVICO TERME"
+    },
+    {
+        "code": "1572",
+        "name": "LICATA"
+    },
+    {
+        "code": "1573",
+        "name": "LIDO DI CLASSE-LIDO DI SAVIO"
+    },
+    {
+        "code": "1574",
+        "name": "LIDO DI LAVINIO"
+    },
+    {
+        "code": "1575",
+        "name": "LIERNA"
+    },
+    {
+        "code": "1576",
+        "name": "LIMONE"
+    },
+    {
+        "code": "1580",
+        "name": "LISON"
+    },
+    {
+        "code": "1581",
+        "name": "LISSONE-MUGGIO'"
+    },
+    {
+        "code": "1582",
+        "name": "LIVORNO CENTRALE"
+    },
+    {
+        "code": "1570",
+        "name": "LIVORNO FERRARIS"
+    },
+    {
+        "code": "279",
+        "name": "LOANO"
+    },
+    {
+        "code": "1583",
+        "name": "LOCATE TRIULZI"
+    },
+    {
+        "code": "78",
+        "name": "LOCRI"
+    },
+    {
+        "code": "1584",
+        "name": "LODI"
+    },
+    {
+        "code": "2326",
+        "name": "LOLLI"
+    },
+    {
+        "code": "1585",
+        "name": "LOMELLO"
+    },
+    {
+        "code": "1586",
+        "name": "LONATO"
+    },
+    {
+        "code": "1587",
+        "name": "LONGARONE ZOLDO"
+    },
+    {
+        "code": "79",
+        "name": "LONGOBARDI"
+    },
+    {
+        "code": "1588",
+        "name": "LONIGO"
+    },
+    {
+        "code": "1589",
+        "name": "LOREO"
+    },
+    {
+        "code": "1590",
+        "name": "LORETO"
+    },
+    {
+        "code": "1591",
+        "name": "LUCCA"
+    },
+    {
+        "code": "1592",
+        "name": "LUGO"
+    },
+    {
+        "code": "1593",
+        "name": "LUINO"
+    },
+    {
+        "code": "1594",
+        "name": "LUMIGNACCO"
+    },
+    {
+        "code": "1597",
+        "name": "LUNGHEZZA"
+    },
+    {
+        "code": "1598",
+        "name": "LUNI"
+    },
+    {
+        "code": "1600",
+        "name": "LUSERNA S. GIOVANNI"
+    },
+    {
+        "code": "1602",
+        "name": "MACCARESE-FREGENE"
+    },
+    {
+        "code": "1603",
+        "name": "MACERATA"
+    },
+    {
+        "code": "3576",
+        "name": "MACERATA FONTESCODELLA"
+    },
+    {
+        "code": "3206",
+        "name": "MACERATA UNIVERSITA'"
+    },
+    {
+        "code": "1605",
+        "name": "MACHERIO SOVICO"
+    },
+    {
+        "code": "1604",
+        "name": "MACHERIO-CANONICA"
+    },
+    {
+        "code": "1606",
+        "name": "MACOMER"
+    },
+    {
+        "code": "1608",
+        "name": "MADDALONI INFERIORE"
+    },
+    {
+        "code": "3372",
+        "name": "MADIGNANO"
+    },
+    {
+        "code": "1614",
+        "name": "MADONNA DEL PILONE"
+    },
+    {
+        "code": "1617",
+        "name": "MAERNE DI MARTELLAGO"
+    },
+    {
+        "code": "1618",
+        "name": "MAGENTA"
+    },
+    {
+        "code": "1619",
+        "name": "MAGIONE"
+    },
+    {
+        "code": "1620",
+        "name": "MAGLIANA"
+    },
+    {
+        "code": "1621",
+        "name": "MAGLIANO CRAVA MOROZZO"
+    },
+    {
+        "code": "1623",
+        "name": "MAGRE'-CORTACCIA"
+    },
+    {
+        "code": "1626",
+        "name": "MALEO"
+    },
+    {
+        "code": "1628",
+        "name": "MALTIGNANO DEL TRONTO"
+    },
+    {
+        "code": "280",
+        "name": "MANAROLA"
+    },
+    {
+        "code": "80",
+        "name": "MANDATORICCIO CAMPANA"
+    },
+    {
+        "code": "1632",
+        "name": "MANDELLO DEL LARIO"
+    },
+    {
+        "code": "1634",
+        "name": "MANERBIO"
+    },
+    {
+        "code": "1635",
+        "name": "MANFREDONIA"
+    },
+    {
+        "code": "3171",
+        "name": "MANFREDONIA OVEST"
+    },
+    {
+        "code": "1636",
+        "name": "MANIAGO"
+    },
+    {
+        "code": "1637",
+        "name": "MANOPPELLO"
+    },
+    {
+        "code": "1638",
+        "name": "MANTA"
+    },
+    {
+        "code": "1639",
+        "name": "MANTOVA"
+    },
+    {
+        "code": "1744",
+        "name": "MANTOVA FRASSINE"
+    },
+    {
+        "code": "1640",
+        "name": "MANZANO"
+    },
+    {
+        "code": "1641",
+        "name": "MANZIANA-CANALE MONTERANO"
+    },
+    {
+        "code": "1643",
+        "name": "MARANO TICINO"
+    },
+    {
+        "code": "1642",
+        "name": "MARANO VICENTINO"
+    },
+    {
+        "code": "81",
+        "name": "MARATEA"
+    },
+    {
+        "code": "1644",
+        "name": "MARAUSA"
+    },
+    {
+        "code": "1645",
+        "name": "MARCARIA"
+    },
+    {
+        "code": "2026",
+        "name": "MARCELLINA-PALOMBARA"
+    },
+    {
+        "code": "82",
+        "name": "MARCELLINA-VERBICARO-ORSOMARSO"
+    },
+    {
+        "code": "83",
+        "name": "MARCELLINARA"
+    },
+    {
+        "code": "1647",
+        "name": "MARCIANISE"
+    },
+    {
+        "code": "554",
+        "name": "MARCONI"
+    },
+    {
+        "code": "1648",
+        "name": "MARECHIARO"
+    },
+    {
+        "code": "2313",
+        "name": "MAREDOLCE"
+    },
+    {
+        "code": "1649",
+        "name": "MARGARITA"
+    },
+    {
+        "code": "1650",
+        "name": "MARIANOPOLI"
+    },
+    {
+        "code": "1652",
+        "name": "MARINA DI CERVETERI"
+    },
+    {
+        "code": "85",
+        "name": "MARINA DI MARATEA"
+    },
+    {
+        "code": "86",
+        "name": "MARINA DI S.LORENZO"
+    },
+    {
+        "code": "1653",
+        "name": "MARINELLA"
+    },
+    {
+        "code": "1654",
+        "name": "MARINO DEL TRONTO-FOLIGNANO"
+    },
+    {
+        "code": "1655",
+        "name": "MARINO LAZIALE"
+    },
+    {
+        "code": "1658",
+        "name": "MARMORE"
+    },
+    {
+        "code": "1659",
+        "name": "MAROTTA-MONDOLFO"
+    },
+    {
+        "code": "1660",
+        "name": "MARRADI-PALAZZUOLO SUL SENIO"
+    },
+    {
+        "code": "1661",
+        "name": "MARRUBIU-TERRALBA-ARBOREA"
+    },
+    {
+        "code": "1662",
+        "name": "MARSALA"
+    },
+    {
+        "code": "5445",
+        "name": "MARSCIANO"
+    },
+    {
+        "code": "3250",
+        "name": "MARTINSICURO"
+    },
+    {
+        "code": "1664",
+        "name": "MARZABOTTO"
+    },
+    {
+        "code": "1666",
+        "name": "MARZOCCA"
+    },
+    {
+        "code": "1667",
+        "name": "MASCALI"
+    },
+    {
+        "code": "1670",
+        "name": "MASSA CENTRO"
+    },
+    {
+        "code": "5452",
+        "name": "MASSA MARTANA"
+    },
+    {
+        "code": "1673",
+        "name": "MASSAFRA"
+    },
+    {
+        "code": "1674",
+        "name": "MASSALOMBARDA"
+    },
+    {
+        "code": "1675",
+        "name": "MASSAROSA BOZZANO"
+    },
+    {
+        "code": "1677",
+        "name": "MATELICA"
+    },
+    {
+        "code": "5042",
+        "name": "MATHI"
+    },
+    {
+        "code": "1679",
+        "name": "MATRICE-MONTAGANO-S.GIOVANNI IN GALDO"
+    },
+    {
+        "code": "1681",
+        "name": "MAZARA DEL VALLO"
+    },
+    {
+        "code": "1682",
+        "name": "MEDE"
+    },
+    {
+        "code": "1683",
+        "name": "MEDESANO"
+    },
+    {
+        "code": "1684",
+        "name": "MEDUNO"
+    },
+    {
+        "code": "1686",
+        "name": "MEINA"
+    },
+    {
+        "code": "1687",
+        "name": "MELANO MARISCHIO"
+    },
+    {
+        "code": "282",
+        "name": "MELE"
+    },
+    {
+        "code": "1688",
+        "name": "MELEGNANO"
+    },
+    {
+        "code": "1689",
+        "name": "MELFI"
+    },
+    {
+        "code": "87",
+        "name": "MELITO DI PORTO SALVO"
+    },
+    {
+        "code": "1690",
+        "name": "MELZO"
+    },
+    {
+        "code": "1691",
+        "name": "MEOLO"
+    },
+    {
+        "code": "1692",
+        "name": "MERANA"
+    },
+    {
+        "code": "1693",
+        "name": "MERANO"
+    },
+    {
+        "code": "1694",
+        "name": "MERANO-MAIA BASSA"
+    },
+    {
+        "code": "2083",
+        "name": "MERCATELLO"
+    },
+    {
+        "code": "1695",
+        "name": "MERCATO S.SEVERINO"
+    },
+    {
+        "code": "1696",
+        "name": "MERCENASCO"
+    },
+    {
+        "code": "1697",
+        "name": "MERGOZZO"
+    },
+    {
+        "code": "1699",
+        "name": "MESAGNE"
+    },
+    {
+        "code": "1700",
+        "name": "MESSINA CENTRALE"
+    },
+    {
+        "code": "1703",
+        "name": "MESTRINO"
+    },
+    {
+        "code": "88",
+        "name": "METAPONTO"
+    },
+    {
+        "code": "1704",
+        "name": "MEZZANI RONDANI"
+    },
+    {
+        "code": "1705",
+        "name": "MEZZANO"
+    },
+    {
+        "code": "1706",
+        "name": "MEZZOCORONA"
+    },
+    {
+        "code": "1727",
+        "name": "MIGNANO MONTE LUNGO"
+    },
+    {
+        "code": "1728",
+        "name": "MILANO CENTRALE"
+    },
+    {
+        "code": "1708",
+        "name": "MILANO CERTOSA"
+    },
+    {
+        "code": "3468",
+        "name": "MILANO DATEO"
+    },
+    {
+        "code": "3169",
+        "name": "MILANO FORLANINI"
+    },
+    {
+        "code": "1711",
+        "name": "MILANO GRECO PIRELLI"
+    },
+    {
+        "code": "1712",
+        "name": "MILANO LAMBRATE"
+    },
+    {
+        "code": "1713",
+        "name": "MILANO LANCETTI"
+    },
+    {
+        "code": "1715",
+        "name": "MILANO PORTA GARIBALDI"
+    },
+    {
+        "code": "1714",
+        "name": "MILANO PORTA GARIBALDI SOTTERRANEA"
+    },
+    {
+        "code": "1716",
+        "name": "MILANO PORTA GENOVA"
+    },
+    {
+        "code": "1723",
+        "name": "MILANO PORTA VENEZIA"
+    },
+    {
+        "code": "1718",
+        "name": "MILANO PORTA VITTORIA"
+    },
+    {
+        "code": "1719",
+        "name": "MILANO REPUBBLICA"
+    },
+    {
+        "code": "1720",
+        "name": "MILANO ROGOREDO"
+    },
+    {
+        "code": "58",
+        "name": "MILANO ROMOLO"
+    },
+    {
+        "code": "1721",
+        "name": "MILANO S.CRISTOFORO"
+    },
+    {
+        "code": "1717",
+        "name": "MILANO SCALO ROMANA"
+    },
+    {
+        "code": "3251",
+        "name": "MILANO TIBALDI UNIVERSITA' BOCCONI"
+    },
+    {
+        "code": "3099",
+        "name": "MILANO VILLAPIZZONE"
+    },
+    {
+        "code": "1729",
+        "name": "MILAZZO"
+    },
+    {
+        "code": "89",
+        "name": "MILETO"
+    },
+    {
+        "code": "3152",
+        "name": "MILI MARINA"
+    },
+    {
+        "code": "1730",
+        "name": "MILITELLO"
+    },
+    {
+        "code": "1735",
+        "name": "MINERVINO MURGE"
+    },
+    {
+        "code": "1736",
+        "name": "MINTURNO-SCAURI"
+    },
+    {
+        "code": "1737",
+        "name": "MINUCCIANO-PIEVE-CASOLA"
+    },
+    {
+        "code": "1738",
+        "name": "MIRA MIRANO"
+    },
+    {
+        "code": "1739",
+        "name": "MIRADOLO TERME"
+    },
+    {
+        "code": "1740",
+        "name": "MIRAMARE"
+    },
+    {
+        "code": "1741",
+        "name": "MIRANDOLA"
+    },
+    {
+        "code": "90",
+        "name": "MIRTO CROSIA"
+    },
+    {
+        "code": "1743",
+        "name": "MISANO ADRIATICO"
+    },
+    {
+        "code": "1745",
+        "name": "MODANE"
+    },
+    {
+        "code": "1746",
+        "name": "MODANE FOURNEAUX"
+    },
+    {
+        "code": "1747",
+        "name": "MODENA"
+    },
+    {
+        "code": "1748",
+        "name": "MODICA"
+    },
+    {
+        "code": "3197",
+        "name": "MODUGNO"
+    },
+    {
+        "code": "1753",
+        "name": "MOGLIANO VENETO"
+    },
+    {
+        "code": "1754",
+        "name": "MOIANA"
+    },
+    {
+        "code": "1756",
+        "name": "MOLA DI BARI"
+    },
+    {
+        "code": "284",
+        "name": "MOLARE"
+    },
+    {
+        "code": "1757",
+        "name": "MOLFETTA"
+    },
+    {
+        "code": "1758",
+        "name": "MOLINA-CASTELVECCHIO SUBEQUO"
+    },
+    {
+        "code": "1760",
+        "name": "MOLINO DEL PALLONE"
+    },
+    {
+        "code": "1761",
+        "name": "MOLTENO"
+    },
+    {
+        "code": "1762",
+        "name": "MOMBALDONE-ROCCAVERANO"
+    },
+    {
+        "code": "1763",
+        "name": "MOMBARUZZO"
+    },
+    {
+        "code": "1764",
+        "name": "MOMO"
+    },
+    {
+        "code": "91",
+        "name": "MONASTERACE-STILO"
+    },
+    {
+        "code": "1765",
+        "name": "MONCALIERI"
+    },
+    {
+        "code": "2637",
+        "name": "MONCALIERI SANGONE"
+    },
+    {
+        "code": "1766",
+        "name": "MONCALVO"
+    },
+    {
+        "code": "1769",
+        "name": "MONDOVI`"
+    },
+    {
+        "code": "285",
+        "name": "MONEGLIA"
+    },
+    {
+        "code": "1770",
+        "name": "MONFALCONE"
+    },
+    {
+        "code": "1771",
+        "name": "MONGARDINO"
+    },
+    {
+        "code": "92",
+        "name": "MONGRASSANO-CERVICATI"
+    },
+    {
+        "code": "1773",
+        "name": "MONGUELFO-VALLE DI CASIES"
+    },
+    {
+        "code": "1774",
+        "name": "MONOPOLI"
+    },
+    {
+        "code": "1448",
+        "name": "MONSAMPOLO DEL TRONTO"
+    },
+    {
+        "code": "1776",
+        "name": "MONSELICE"
+    },
+    {
+        "code": "1777",
+        "name": "MONTAGNANA"
+    },
+    {
+        "code": "1778",
+        "name": "MONTAGUTO PANNI"
+    },
+    {
+        "code": "1779",
+        "name": "MONTALE AGLIANA"
+    },
+    {
+        "code": "1781",
+        "name": "MONTALTO DI CASTRO"
+    },
+    {
+        "code": "1784",
+        "name": "MONTANARO"
+    },
+    {
+        "code": "1787",
+        "name": "MONTE ANTICO"
+    },
+    {
+        "code": "1790",
+        "name": "MONTE S.BIAGIO-TERRACINA MARE"
+    },
+    {
+        "code": "1791",
+        "name": "MONTEBELLO"
+    },
+    {
+        "code": "1792",
+        "name": "MONTEBELLUNA"
+    },
+    {
+        "code": "1793",
+        "name": "MONTECALVO-BUONALBERGO-CASALBORE"
+    },
+    {
+        "code": "1794",
+        "name": "MONTECARLO S.SALVATORE"
+    },
+    {
+        "code": "1795",
+        "name": "MONTECAROTTO-CASTELBELLINO"
+    },
+    {
+        "code": "5426",
+        "name": "MONTECASTELLI"
+    },
+    {
+        "code": "5425",
+        "name": "MONTECASTELLI PONTE TEVERE"
+    },
+    {
+        "code": "5455",
+        "name": "MONTECASTRILLI"
+    },
+    {
+        "code": "1796",
+        "name": "MONTECATINI CENTRO"
+    },
+    {
+        "code": "1797",
+        "name": "MONTECATINI TERME-MONSUMMANO"
+    },
+    {
+        "code": "1798",
+        "name": "MONTECHIARO D`ASTI"
+    },
+    {
+        "code": "1799",
+        "name": "MONTECHIARO DENICE"
+    },
+    {
+        "code": "5429",
+        "name": "MONTECORONA"
+    },
+    {
+        "code": "1800",
+        "name": "MONTECORVINO"
+    },
+    {
+        "code": "1801",
+        "name": "MONTECOSARO"
+    },
+    {
+        "code": "1803",
+        "name": "MONTEFIASCONE"
+    },
+    {
+        "code": "1804",
+        "name": "MONTEFREDANE"
+    },
+    {
+        "code": "94",
+        "name": "MONTEGIORDANO"
+    },
+    {
+        "code": "1805",
+        "name": "MONTEGROSSO"
+    },
+    {
+        "code": "1808",
+        "name": "MONTELLO GORLAGO"
+    },
+    {
+        "code": "1809",
+        "name": "MONTELUPO CAPRAIA"
+    },
+    {
+        "code": "1810",
+        "name": "MONTEMAGGIORE BELSITO"
+    },
+    {
+        "code": "1812",
+        "name": "MONTEMARCIANO"
+    },
+    {
+        "code": "1814",
+        "name": "MONTENERO PETACCIATO"
+    },
+    {
+        "code": "95",
+        "name": "MONTEPAONE-MONTAURO"
+    },
+    {
+        "code": "1816",
+        "name": "MONTEPESCALI"
+    },
+    {
+        "code": "1817",
+        "name": "MONTEPRANDONE"
+    },
+    {
+        "code": "1818",
+        "name": "MONTEPULCIANO"
+    },
+    {
+        "code": "1819",
+        "name": "MONTEREALE VALCELLINA"
+    },
+    {
+        "code": "1821",
+        "name": "MONTERONI D'ARBIA"
+    },
+    {
+        "code": "286",
+        "name": "MONTEROSSO"
+    },
+    {
+        "code": "1823",
+        "name": "MONTEROSSO MARCHE"
+    },
+    {
+        "code": "1824",
+        "name": "MONTEROTONDO-MENTANA"
+    },
+    {
+        "code": "1825",
+        "name": "MONTESANTO"
+    },
+    {
+        "code": "1826",
+        "name": "MONTESILVANO"
+    },
+    {
+        "code": "1827",
+        "name": "MONTEU DA PO"
+    },
+    {
+        "code": "1828",
+        "name": "MONTEVARCHI TERRANUOVA"
+    },
+    {
+        "code": "1830",
+        "name": "MONTI TELTI"
+    },
+    {
+        "code": "1832",
+        "name": "MONTICELLI D'ONGINA"
+    },
+    {
+        "code": "1833",
+        "name": "MONTICELLO D`ALBA"
+    },
+    {
+        "code": "1834",
+        "name": "MONTIGLIO MURISENGO"
+    },
+    {
+        "code": "1835",
+        "name": "MONTIRONE"
+    },
+    {
+        "code": "1837",
+        "name": "MONTORO FORINO"
+    },
+    {
+        "code": "1838",
+        "name": "MONTORO SUPERIORE"
+    },
+    {
+        "code": "1839",
+        "name": "MONTORSI"
+    },
+    {
+        "code": "1841",
+        "name": "MONZA"
+    },
+    {
+        "code": "1842",
+        "name": "MONZA SOBBORGHI"
+    },
+    {
+        "code": "1843",
+        "name": "MONZONE-MONTE DEI BIANCHI-ISOLANO"
+    },
+    {
+        "code": "1844",
+        "name": "MONZUNO-VADO"
+    },
+    {
+        "code": "1845",
+        "name": "MORANO SUL PO"
+    },
+    {
+        "code": "1846",
+        "name": "MORBEGNO"
+    },
+    {
+        "code": "1848",
+        "name": "MORENGO BARIANO"
+    },
+    {
+        "code": "1851",
+        "name": "MORGEX"
+    },
+    {
+        "code": "1852",
+        "name": "MORI"
+    },
+    {
+        "code": "1853",
+        "name": "MORNAGO CIMBRO"
+    },
+    {
+        "code": "1854",
+        "name": "MOROLO"
+    },
+    {
+        "code": "1856",
+        "name": "MORREA-CASTRONOVO-RENDINARA"
+    },
+    {
+        "code": "1857",
+        "name": "MORROVALLE MONTE S.GIUSTO"
+    },
+    {
+        "code": "1858",
+        "name": "MORTARA"
+    },
+    {
+        "code": "1859",
+        "name": "MOSCIANO S.ANGELO"
+    },
+    {
+        "code": "1860",
+        "name": "MOSSA"
+    },
+    {
+        "code": "3409",
+        "name": "MOTTA DI LIVENZA"
+    },
+    {
+        "code": "1863",
+        "name": "MOTTA S.DAMIANO"
+    },
+    {
+        "code": "96",
+        "name": "MOTTA S.GIOVANNI LAZZARO"
+    },
+    {
+        "code": "2317",
+        "name": "MOZIA-BIRGI"
+    },
+    {
+        "code": "1865",
+        "name": "MOZZECANE"
+    },
+    {
+        "code": "287",
+        "name": "MULINETTI"
+    },
+    {
+        "code": "1868",
+        "name": "MURATELLA"
+    },
+    {
+        "code": "1869",
+        "name": "MURLO"
+    },
+    {
+        "code": "783",
+        "name": "MUSIANO-PIAN DI MACINA"
+    },
+    {
+        "code": "1871",
+        "name": "MUSSOTTO"
+    },
+    {
+        "code": "1872",
+        "name": "MUZZANA DEL TURGNANO"
+    },
+    {
+        "code": "4020",
+        "name": "NAPOLI AFRAGOLA"
+    },
+    {
+        "code": "1873",
+        "name": "NAPOLI CAMPI FLEGREI"
+    },
+    {
+        "code": "1888",
+        "name": "NAPOLI CENTRALE"
+    },
+    {
+        "code": "1874",
+        "name": "NAPOLI GIANTURCO"
+    },
+    {
+        "code": "1876",
+        "name": "NAPOLI MERGELLINA"
+    },
+    {
+        "code": "1877",
+        "name": "NAPOLI MONTESANTO"
+    },
+    {
+        "code": "1878",
+        "name": "NAPOLI PIAZZA AMEDEO"
+    },
+    {
+        "code": "1879",
+        "name": "NAPOLI PIAZZA CAVOUR"
+    },
+    {
+        "code": "1880",
+        "name": "NAPOLI PIAZZA GARIBALDI"
+    },
+    {
+        "code": "1881",
+        "name": "NAPOLI PIAZZA LEOPARDI"
+    },
+    {
+        "code": "1882",
+        "name": "NAPOLI S.GIOVANNI BARRA"
+    },
+    {
+        "code": "1889",
+        "name": "NARNI AMELIA"
+    },
+    {
+        "code": "1893",
+        "name": "NAVACCHIO"
+    },
+    {
+        "code": "1894",
+        "name": "NEIVE"
+    },
+    {
+        "code": "2775",
+        "name": "NEPEZZANO-PIANO D'ACCIO"
+    },
+    {
+        "code": "1895",
+        "name": "NERA MONTORO"
+    },
+    {
+        "code": "1896",
+        "name": "NETTUNO"
+    },
+    {
+        "code": "1897",
+        "name": "NIBBIA"
+    },
+    {
+        "code": "5427",
+        "name": "NICCONE"
+    },
+    {
+        "code": "1898",
+        "name": "NICHELINO"
+    },
+    {
+        "code": "1899",
+        "name": "NICORVO"
+    },
+    {
+        "code": "97",
+        "name": "NICOTERA"
+    },
+    {
+        "code": "1901",
+        "name": "NISCEMI"
+    },
+    {
+        "code": "1902",
+        "name": "NIZZA DI SICILIA"
+    },
+    {
+        "code": "1903",
+        "name": "NIZZA MONFERRATO"
+    },
+    {
+        "code": "1904",
+        "name": "NOALE-SCORZE'"
+    },
+    {
+        "code": "1905",
+        "name": "NOCERA INFERIORE"
+    },
+    {
+        "code": "1906",
+        "name": "NOCERA INFERIORE MERCATO"
+    },
+    {
+        "code": "1907",
+        "name": "NOCERA SUPERIORE"
+    },
+    {
+        "code": "98",
+        "name": "NOCERA TIRINESE"
+    },
+    {
+        "code": "1908",
+        "name": "NOCERA UMBRA"
+    },
+    {
+        "code": "1909",
+        "name": "NOCETO"
+    },
+    {
+        "code": "1910",
+        "name": "NOGARA"
+    },
+    {
+        "code": "1911",
+        "name": "NOLA"
+    },
+    {
+        "code": "5040",
+        "name": "NOLE"
+    },
+    {
+        "code": "1912",
+        "name": "NONE"
+    },
+    {
+        "code": "1913",
+        "name": "NOTARESCO"
+    },
+    {
+        "code": "1914",
+        "name": "NOTO"
+    },
+    {
+        "code": "99",
+        "name": "NOVA SIRI ROTONDELLA"
+    },
+    {
+        "code": "1917",
+        "name": "NOVARA"
+    },
+    {
+        "code": "1918",
+        "name": "NOVARA-MONTALBANO-FURNARI"
+    },
+    {
+        "code": "1919",
+        "name": "NOVATE-MEZZOLA"
+    },
+    {
+        "code": "288",
+        "name": "NOVI LIGURE"
+    },
+    {
+        "code": "1922",
+        "name": "NOZZANO"
+    },
+    {
+        "code": "1923",
+        "name": "NUCETTO"
+    },
+    {
+        "code": "1924",
+        "name": "NUOVO SALARIO"
+    },
+    {
+        "code": "1925",
+        "name": "NUS"
+    },
+    {
+        "code": "1927",
+        "name": "OCCHIOBELLO"
+    },
+    {
+        "code": "3407",
+        "name": "ODERZO"
+    },
+    {
+        "code": "1929",
+        "name": "OFFIDA CASTEL DI LAMA"
+    },
+    {
+        "code": "1930",
+        "name": "OGGIONO"
+    },
+    {
+        "code": "2278",
+        "name": "OGNINA PES"
+    },
+    {
+        "code": "1931",
+        "name": "OLBIA"
+    },
+    {
+        "code": "3231",
+        "name": "OLBIA TERRANOVA"
+    },
+    {
+        "code": "1933",
+        "name": "OLCENENGO"
+    },
+    {
+        "code": "1934",
+        "name": "OLCIO"
+    },
+    {
+        "code": "1935",
+        "name": "OLEGGIO"
+    },
+    {
+        "code": "1936",
+        "name": "OLEVANO"
+    },
+    {
+        "code": "3426",
+        "name": "OLGIATA"
+    },
+    {
+        "code": "1937",
+        "name": "OLGIATE-CALCO-BRIVIO"
+    },
+    {
+        "code": "1939",
+        "name": "OLIVERI TINDARI"
+    },
+    {
+        "code": "290",
+        "name": "OLIVETTA S.MICHELE"
+    },
+    {
+        "code": "1940",
+        "name": "OLMENETA"
+    },
+    {
+        "code": "3403",
+        "name": "OLMI SPERCENIGO"
+    },
+    {
+        "code": "1941",
+        "name": "OMEGNA"
+    },
+    {
+        "code": "1942",
+        "name": "OMEGNA-CRUSINALLO"
+    },
+    {
+        "code": "101",
+        "name": "OMIGNANO SALENTO"
+    },
+    {
+        "code": "1943",
+        "name": "ORA"
+    },
+    {
+        "code": "1944",
+        "name": "ORBETELLO-MONTE ARGENTARIO"
+    },
+    {
+        "code": "1946",
+        "name": "ORDONA"
+    },
+    {
+        "code": "1947",
+        "name": "ORIA"
+    },
+    {
+        "code": "1948",
+        "name": "ORICOLA-PERETO"
+    },
+    {
+        "code": "1949",
+        "name": "ORIO LITTA"
+    },
+    {
+        "code": "1950",
+        "name": "ORIOLO"
+    },
+    {
+        "code": "1952",
+        "name": "ORISTANO"
+    },
+    {
+        "code": "1953",
+        "name": "ORMEA"
+    },
+    {
+        "code": "1954",
+        "name": "ORNAVASSO"
+    },
+    {
+        "code": "3520",
+        "name": "ORSA"
+    },
+    {
+        "code": "1955",
+        "name": "ORSAGO"
+    },
+    {
+        "code": "1956",
+        "name": "ORSARA DI PUGLIA"
+    },
+    {
+        "code": "1957",
+        "name": "ORTA MIASINO"
+    },
+    {
+        "code": "1958",
+        "name": "ORTANOVA"
+    },
+    {
+        "code": "1959",
+        "name": "ORTE"
+    },
+    {
+        "code": "1960",
+        "name": "ORTONA"
+    },
+    {
+        "code": "1961",
+        "name": "ORVIETO"
+    },
+    {
+        "code": "1962",
+        "name": "OSCHIRI"
+    },
+    {
+        "code": "1963",
+        "name": "OSIMO CASTELFIDARDO"
+    },
+    {
+        "code": "1964",
+        "name": "OSNAGO"
+    },
+    {
+        "code": "1965",
+        "name": "OSOPPO"
+    },
+    {
+        "code": "1968",
+        "name": "OSPEDALETTO EUGANEO"
+    },
+    {
+        "code": "1969",
+        "name": "OSPEDALETTO LODIGIANO"
+    },
+    {
+        "code": "1972",
+        "name": "OSPITALE DI CADORE"
+    },
+    {
+        "code": "1973",
+        "name": "OSPITALETTO MANTOVANO"
+    },
+    {
+        "code": "1974",
+        "name": "OSPITALETTO TRAVAGLIATO"
+    },
+    {
+        "code": "1210",
+        "name": "OSTERIA NUOVA"
+    },
+    {
+        "code": "1976",
+        "name": "OSTIA PARMENSE"
+    },
+    {
+        "code": "1977",
+        "name": "OSTIGLIA"
+    },
+    {
+        "code": "1978",
+        "name": "OSTUNI"
+    },
+    {
+        "code": "1979",
+        "name": "OTTAVIA"
+    },
+    {
+        "code": "1981",
+        "name": "OULX CESANA CLAVIERE SESTRIERE"
+    },
+    {
+        "code": "292",
+        "name": "OVADA"
+    },
+    {
+        "code": "1982",
+        "name": "OVIGLIO"
+    },
+    {
+        "code": "1983",
+        "name": "OZIERI CHILIVANI"
+    },
+    {
+        "code": "3516",
+        "name": "OZZANO DELL'EMILIA"
+    },
+    {
+        "code": "1985",
+        "name": "OZZANO MONFERRATO"
+    },
+    {
+        "code": "1986",
+        "name": "OZZANO TARO"
+    },
+    {
+        "code": "1994",
+        "name": "PABILLONIS"
+    },
+    {
+        "code": "1995",
+        "name": "PACE DEL MELA"
+    },
+    {
+        "code": "1996",
+        "name": "PACECO"
+    },
+    {
+        "code": "1998",
+        "name": "PADERNO ROBBIATE"
+    },
+    {
+        "code": "1999",
+        "name": "PADIGLIONE"
+    },
+    {
+        "code": "2000",
+        "name": "PADOVA"
+    },
+    {
+        "code": "2004",
+        "name": "PADULI SUL CALORE"
+    },
+    {
+        "code": "2005",
+        "name": "PAESE"
+    },
+    {
+        "code": "2006",
+        "name": "PAESE CASTAGNOLE"
+    },
+    {
+        "code": "104",
+        "name": "PAESTUM"
+    },
+    {
+        "code": "2007",
+        "name": "PAGANI"
+    },
+    {
+        "code": "2008",
+        "name": "PAGANICA"
+    },
+    {
+        "code": "2009",
+        "name": "PALAGIANELLO"
+    },
+    {
+        "code": "2010",
+        "name": "PALAGIANO CHIATONA"
+    },
+    {
+        "code": "2011",
+        "name": "PALAGIANO MOTTOLA"
+    },
+    {
+        "code": "5431",
+        "name": "PALAZZACCIA"
+    },
+    {
+        "code": "3462",
+        "name": "PALAZZO REALE-ORLEANS"
+    },
+    {
+        "code": "2014",
+        "name": "PALAZZOLO DELLO STELLA"
+    },
+    {
+        "code": "2015",
+        "name": "PALAZZOLO SULL'OGLIO"
+    },
+    {
+        "code": "2016",
+        "name": "PALAZZOLO VERCELLESE"
+    },
+    {
+        "code": "2017",
+        "name": "PALENA"
+    },
+    {
+        "code": "3463",
+        "name": "PALERMO AEROPORTO"
+    },
+    {
+        "code": "1990",
+        "name": "PALERMO BRANCACCIO"
+    },
+    {
+        "code": "897",
+        "name": "PALERMO CARDILLO"
+    },
+    {
+        "code": "2018",
+        "name": "PALERMO CENTRALE"
+    },
+    {
+        "code": "3176",
+        "name": "PALERMO DE GASPERI"
+    },
+    {
+        "code": "1368",
+        "name": "PALERMO FRANCIA"
+    },
+    {
+        "code": "2332",
+        "name": "PALERMO GUADAGNA"
+    },
+    {
+        "code": "2804",
+        "name": "PALERMO LA MALFA"
+    },
+    {
+        "code": "3259",
+        "name": "PALERMO LIBERTA'"
+    },
+    {
+        "code": "1992",
+        "name": "PALERMO NOTARBARTOLO"
+    },
+    {
+        "code": "2531",
+        "name": "PALERMO S.LORENZO"
+    },
+    {
+        "code": "3177",
+        "name": "PALERMO SFERRACAVALLO"
+    },
+    {
+        "code": "2871",
+        "name": "PALERMO TOMMASO NATALE"
+    },
+    {
+        "code": "3033",
+        "name": "PALERMO VESPRI"
+    },
+    {
+        "code": "2019",
+        "name": "PALESTRO"
+    },
+    {
+        "code": "2020",
+        "name": "PALIDANO"
+    },
+    {
+        "code": "105",
+        "name": "PALIZZI"
+    },
+    {
+        "code": "2021",
+        "name": "PALLANZENO"
+    },
+    {
+        "code": "2023",
+        "name": "PALMA S.GENNARO"
+    },
+    {
+        "code": "2024",
+        "name": "PALMANOVA"
+    },
+    {
+        "code": "106",
+        "name": "PALMI"
+    },
+    {
+        "code": "4042",
+        "name": "PALMIRO TOGLIATTI"
+    },
+    {
+        "code": "2027",
+        "name": "PALOMBINA"
+    },
+    {
+        "code": "2031",
+        "name": "PANTANELLA"
+    },
+    {
+        "code": "2032",
+        "name": "PANTIERE DI CASTELBELLINO"
+    },
+    {
+        "code": "107",
+        "name": "PAOLA"
+    },
+    {
+        "code": "5443",
+        "name": "PAPIANO"
+    },
+    {
+        "code": "2033",
+        "name": "PARABIAGO"
+    },
+    {
+        "code": "3401",
+        "name": "PARATICO SARNICO"
+    },
+    {
+        "code": "4026",
+        "name": "PARCO LEONARDO"
+    },
+    {
+        "code": "108",
+        "name": "PARGHELIA"
+    },
+    {
+        "code": "2035",
+        "name": "PARMA"
+    },
+    {
+        "code": "2036",
+        "name": "PARONA LOMELLINA"
+    },
+    {
+        "code": "2037",
+        "name": "PARTINICO"
+    },
+    {
+        "code": "2038",
+        "name": "PASSIGNANO SUL TRASIMENO"
+    },
+    {
+        "code": "2082",
+        "name": "PASTENA"
+    },
+    {
+        "code": "2040",
+        "name": "PATERNO-S.PELINO"
+    },
+    {
+        "code": "2044",
+        "name": "PATTI-S.PIERO PATTI"
+    },
+    {
+        "code": "2045",
+        "name": "PAULILATINO"
+    },
+    {
+        "code": "2046",
+        "name": "PAVIA"
+    },
+    {
+        "code": "2301",
+        "name": "PAVIA PORTA GARIBALDI"
+    },
+    {
+        "code": "2047",
+        "name": "PAVONA"
+    },
+    {
+        "code": "802",
+        "name": "PC CALDIERO"
+    },
+    {
+        "code": "1250",
+        "name": "PC DOLCE'"
+    },
+    {
+        "code": "2067",
+        "name": "PC MEANA"
+    },
+    {
+        "code": "2080",
+        "name": "PEDASO"
+    },
+    {
+        "code": "2081",
+        "name": "PEDEROBBA CAVASO POSSAGNO"
+    },
+    {
+        "code": "2084",
+        "name": "PELLEZZANO"
+    },
+    {
+        "code": "2085",
+        "name": "PENANGO"
+    },
+    {
+        "code": "2086",
+        "name": "PERAROLO DI CADORE"
+    },
+    {
+        "code": "723",
+        "name": "PERCA-PLAN DE CORONES"
+    },
+    {
+        "code": "2088",
+        "name": "PERGINE"
+    },
+    {
+        "code": "2089",
+        "name": "PERGOLA"
+    },
+    {
+        "code": "2090",
+        "name": "PERI"
+    },
+    {
+        "code": "2092",
+        "name": "PERUGIA"
+    },
+    {
+        "code": "4084",
+        "name": "PERUGIA CAPITINI"
+    },
+    {
+        "code": "5458",
+        "name": "PERUGIA PALLOTTA"
+    },
+    {
+        "code": "2093",
+        "name": "PERUGIA PONTE S.GIOVANNI"
+    },
+    {
+        "code": "5459",
+        "name": "PERUGIA S.ANNA"
+    },
+    {
+        "code": "3474",
+        "name": "PERUGIA SILVESTRINI "
+    },
+    {
+        "code": "3475",
+        "name": "PERUGIA UNIVERSITA'"
+    },
+    {
+        "code": "2094",
+        "name": "PESARO"
+    },
+    {
+        "code": "2096",
+        "name": "PESCARA"
+    },
+    {
+        "code": "2097",
+        "name": "PESCARA PORTA NUOVA"
+    },
+    {
+        "code": "47",
+        "name": "PESCARA S.MARCO"
+    },
+    {
+        "code": "3057",
+        "name": "PESCARA TRIBUNALE"
+    },
+    {
+        "code": "2099",
+        "name": "PESCHIERA DEL GARDA"
+    },
+    {
+        "code": "2100",
+        "name": "PESCIA"
+    },
+    {
+        "code": "2101",
+        "name": "PESCINA"
+    },
+    {
+        "code": "2102",
+        "name": "PESCOCANALE"
+    },
+    {
+        "code": "2103",
+        "name": "PESCOLANCIANO-CHIAUCI"
+    },
+    {
+        "code": "2105",
+        "name": "PESSIONE"
+    },
+    {
+        "code": "2106",
+        "name": "PETROSINO STRASATTI"
+    },
+    {
+        "code": "2107",
+        "name": "PETTENASCO"
+    },
+    {
+        "code": "2109",
+        "name": "PETTORANO SUL GIZIO"
+    },
+    {
+        "code": "2111",
+        "name": "PIACENZA"
+    },
+    {
+        "code": "2112",
+        "name": "PIADENA"
+    },
+    {
+        "code": "3414",
+        "name": "PIAN DEL MUGNONE"
+    },
+    {
+        "code": "5448",
+        "name": "PIAN DI PORTO"
+    },
+    {
+        "code": "3523",
+        "name": "PIAN DI VENOLA"
+    },
+    {
+        "code": "2116",
+        "name": "PIANA"
+    },
+    {
+        "code": "2117",
+        "name": "PIANA BELLA DI MONTELIBRETTI"
+    },
+    {
+        "code": "2120",
+        "name": "PIANEROTTOLO D'ARIANO"
+    },
+    {
+        "code": "2121",
+        "name": "PIANFEI"
+    },
+    {
+        "code": "2123",
+        "name": "PIANO D'ORTA BOLOGNANO"
+    },
+    {
+        "code": "294",
+        "name": "PIANO ORIZZONTALE DEI GIOVI"
+    },
+    {
+        "code": "2125",
+        "name": "PIANORO"
+    },
+    {
+        "code": "2126",
+        "name": "PIANZANO"
+    },
+    {
+        "code": "2127",
+        "name": "PIAZZA AL SERCHIO"
+    },
+    {
+        "code": "2283",
+        "name": "PICANELLO"
+    },
+    {
+        "code": "2129",
+        "name": "PICERNO"
+    },
+    {
+        "code": "3450",
+        "name": "PIEDIMONTE-VILLA S.LUCIA-AQUINO"
+    },
+    {
+        "code": "2131",
+        "name": "PIEDIMULERA"
+    },
+    {
+        "code": "5430",
+        "name": "PIERANTONIO"
+    },
+    {
+        "code": "295",
+        "name": "PIETRA LIGURE"
+    },
+    {
+        "code": "296",
+        "name": "PIETRABISSARA"
+    },
+    {
+        "code": "2133",
+        "name": "PIETRAGALLA"
+    },
+    {
+        "code": "2134",
+        "name": "PIETRARSA-S.GIORGIO A CREMANO"
+    },
+    {
+        "code": "2135",
+        "name": "PIETRASANTA"
+    },
+    {
+        "code": "2137",
+        "name": "PIETRELCINA"
+    },
+    {
+        "code": "2138",
+        "name": "PIEVE ALBIGNOLA"
+    },
+    {
+        "code": "1749",
+        "name": "PIEVE EMANUELE"
+    },
+    {
+        "code": "297",
+        "name": "PIEVE LIGURE"
+    },
+    {
+        "code": "3350",
+        "name": "PIEVE VERGONTE"
+    },
+    {
+        "code": "2141",
+        "name": "PIEVETTA"
+    },
+    {
+        "code": "2142",
+        "name": "PIGNATARO MAGGIORE"
+    },
+    {
+        "code": "2143",
+        "name": "PINAROLO PO"
+    },
+    {
+        "code": "2144",
+        "name": "PINEROLO"
+    },
+    {
+        "code": "29",
+        "name": "PINEROLO OLIMPICA"
+    },
+    {
+        "code": "2145",
+        "name": "PINETO ATRI"
+    },
+    {
+        "code": "2146",
+        "name": "PINZANO"
+    },
+    {
+        "code": "2147",
+        "name": "PIOLTELLO LIMITO"
+    },
+    {
+        "code": "2148",
+        "name": "PIOMBINO"
+    },
+    {
+        "code": "2149",
+        "name": "PIOMBINO DESE"
+    },
+    {
+        "code": "2150",
+        "name": "PIOMBINO MARITTIMA"
+    },
+    {
+        "code": "2151",
+        "name": "PIONA"
+    },
+    {
+        "code": "2152",
+        "name": "PIOPPE DI SALVARO"
+    },
+    {
+        "code": "3439",
+        "name": "PIRAINETO"
+    },
+    {
+        "code": "2156",
+        "name": "PISA CENTRALE"
+    },
+    {
+        "code": "2157",
+        "name": "PISA/BINARI PISA S.ROSSORE"
+    },
+    {
+        "code": "5270",
+        "name": "PISCILLE"
+    },
+    {
+        "code": "2158",
+        "name": "PISCINA DI PINEROLO"
+    },
+    {
+        "code": "111",
+        "name": "PISCIOTTA PALINURO"
+    },
+    {
+        "code": "2160",
+        "name": "PISTICCI"
+    },
+    {
+        "code": "2161",
+        "name": "PISTOIA"
+    },
+    {
+        "code": "2162",
+        "name": "PISTOIA OVEST"
+    },
+    {
+        "code": "2163",
+        "name": "PITECCIO"
+    },
+    {
+        "code": "1596",
+        "name": "PIZZALE-LUNGAVILLA"
+    },
+    {
+        "code": "2164",
+        "name": "PIZZIGHETTONE"
+    },
+    {
+        "code": "112",
+        "name": "PIZZO"
+    },
+    {
+        "code": "2166",
+        "name": "PLOAGHE"
+    },
+    {
+        "code": "1080",
+        "name": "PM CHAMBAVE"
+    },
+    {
+        "code": "57",
+        "name": "PM ECCELLENTE"
+    },
+    {
+        "code": "61",
+        "name": "PM FEROLETO ANTICO PIANOPOLI"
+    },
+    {
+        "code": "66",
+        "name": "PM GABELLA GRANDE"
+    },
+    {
+        "code": "73",
+        "name": "PM ISOLA CAPO RIZZUTO"
+    },
+    {
+        "code": "1505",
+        "name": "PM ISPRA"
+    },
+    {
+        "code": "93",
+        "name": "PM MONTALTO ROSE"
+    },
+    {
+        "code": "1836",
+        "name": "PM MONTJOVET"
+    },
+    {
+        "code": "2306",
+        "name": "PM QUART"
+    },
+    {
+        "code": "147",
+        "name": "PM S.LEONARDO DI CUTRO"
+    },
+    {
+        "code": "148",
+        "name": "PM S.MAURO LA BRUCA"
+    },
+    {
+        "code": "168",
+        "name": "PM THURIO"
+    },
+    {
+        "code": "2186",
+        "name": "POCAPAGLIA"
+    },
+    {
+        "code": "2187",
+        "name": "POGGIBONSI-S.GIMIGNANO"
+    },
+    {
+        "code": "2189",
+        "name": "POGGIO FIDONI"
+    },
+    {
+        "code": "2190",
+        "name": "POGGIO IMPERIALE"
+    },
+    {
+        "code": "2191",
+        "name": "POGGIO MIRTETO"
+    },
+    {
+        "code": "2192",
+        "name": "POGGIO RENATICO"
+    },
+    {
+        "code": "2193",
+        "name": "POGGIO RUSCO"
+    },
+    {
+        "code": "2188",
+        "name": "POGGIO-CAREGGINE-VAGLI"
+    },
+    {
+        "code": "2195",
+        "name": "POGGIRIDENTI-TRESIVIO-PIATEDA"
+    },
+    {
+        "code": "2197",
+        "name": "POLESELLA"
+    },
+    {
+        "code": "113",
+        "name": "POLICASTRO BUSSENTINO"
+    },
+    {
+        "code": "114",
+        "name": "POLICORO TURSI"
+    },
+    {
+        "code": "2198",
+        "name": "POLIGNANO A MARE"
+    },
+    {
+        "code": "2199",
+        "name": "POLLENZA"
+    },
+    {
+        "code": "2200",
+        "name": "POLLINA-S.MAURO CASTELVERDE"
+    },
+    {
+        "code": "2202",
+        "name": "POMEZIA-S.PALOMBA"
+    },
+    {
+        "code": "2203",
+        "name": "POMPEI"
+    },
+    {
+        "code": "2204",
+        "name": "PONT-SAINT-MARTIN"
+    },
+    {
+        "code": "2205",
+        "name": "PONTASSIEVE"
+    },
+    {
+        "code": "2206",
+        "name": "PONTE A ELSA"
+    },
+    {
+        "code": "2207",
+        "name": "PONTE A MORIANO"
+    },
+    {
+        "code": "2208",
+        "name": "PONTE A TRESSA"
+    },
+    {
+        "code": "2209",
+        "name": "PONTE ALBANITO"
+    },
+    {
+        "code": "2210",
+        "name": "PONTE CASALDUNI"
+    },
+    {
+        "code": "2211",
+        "name": "PONTE D'ADDA"
+    },
+    {
+        "code": "2212",
+        "name": "PONTE D'ADIGE"
+    },
+    {
+        "code": "2213",
+        "name": "PONTE DELLA VENTURINA"
+    },
+    {
+        "code": "2297",
+        "name": "PONTE DI NONA"
+    },
+    {
+        "code": "3406",
+        "name": "PONTE DI PIAVE"
+    },
+    {
+        "code": "5268",
+        "name": "PONTE FELCINO"
+    },
+    {
+        "code": "2215",
+        "name": "PONTE GALERIA"
+    },
+    {
+        "code": "2216",
+        "name": "PONTE GARDENA-LAION"
+    },
+    {
+        "code": "2217",
+        "name": "PONTE GINORI"
+    },
+    {
+        "code": "2218",
+        "name": "PONTE IN VALTELLINA"
+    },
+    {
+        "code": "2219",
+        "name": "PONTE NELLE ALPI POLPET"
+    },
+    {
+        "code": "5434",
+        "name": "PONTE PATTOLI"
+    },
+    {
+        "code": "2222",
+        "name": "PONTE S.MARCO-CALCINATO"
+    },
+    {
+        "code": "2223",
+        "name": "PONTE S.PIETRO"
+    },
+    {
+        "code": "3153",
+        "name": "PONTE S.STEFANO"
+    },
+    {
+        "code": "3154",
+        "name": "PONTE SCHIAVO"
+    },
+    {
+        "code": "5438",
+        "name": "PONTE VALLECEPPI"
+    },
+    {
+        "code": "2224",
+        "name": "PONTEBBA"
+    },
+    {
+        "code": "2225",
+        "name": "PONTECAGNANO"
+    },
+    {
+        "code": "2226",
+        "name": "PONTECCHIO MARCONI"
+    },
+    {
+        "code": "2228",
+        "name": "PONTECURONE"
+    },
+    {
+        "code": "2229",
+        "name": "PONTEDERA CASCIANA TERME"
+    },
+    {
+        "code": "2230",
+        "name": "PONTELAGOSCURO"
+    },
+    {
+        "code": "2232",
+        "name": "PONTENURE"
+    },
+    {
+        "code": "298",
+        "name": "PONTETTO"
+    },
+    {
+        "code": "2233",
+        "name": "PONTI"
+    },
+    {
+        "code": "2234",
+        "name": "PONTICINO"
+    },
+    {
+        "code": "2235",
+        "name": "PONTIDA"
+    },
+    {
+        "code": "2236",
+        "name": "PONTREMOLI"
+    },
+    {
+        "code": "2240",
+        "name": "POPOLANO DI MARRADI"
+    },
+    {
+        "code": "2241",
+        "name": "POPOLI VITTORITO"
+    },
+    {
+        "code": "2242",
+        "name": "POPULONIA"
+    },
+    {
+        "code": "2243",
+        "name": "PORCARI"
+    },
+    {
+        "code": "2244",
+        "name": "PORDENONE"
+    },
+    {
+        "code": "2245",
+        "name": "PORRETTA  TERME"
+    },
+    {
+        "code": "2246",
+        "name": "PORTACOMARO"
+    },
+    {
+        "code": "2247",
+        "name": "PORTICI-ERCOLANO"
+    },
+    {
+        "code": "2250",
+        "name": "PORTO CERESIO"
+    },
+    {
+        "code": "2251",
+        "name": "PORTO D'ASCOLI"
+    },
+    {
+        "code": "2252",
+        "name": "PORTO DI VASTO"
+    },
+    {
+        "code": "2253",
+        "name": "PORTO EMPEDOCLE"
+    },
+    {
+        "code": "3230",
+        "name": "PORTO EMPEDOCLE SUCCURSALE"
+    },
+    {
+        "code": "2254",
+        "name": "PORTO RECANATI"
+    },
+    {
+        "code": "2255",
+        "name": "PORTO S.ELPIDIO"
+    },
+    {
+        "code": "2256",
+        "name": "PORTO S.GIORGIO FERMO"
+    },
+    {
+        "code": "2257",
+        "name": "PORTO TORRES"
+    },
+    {
+        "code": "2258",
+        "name": "PORTO TORRES MARITTIMA"
+    },
+    {
+        "code": "2260",
+        "name": "PORTO VALTRAVAGLIA"
+    },
+    {
+        "code": "2261",
+        "name": "PORTOGRUARO CAORLE"
+    },
+    {
+        "code": "2262",
+        "name": "PORTOMAGGIORE"
+    },
+    {
+        "code": "2264",
+        "name": "POSSIDENTE"
+    },
+    {
+        "code": "2265",
+        "name": "POSTIOMA"
+    },
+    {
+        "code": "2266",
+        "name": "POTENZA CENTRALE"
+    },
+    {
+        "code": "2267",
+        "name": "POTENZA MACCHIA ROMANA"
+    },
+    {
+        "code": "2070",
+        "name": "POTENZA PICENA MONTELUPONE"
+    },
+    {
+        "code": "2268",
+        "name": "POTENZA SUPERIORE"
+    },
+    {
+        "code": "426",
+        "name": "POTENZA UNIVERSITA'"
+    },
+    {
+        "code": "2270",
+        "name": "POVO-MESIANO"
+    },
+    {
+        "code": "2271",
+        "name": "POZZALLO"
+    },
+    {
+        "code": "300",
+        "name": "POZZOLO FORMIGARO"
+    },
+    {
+        "code": "2272",
+        "name": "POZZUOLI SOLFATARA"
+    },
+    {
+        "code": "380",
+        "name": "POZZUOLO MARTESANA"
+    },
+    {
+        "code": "2273",
+        "name": "PRACCHIA"
+    },
+    {
+        "code": "115",
+        "name": "PRAJA AJETA TORTORA"
+    },
+    {
+        "code": "301",
+        "name": "PRASCO CREMOLINO"
+    },
+    {
+        "code": "2275",
+        "name": "PRATA CAMPORTACCIO"
+    },
+    {
+        "code": "2276",
+        "name": "PRATA PRATOLA"
+    },
+    {
+        "code": "2277",
+        "name": "PRATIGNONE"
+    },
+    {
+        "code": "356",
+        "name": "PRATO BORGONUOVO"
+    },
+    {
+        "code": "2279",
+        "name": "PRATO CENTRALE"
+    },
+    {
+        "code": "2280",
+        "name": "PRATO PORTA AL SERRAGLIO"
+    },
+    {
+        "code": "2281",
+        "name": "PRATO SESIA"
+    },
+    {
+        "code": "2285",
+        "name": "PRATOLA PELIGNA"
+    },
+    {
+        "code": "2284",
+        "name": "PRATOLA PELIGNA SUPERIORE"
+    },
+    {
+        "code": "2286",
+        "name": "PRE'-SAINT-DIDIER"
+    },
+    {
+        "code": "2287",
+        "name": "PREGANZIOL"
+    },
+    {
+        "code": "381",
+        "name": "PREGNANA MILANESE"
+    },
+    {
+        "code": "2290",
+        "name": "PREMOSELLO CHIOVENDA"
+    },
+    {
+        "code": "5437",
+        "name": "PRETOLA"
+    },
+    {
+        "code": "2291",
+        "name": "PREZZA"
+    },
+    {
+        "code": "2292",
+        "name": "PRIMOLANO"
+    },
+    {
+        "code": "2293",
+        "name": "PRIOLA"
+    },
+    {
+        "code": "2294",
+        "name": "PRIOLO MELILLI"
+    },
+    {
+        "code": "2298",
+        "name": "PRIVERNO FOSSANOVA"
+    },
+    {
+        "code": "2305",
+        "name": "QUARONA"
+    },
+    {
+        "code": "2308",
+        "name": "QUARTO D'ALTINO"
+    },
+    {
+        "code": "2309",
+        "name": "QUARTO DI MARANO"
+    },
+    {
+        "code": "4033",
+        "name": "QUATTRO VENTI"
+    },
+    {
+        "code": "1243",
+        "name": "QUATTRO VILLE"
+    },
+    {
+        "code": "2310",
+        "name": "QUERCIANELLA-SONNINO"
+    },
+    {
+        "code": "2311",
+        "name": "QUERO VAS"
+    },
+    {
+        "code": "304",
+        "name": "QUILIANO-VADO LIGURE"
+    },
+    {
+        "code": "2314",
+        "name": "RACALMUTO"
+    },
+    {
+        "code": "2315",
+        "name": "RACCONIGI"
+    },
+    {
+        "code": "2318",
+        "name": "RAGUSA"
+    },
+    {
+        "code": "2319",
+        "name": "RAGUSA IBLA"
+    },
+    {
+        "code": "2320",
+        "name": "RAIANO"
+    },
+    {
+        "code": "5435",
+        "name": "RAMAZZANO"
+    },
+    {
+        "code": "5424",
+        "name": "RANCHI"
+    },
+    {
+        "code": "305",
+        "name": "RAPALLO"
+    },
+    {
+        "code": "2323",
+        "name": "RAPOLANO TERME"
+    },
+    {
+        "code": "3521",
+        "name": "RASTIGNANO"
+    },
+    {
+        "code": "2327",
+        "name": "RAVENNA"
+    },
+    {
+        "code": "2329",
+        "name": "RECALE"
+    },
+    {
+        "code": "306",
+        "name": "RECCO"
+    },
+    {
+        "code": "2330",
+        "name": "REDIPUGLIA"
+    },
+    {
+        "code": "1305",
+        "name": "REGGIO CALABRIA AEROPORTO"
+    },
+    {
+        "code": "119",
+        "name": "REGGIO DI CALABRIA ARCHI"
+    },
+    {
+        "code": "120",
+        "name": "REGGIO DI CALABRIA BOCALE"
+    },
+    {
+        "code": "121",
+        "name": "REGGIO DI CALABRIA CATONA"
+    },
+    {
+        "code": "116",
+        "name": "REGGIO DI CALABRIA CENTRALE"
+    },
+    {
+        "code": "122",
+        "name": "REGGIO DI CALABRIA GALLICO"
+    },
+    {
+        "code": "123",
+        "name": "REGGIO DI CALABRIA LIDO"
+    },
+    {
+        "code": "124",
+        "name": "REGGIO DI CALABRIA OMECA"
+    },
+    {
+        "code": "125",
+        "name": "REGGIO DI CALABRIA PELLARO"
+    },
+    {
+        "code": "2693",
+        "name": "REGGIO DI CALABRIA PENTIMELE"
+    },
+    {
+        "code": "126",
+        "name": "REGGIO DI CALABRIA S.CATERINA"
+    },
+    {
+        "code": "127",
+        "name": "REGGIO DI CALABRIA S.GREGORIO"
+    },
+    {
+        "code": "2331",
+        "name": "REGGIO EMILIA"
+    },
+    {
+        "code": "4054",
+        "name": "REGGIO EMILIA AV MEDIOPADANA"
+    },
+    {
+        "code": "2335",
+        "name": "REMEDELLO SOPRA"
+    },
+    {
+        "code": "2336",
+        "name": "REMEDELLO SOTTO"
+    },
+    {
+        "code": "2337",
+        "name": "RENATE-VEDUGGIO"
+    },
+    {
+        "code": "2338",
+        "name": "RESANA"
+    },
+    {
+        "code": "2345",
+        "name": "RHO"
+    },
+    {
+        "code": "3098",
+        "name": "RHO FIERA"
+    },
+    {
+        "code": "128",
+        "name": "RIACE"
+    },
+    {
+        "code": "2349",
+        "name": "RIARDO-PIETRAMELARA"
+    },
+    {
+        "code": "129",
+        "name": "RICADI-CAPO VATICANO"
+    },
+    {
+        "code": "2350",
+        "name": "RICCIONE"
+    },
+    {
+        "code": "2351",
+        "name": "RIDOTTI-COLLEPIANO"
+    },
+    {
+        "code": "2352",
+        "name": "RIETI"
+    },
+    {
+        "code": "2354",
+        "name": "RIGNANO SULL'ARNO REGGELLO"
+    },
+    {
+        "code": "2355",
+        "name": "RIGOLI"
+    },
+    {
+        "code": "2356",
+        "name": "RIGOMAGNO"
+    },
+    {
+        "code": "307",
+        "name": "RIGOROSO"
+    },
+    {
+        "code": "2358",
+        "name": "RIMINI"
+    },
+    {
+        "code": "2346",
+        "name": "RIMINI MIRAMARE"
+    },
+    {
+        "code": "2347",
+        "name": "RIMINI TORRE PEDRERA"
+    },
+    {
+        "code": "2348",
+        "name": "RIMINI VISERBA"
+    },
+    {
+        "code": "3522",
+        "name": "RIMINIFIERA"
+    },
+    {
+        "code": "2359",
+        "name": "RIO DI PUSTERIA"
+    },
+    {
+        "code": "2361",
+        "name": "RIOLA"
+    },
+    {
+        "code": "309",
+        "name": "RIOMAGGIORE"
+    },
+    {
+        "code": "2362",
+        "name": "RIONERO ATELLA RIPACANDIDA"
+    },
+    {
+        "code": "2363",
+        "name": "RIPABOTTONI S.ELIA"
+    },
+    {
+        "code": "2364",
+        "name": "RIPAFRATTA"
+    },
+    {
+        "code": "2367",
+        "name": "RIPARBELLA"
+    },
+    {
+        "code": "2368",
+        "name": "RISANO"
+    },
+    {
+        "code": "310",
+        "name": "RIVA TRIGOSO"
+    },
+    {
+        "code": "311",
+        "name": "RIVALTA SCRIVIA"
+    },
+    {
+        "code": "5025",
+        "name": "RIVAROLO"
+    },
+    {
+        "code": "2373",
+        "name": "RIVISONDOLI-PESCOCOSTANZO"
+    },
+    {
+        "code": "2391",
+        "name": "ROBBIO"
+    },
+    {
+        "code": "2392",
+        "name": "ROBECCO-PONTEVICO"
+    },
+    {
+        "code": "2393",
+        "name": "ROBILANTE"
+    },
+    {
+        "code": "2394",
+        "name": "ROCCA D'EVANDRO-S.VITTORE"
+    },
+    {
+        "code": "2395",
+        "name": "ROCCA DI CORNO"
+    },
+    {
+        "code": "2396",
+        "name": "ROCCA DI FONDI"
+    },
+    {
+        "code": "130",
+        "name": "ROCCA IMPERIALE"
+    },
+    {
+        "code": "2397",
+        "name": "ROCCA RAVINDOLA"
+    },
+    {
+        "code": "131",
+        "name": "ROCCABERNARDA"
+    },
+    {
+        "code": "2400",
+        "name": "ROCCALUMERA MANDANICI"
+    },
+    {
+        "code": "2402",
+        "name": "ROCCAPALUMBA-ALIA"
+    },
+    {
+        "code": "2404",
+        "name": "ROCCARASO"
+    },
+    {
+        "code": "2405",
+        "name": "ROCCASECCA"
+    },
+    {
+        "code": "2406",
+        "name": "ROCCASTRADA"
+    },
+    {
+        "code": "2408",
+        "name": "ROCCAVIONE"
+    },
+    {
+        "code": "2409",
+        "name": "ROCCAVIVI"
+    },
+    {
+        "code": "1244",
+        "name": "ROCCELLA"
+    },
+    {
+        "code": "132",
+        "name": "ROCCELLA JONICA"
+    },
+    {
+        "code": "2410",
+        "name": "ROCCHETTA CAIRO"
+    },
+    {
+        "code": "2411",
+        "name": "ROCCHETTA S.ANTONIO-LACEDONIA"
+    },
+    {
+        "code": "2412",
+        "name": "ROCCHETTA TANARO-CERRO"
+    },
+    {
+        "code": "2413",
+        "name": "RODALLO"
+    },
+    {
+        "code": "2415",
+        "name": "ROLO NOVI FABBRICO"
+    },
+    {
+        "code": "2374",
+        "name": "ROMA AURELIA"
+    },
+    {
+        "code": "2375",
+        "name": "ROMA BALDUINA"
+    },
+    {
+        "code": "2377",
+        "name": "ROMA MONTE MARIO"
+    },
+    {
+        "code": "3411",
+        "name": "ROMA NOMENTANA LL"
+    },
+    {
+        "code": "2378",
+        "name": "ROMA NOMENTANA LM"
+    },
+    {
+        "code": "2379",
+        "name": "ROMA OSTIENSE"
+    },
+    {
+        "code": "2381",
+        "name": "ROMA PRENESTINA"
+    },
+    {
+        "code": "2382",
+        "name": "ROMA S.FILIPPO NERI"
+    },
+    {
+        "code": "2383",
+        "name": "ROMA S.PIETRO"
+    },
+    {
+        "code": "2416",
+        "name": "ROMA TERMINI"
+    },
+    {
+        "code": "2385",
+        "name": "ROMA TIBURTINA"
+    },
+    {
+        "code": "2387",
+        "name": "ROMA TRASTEVERE"
+    },
+    {
+        "code": "2388",
+        "name": "ROMA TUSCOLANA"
+    },
+    {
+        "code": "2417",
+        "name": "ROMAGNANO SESIA"
+    },
+    {
+        "code": "2418",
+        "name": "ROMAGNANO-VIETRI-SALVITELLE"
+    },
+    {
+        "code": "2419",
+        "name": "ROMANO"
+    },
+    {
+        "code": "2420",
+        "name": "ROMANORE"
+    },
+    {
+        "code": "2421",
+        "name": "ROMETTA MESSINESE"
+    },
+    {
+        "code": "2423",
+        "name": "RONCEGNO BAGNI-MARTER"
+    },
+    {
+        "code": "2424",
+        "name": "RONCHI DEI LEGIONARI NORD"
+    },
+    {
+        "code": "313",
+        "name": "RONCO SCRIVIA"
+    },
+    {
+        "code": "2427",
+        "name": "RONTA"
+    },
+    {
+        "code": "2428",
+        "name": "ROSA'"
+    },
+    {
+        "code": "133",
+        "name": "ROSARNO"
+    },
+    {
+        "code": "134",
+        "name": "ROSETO CAPO SPULICO"
+    },
+    {
+        "code": "2429",
+        "name": "ROSETO DEGLI ABRUZZI"
+    },
+    {
+        "code": "2430",
+        "name": "ROSIGNANO"
+    },
+    {
+        "code": "2431",
+        "name": "ROSOLINA"
+    },
+    {
+        "code": "2432",
+        "name": "ROSOLINI"
+    },
+    {
+        "code": "135",
+        "name": "ROSSANO"
+    },
+    {
+        "code": "2433",
+        "name": "ROSSANO VENETO"
+    },
+    {
+        "code": "314",
+        "name": "ROSSIGLIONE"
+    },
+    {
+        "code": "2434",
+        "name": "ROSTA"
+    },
+    {
+        "code": "2435",
+        "name": "ROTTOFRENO"
+    },
+    {
+        "code": "2436",
+        "name": "ROVASENDA"
+    },
+    {
+        "code": "3509",
+        "name": "ROVASENDA ALTA"
+    },
+    {
+        "code": "2437",
+        "name": "ROVATO"
+    },
+    {
+        "code": "2438",
+        "name": "ROVERBELLA"
+    },
+    {
+        "code": "2440",
+        "name": "ROVERETO"
+    },
+    {
+        "code": "2443",
+        "name": "ROVIANO"
+    },
+    {
+        "code": "2444",
+        "name": "ROVIGLIANO"
+    },
+    {
+        "code": "2445",
+        "name": "ROVIGO"
+    },
+    {
+        "code": "2448",
+        "name": "RUBIERA"
+    },
+    {
+        "code": "2449",
+        "name": "RUDALZA"
+    },
+    {
+        "code": "2451",
+        "name": "RUFINA"
+    },
+    {
+        "code": "2452",
+        "name": "RUSSI"
+    },
+    {
+        "code": "2453",
+        "name": "S.AGAPITO LONGANO"
+    },
+    {
+        "code": "2454",
+        "name": "S.AGATA DI MILITELLO"
+    },
+    {
+        "code": "2455",
+        "name": "S.AGATA SUL SANTERNO"
+    },
+    {
+        "code": "2456",
+        "name": "S.ALESSIO SICULO-FORZA D'AGRO'"
+    },
+    {
+        "code": "2457",
+        "name": "S.AMBROGIO"
+    },
+    {
+        "code": "138",
+        "name": "S.ANDREA DELLO JONIO"
+    },
+    {
+        "code": "2460",
+        "name": "S.ANNA DI CHIOGGIA"
+    },
+    {
+        "code": "2461",
+        "name": "S.ANNA ROBELLA"
+    },
+    {
+        "code": "2462",
+        "name": "S.ANTIMO-S.ARPINO"
+    },
+    {
+        "code": "2463",
+        "name": "S.ANTONINO DI SALUGGIA"
+    },
+    {
+        "code": "2464",
+        "name": "S.ANTONINO VAIE"
+    },
+    {
+        "code": "2465",
+        "name": "S.ANTONIO MANTOVANO"
+    },
+    {
+        "code": "5433",
+        "name": "S.BARTOLOMEO-RESINA"
+    },
+    {
+        "code": "2469",
+        "name": "S.BENEDETTO DEL TRONTO"
+    },
+    {
+        "code": "2470",
+        "name": "S.BENEDETTO SAMBRO-CASTIGLIONE PEPOLI"
+    },
+    {
+        "code": "5022",
+        "name": "S.BENIGNO"
+    },
+    {
+        "code": "2473",
+        "name": "S.BIAGIO"
+    },
+    {
+        "code": "3404",
+        "name": "S.BIAGIO DI CALLALTA"
+    },
+    {
+        "code": "2474",
+        "name": "S.BONIFACIO"
+    },
+    {
+        "code": "2475",
+        "name": "S.CANDIDO"
+    },
+    {
+        "code": "2476",
+        "name": "S.CASSIANO"
+    },
+    {
+        "code": "2477",
+        "name": "S.CASSIANO VALCHIAVENNA"
+    },
+    {
+        "code": "2478",
+        "name": "S.CATALDO"
+    },
+    {
+        "code": "140",
+        "name": "S.CATERINA DELLO JONIO"
+    },
+    {
+        "code": "2479",
+        "name": "S.CLAUDIO"
+    },
+    {
+        "code": "2481",
+        "name": "S.CRISTINA E BISSONE"
+    },
+    {
+        "code": "2480",
+        "name": "S.CRISTOFORO AL LAGO-ISCHIA"
+    },
+    {
+        "code": "2482",
+        "name": "S.CROCE DEL LAGO"
+    },
+    {
+        "code": "2485",
+        "name": "S.DAMIANO D'ASTI"
+    },
+    {
+        "code": "2486",
+        "name": "S.DEMETRIO DE' VESTINI"
+    },
+    {
+        "code": "151",
+        "name": "S.DOMENICA"
+    },
+    {
+        "code": "2489",
+        "name": "S.DONA' DI PIAVE-JESOLO"
+    },
+    {
+        "code": "2487",
+        "name": "S.DONATO MILANESE"
+    },
+    {
+        "code": "2490",
+        "name": "S.DONNINO BADIA"
+    },
+    {
+        "code": "2491",
+        "name": "S.ELENA-ESTE"
+    },
+    {
+        "code": "2492",
+        "name": "S.ELLERO"
+    },
+    {
+        "code": "2494",
+        "name": "S.EUROSIA"
+    },
+    {
+        "code": "2495",
+        "name": "S.FELICE SUL PANARO"
+    },
+    {
+        "code": "2496",
+        "name": "S.FILIPPO"
+    },
+    {
+        "code": "2498",
+        "name": "S.FLAVIA-SOLUNTO-PORTICELLO"
+    },
+    {
+        "code": "2500",
+        "name": "S.FREDIANO A SETTIMO"
+    },
+    {
+        "code": "2501",
+        "name": "S.GAVINO"
+    },
+    {
+        "code": "3431",
+        "name": "S.GENNARO"
+    },
+    {
+        "code": "2502",
+        "name": "S.GERMANO VERCELLESE"
+    },
+    {
+        "code": "2504",
+        "name": "S.GIACOMO DI TEGLIO"
+    },
+    {
+        "code": "2505",
+        "name": "S.GIORGIO"
+    },
+    {
+        "code": "2506",
+        "name": "S.GIORGIO CASALE"
+    },
+    {
+        "code": "2508",
+        "name": "S.GIORGIO DELLE PERTICHE"
+    },
+    {
+        "code": "2507",
+        "name": "S.GIORGIO DI NOGARO"
+    },
+    {
+        "code": "2510",
+        "name": "S.GIORGIO DI PIANO"
+    },
+    {
+        "code": "2515",
+        "name": "S.GIOVANNI AL NATISONE"
+    },
+    {
+        "code": "3562",
+        "name": "S.GIOVANNI DI CASARSA"
+    },
+    {
+        "code": "2513",
+        "name": "S.GIOVANNI IN CROCE"
+    },
+    {
+        "code": "2516",
+        "name": "S.GIOVANNI IN PERSICETO"
+    },
+    {
+        "code": "2517",
+        "name": "S.GIOVANNI VALDARNO"
+    },
+    {
+        "code": "2518",
+        "name": "S.GIULETTA"
+    },
+    {
+        "code": "2520",
+        "name": "S.GIULIANO MILANESE"
+    },
+    {
+        "code": "2521",
+        "name": "S.GIULIANO PIACENTINO"
+    },
+    {
+        "code": "2522",
+        "name": "S.GIULIANO PIEMONTE"
+    },
+    {
+        "code": "2523",
+        "name": "S.GIULIANO TERME"
+    },
+    {
+        "code": "318",
+        "name": "S.GIUSEPPE DI CAIRO"
+    },
+    {
+        "code": "2525",
+        "name": "S.GIUSTINA-CESIO"
+    },
+    {
+        "code": "5414",
+        "name": "S.GIUSTINO"
+    },
+    {
+        "code": "2526",
+        "name": "S.ILARIO D'ENZA"
+    },
+    {
+        "code": "3069",
+        "name": "S.LAZZARO DI SAVENA"
+    },
+    {
+        "code": "2529",
+        "name": "S.LIBERATO"
+    },
+    {
+        "code": "3091",
+        "name": "S.LORENZO"
+    },
+    {
+        "code": "2530",
+        "name": "S.LORENZO MAGGIORE"
+    },
+    {
+        "code": "142",
+        "name": "S.LUCIDO MARINA"
+    },
+    {
+        "code": "2535",
+        "name": "S.MARCELLINO FRIGNANO"
+    },
+    {
+        "code": "2536",
+        "name": "S.MARCO D'ALUNZIO-TORRENOVA"
+    },
+    {
+        "code": "143",
+        "name": "S.MARCO ROGGIANO"
+    },
+    {
+        "code": "3412",
+        "name": "S.MARCO VECCHIO"
+    },
+    {
+        "code": "315",
+        "name": "S.MARGHERITA LIGURE PORTOFINO"
+    },
+    {
+        "code": "2538",
+        "name": "S.MARIA CAPUA VETERE"
+    },
+    {
+        "code": "2540",
+        "name": "S.MARIA DELLE MOLE"
+    },
+    {
+        "code": "2542",
+        "name": "S.MARIA LA BRUNA"
+    },
+    {
+        "code": "2541",
+        "name": "S.MARIA LA LONGA"
+    },
+    {
+        "code": "2544",
+        "name": "S.MARINELLA"
+    },
+    {
+        "code": "2545",
+        "name": "S.MARINO"
+    },
+    {
+        "code": "2546",
+        "name": "S.MARTINO AL CIMINO"
+    },
+    {
+        "code": "2548",
+        "name": "S.MARTINO BUONALBERGO"
+    },
+    {
+        "code": "1039",
+        "name": "S.MARTINO CAVA"
+    },
+    {
+        "code": "2549",
+        "name": "S.MARTINO DI LUPARI"
+    },
+    {
+        "code": "5440",
+        "name": "S.MARTINO IN CAMPO"
+    },
+    {
+        "code": "2550",
+        "name": "S.MARTINO IN GATTARA"
+    },
+    {
+        "code": "5038",
+        "name": "S.MAURIZIO CANAVESE"
+    },
+    {
+        "code": "3207",
+        "name": "S.MICHELE"
+    },
+    {
+        "code": "2556",
+        "name": "S.MICHELE DI SERINO"
+    },
+    {
+        "code": "2557",
+        "name": "S.MICHELE IN BOSCO"
+    },
+    {
+        "code": "2558",
+        "name": "S.MINIATO FUCECCHIO"
+    },
+    {
+        "code": "2559",
+        "name": "S.MOMME'"
+    },
+    {
+        "code": "2560",
+        "name": "S.NAZARIO"
+    },
+    {
+        "code": "2561",
+        "name": "S.NICOLA TONNARA"
+    },
+    {
+        "code": "2564",
+        "name": "S.NICOLO"
+    },
+    {
+        "code": "2568",
+        "name": "S.PAOLO SOLBRITO"
+    },
+    {
+        "code": "2569",
+        "name": "S.PATRIZIO"
+    },
+    {
+        "code": "3377",
+        "name": "S.PIERO A SIEVE"
+    },
+    {
+        "code": "145",
+        "name": "S.PIETRO A MAIDA-MAIDA"
+    },
+    {
+        "code": "2571",
+        "name": "S.PIETRO A VICO"
+    },
+    {
+        "code": "2572",
+        "name": "S.PIETRO AVELLANA-CAPRACOTTA"
+    },
+    {
+        "code": "2573",
+        "name": "S.PIETRO BERBENNO"
+    },
+    {
+        "code": "2574",
+        "name": "S.PIETRO IN CASALE"
+    },
+    {
+        "code": "2575",
+        "name": "S.PIETRO IN GU'"
+    },
+    {
+        "code": "2576",
+        "name": "S.PIETRO VERNOTICO"
+    },
+    {
+        "code": "2580",
+        "name": "S.ROMANO-MONTOPOLI-S.CROCE"
+    },
+    {
+        "code": "2581",
+        "name": "S.SEBASTIANO PO"
+    },
+    {
+        "code": "2582",
+        "name": "S.SEVERA"
+    },
+    {
+        "code": "2583",
+        "name": "S.SEVERINO MARCHE"
+    },
+    {
+        "code": "2584",
+        "name": "S.SEVERO"
+    },
+    {
+        "code": "2587",
+        "name": "S.STEFANO BELBO"
+    },
+    {
+        "code": "2588",
+        "name": "S.STEFANO DI CAMASTRA-MISTRETTA"
+    },
+    {
+        "code": "2590",
+        "name": "S.STEFANO DI MAGRA"
+    },
+    {
+        "code": "2589",
+        "name": "S.STEFANO LODIGIANO"
+    },
+    {
+        "code": "2591",
+        "name": "S.STEFANO UDINESE"
+    },
+    {
+        "code": "2592",
+        "name": "S.STINO DI LIVENZA"
+    },
+    {
+        "code": "2593",
+        "name": "S.TERESA DI RIVA"
+    },
+    {
+        "code": "2594",
+        "name": "S.TERESA LONGARINI"
+    },
+    {
+        "code": "4080",
+        "name": "S.TROVASO"
+    },
+    {
+        "code": "2597",
+        "name": "S.VINCENZO"
+    },
+    {
+        "code": "2598",
+        "name": "S.VINCENZO VALLE ROVETO"
+    },
+    {
+        "code": "2599",
+        "name": "S.VITO AL TAGLIAMENTO"
+    },
+    {
+        "code": "2600",
+        "name": "S.VITO DEI NORMANNI"
+    },
+    {
+        "code": "2601",
+        "name": "S.VITO LANCIANO"
+    },
+    {
+        "code": "2602",
+        "name": "S.VITTORIA"
+    },
+    {
+        "code": "2603",
+        "name": "S.ZENO FOLZANO"
+    },
+    {
+        "code": "2604",
+        "name": "S.ZENONE AL LAMBRO"
+    },
+    {
+        "code": "2605",
+        "name": "SACILE"
+    },
+    {
+        "code": "2606",
+        "name": "SACILE S.LIBERALE"
+    },
+    {
+        "code": "2607",
+        "name": "SAGRADO"
+    },
+    {
+        "code": "2609",
+        "name": "SAINT-PIERRE"
+    },
+    {
+        "code": "3380",
+        "name": "SAIRANO"
+    },
+    {
+        "code": "2611",
+        "name": "SAIRANO ZINASCO"
+    },
+    {
+        "code": "2612",
+        "name": "SALA AL BARRO-GALBIATE"
+    },
+    {
+        "code": "2613",
+        "name": "SALANDRA-GROTTOLE"
+    },
+    {
+        "code": "2614",
+        "name": "SALBERTRAND"
+    },
+    {
+        "code": "2615",
+        "name": "SALE LANGHE"
+    },
+    {
+        "code": "2616",
+        "name": "SALEMI GIBELLINA"
+    },
+    {
+        "code": "2617",
+        "name": "SALERNO"
+    },
+    {
+        "code": "2618",
+        "name": "SALERNO IRNO"
+    },
+    {
+        "code": "2619",
+        "name": "SALETTO"
+    },
+    {
+        "code": "2620",
+        "name": "SALICETO"
+    },
+    {
+        "code": "146",
+        "name": "SALINE DI REGGIO"
+    },
+    {
+        "code": "2621",
+        "name": "SALONE"
+    },
+    {
+        "code": "2622",
+        "name": "SALORNO"
+    },
+    {
+        "code": "2623",
+        "name": "SALSOMAGGIORE TERME"
+    },
+    {
+        "code": "2624",
+        "name": "SALUGGIA"
+    },
+    {
+        "code": "2625",
+        "name": "SALUSSOLA"
+    },
+    {
+        "code": "2626",
+        "name": "SALUZZO"
+    },
+    {
+        "code": "2629",
+        "name": "SALZANO ROBEGANO"
+    },
+    {
+        "code": "2630",
+        "name": "SAMASSI SERRENTI"
+    },
+    {
+        "code": "2631",
+        "name": "SAMOGGIA"
+    },
+    {
+        "code": "2632",
+        "name": "SAMOLACO"
+    },
+    {
+        "code": "2633",
+        "name": "SAMPIERI"
+    },
+    {
+        "code": "5451",
+        "name": "SAN FAUSTINO-CASIGLIANO"
+    },
+    {
+        "code": "3155",
+        "name": "SAN PAOLO"
+    },
+    {
+        "code": "3200",
+        "name": "SAN POLO MATESE"
+    },
+    {
+        "code": "2634",
+        "name": "SANDIGLIANO"
+    },
+    {
+        "code": "2635",
+        "name": "SANFRE`"
+    },
+    {
+        "code": "5456",
+        "name": "SANGEMINI"
+    },
+    {
+        "code": "2636",
+        "name": "SANGIANO"
+    },
+    {
+        "code": "2638",
+        "name": "SANGUINETTO"
+    },
+    {
+        "code": "2639",
+        "name": "SANLURI STATO"
+    },
+    {
+        "code": "2640",
+        "name": "SANNAZZARO"
+    },
+    {
+        "code": "320",
+        "name": "SANREMO"
+    },
+    {
+        "code": "5421",
+        "name": "SANSECONDO"
+    },
+    {
+        "code": "5460",
+        "name": "SANSEPOLCRO"
+    },
+    {
+        "code": "2466",
+        "name": "SANTARCANGELO DI ROMAGNA"
+    },
+    {
+        "code": "2644",
+        "name": "SANTE MARIE"
+    },
+    {
+        "code": "2646",
+        "name": "SANTERAMO"
+    },
+    {
+        "code": "2647",
+        "name": "SANTHIA'"
+    },
+    {
+        "code": "2648",
+        "name": "SANTOPADRE"
+    },
+    {
+        "code": "322",
+        "name": "SANTUARIO"
+    },
+    {
+        "code": "153",
+        "name": "SAPRI"
+    },
+    {
+        "code": "2651",
+        "name": "SARMATO"
+    },
+    {
+        "code": "2652",
+        "name": "SARNO"
+    },
+    {
+        "code": "2654",
+        "name": "SARRE"
+    },
+    {
+        "code": "2655",
+        "name": "SARTIRANA"
+    },
+    {
+        "code": "2656",
+        "name": "SARZANA"
+    },
+    {
+        "code": "2657",
+        "name": "SASSA TORNIMPARTE"
+    },
+    {
+        "code": "2658",
+        "name": "SASSARI"
+    },
+    {
+        "code": "2660",
+        "name": "SASSO MARCONI"
+    },
+    {
+        "code": "2661",
+        "name": "SASSOFERRATO ARCEVIA"
+    },
+    {
+        "code": "2662",
+        "name": "SASSONE"
+    },
+    {
+        "code": "2664",
+        "name": "SAVIGLIANO"
+    },
+    {
+        "code": "2665",
+        "name": "SAVIGNANO GRECI"
+    },
+    {
+        "code": "2666",
+        "name": "SAVIGNANO SUL RUBICONE"
+    },
+    {
+        "code": "323",
+        "name": "SAVONA"
+    },
+    {
+        "code": "2668",
+        "name": "SCAFA S.VALENTINO-CARAMANICO TERME"
+    },
+    {
+        "code": "2669",
+        "name": "SCAFATI"
+    },
+    {
+        "code": "154",
+        "name": "SCALEA S.DOMENICA TALAO"
+    },
+    {
+        "code": "2672",
+        "name": "SCALETTA ZANCLEA"
+    },
+    {
+        "code": "155",
+        "name": "SCANZANO JONICO-MONTALBANO JONICO"
+    },
+    {
+        "code": "2676",
+        "name": "SCARLINO"
+    },
+    {
+        "code": "3560",
+        "name": "SCERNE DI PINETO"
+    },
+    {
+        "code": "2678",
+        "name": "SCHIO"
+    },
+    {
+        "code": "2681",
+        "name": "SCICLI"
+    },
+    {
+        "code": "156",
+        "name": "SCILLA"
+    },
+    {
+        "code": "3438",
+        "name": "SCOPETI"
+    },
+    {
+        "code": "2683",
+        "name": "SCORCETOLI"
+    },
+    {
+        "code": "2684",
+        "name": "SCORDIA"
+    },
+    {
+        "code": "2685",
+        "name": "SCURCOLA MARSICANA"
+    },
+    {
+        "code": "2686",
+        "name": "SECUGNAGO"
+    },
+    {
+        "code": "2687",
+        "name": "SEDICO BRIBANO"
+    },
+    {
+        "code": "2688",
+        "name": "SEGESTA TEMPIO"
+    },
+    {
+        "code": "3507",
+        "name": "SEGRATE"
+    },
+    {
+        "code": "5415",
+        "name": "SELCI LAMA"
+    },
+    {
+        "code": "2689",
+        "name": "SELLA DI CORNO"
+    },
+    {
+        "code": "157",
+        "name": "SELLIA MARINA"
+    },
+    {
+        "code": "2694",
+        "name": "SENIGALLIA"
+    },
+    {
+        "code": "2696",
+        "name": "SEREGNO"
+    },
+    {
+        "code": "4041",
+        "name": "SERENISSIMA"
+    },
+    {
+        "code": "2697",
+        "name": "SERIATE"
+    },
+    {
+        "code": "2698",
+        "name": "SERINO"
+    },
+    {
+        "code": "2700",
+        "name": "SERRA S.QUIRICO"
+    },
+    {
+        "code": "2701",
+        "name": "SERRADIFALCO"
+    },
+    {
+        "code": "2702",
+        "name": "SERRALUNGA CERESETO"
+    },
+    {
+        "code": "2703",
+        "name": "SERRAMANNA NURAMINIS"
+    },
+    {
+        "code": "2707",
+        "name": "SERRAVALLE ALL'ADIGE"
+    },
+    {
+        "code": "2705",
+        "name": "SERRAVALLE D'ASTI"
+    },
+    {
+        "code": "2706",
+        "name": "SERRAVALLE PISTOIESE"
+    },
+    {
+        "code": "326",
+        "name": "SERRAVALLE SCRIVIA"
+    },
+    {
+        "code": "2710",
+        "name": "SESSA AURUNCA-ROCCAMONFINA"
+    },
+    {
+        "code": "2711",
+        "name": "SESSANO DEL MOLISE"
+    },
+    {
+        "code": "2713",
+        "name": "SESTO CALENDE"
+    },
+    {
+        "code": "2714",
+        "name": "SESTO CAMPANO"
+    },
+    {
+        "code": "2715",
+        "name": "SESTO FIORENTINO"
+    },
+    {
+        "code": "2716",
+        "name": "SESTO S.GIOVANNI"
+    },
+    {
+        "code": "327",
+        "name": "SESTRI LEVANTE"
+    },
+    {
+        "code": "2717",
+        "name": "SETTEBAGNI"
+    },
+    {
+        "code": "2718",
+        "name": "SETTEQUERCE"
+    },
+    {
+        "code": "2719",
+        "name": "SETTIME CINAGLIO MOMBARONE"
+    },
+    {
+        "code": "2720",
+        "name": "SETTIMO"
+    },
+    {
+        "code": "158",
+        "name": "SETTINGIANO"
+    },
+    {
+        "code": "2722",
+        "name": "SEVEGLIANO"
+    },
+    {
+        "code": "2724",
+        "name": "SEZZADIO"
+    },
+    {
+        "code": "2725",
+        "name": "SEZZE ROMANO"
+    },
+    {
+        "code": "2727",
+        "name": "SGURGOLA"
+    },
+    {
+        "code": "159",
+        "name": "SIBARI"
+    },
+    {
+        "code": "2728",
+        "name": "SICIGNANO DEGLI ALBURNI"
+    },
+    {
+        "code": "160",
+        "name": "SIDERNO"
+    },
+    {
+        "code": "2729",
+        "name": "SIECI"
+    },
+    {
+        "code": "2730",
+        "name": "SIENA"
+    },
+    {
+        "code": "2731",
+        "name": "SIENA ZONA INDUSTRIALE"
+    },
+    {
+        "code": "2732",
+        "name": "SIGNA"
+    },
+    {
+        "code": "2734",
+        "name": "SILIQUA"
+    },
+    {
+        "code": "2735",
+        "name": "SILLA"
+    },
+    {
+        "code": "2736",
+        "name": "SILLAVENGO"
+    },
+    {
+        "code": "2737",
+        "name": "SILVI"
+    },
+    {
+        "code": "161",
+        "name": "SIMERI CRICHI"
+    },
+    {
+        "code": "2738",
+        "name": "SINALUNGA"
+    },
+    {
+        "code": "2739",
+        "name": "SIPICCIANO"
+    },
+    {
+        "code": "2740",
+        "name": "SIPICCIANO S.NICOLA"
+    },
+    {
+        "code": "2741",
+        "name": "SIPONTO"
+    },
+    {
+        "code": "2742",
+        "name": "SIRACUSA"
+    },
+    {
+        "code": "2744",
+        "name": "SISTIANA-VISOGLIANO"
+    },
+    {
+        "code": "2745",
+        "name": "SIZZANO"
+    },
+    {
+        "code": "2747",
+        "name": "SOFFRATTA"
+    },
+    {
+        "code": "2748",
+        "name": "SOLAGNA"
+    },
+    {
+        "code": "2749",
+        "name": "SOLAROLO"
+    },
+    {
+        "code": "2750",
+        "name": "SOLARUSSA"
+    },
+    {
+        "code": "2751",
+        "name": "SOLERO"
+    },
+    {
+        "code": "5432",
+        "name": "SOLFAGNANO-PARLESCA"
+    },
+    {
+        "code": "2753",
+        "name": "SOLIGNANO"
+    },
+    {
+        "code": "2754",
+        "name": "SOLOFRA"
+    },
+    {
+        "code": "2756",
+        "name": "SOLOPACA"
+    },
+    {
+        "code": "2757",
+        "name": "SOMMA LOMBARDO"
+    },
+    {
+        "code": "2759",
+        "name": "SOMMARIVA DEL BOSCO"
+    },
+    {
+        "code": "2760",
+        "name": "SONDRIO"
+    },
+    {
+        "code": "2761",
+        "name": "SORA"
+    },
+    {
+        "code": "2763",
+        "name": "SORESINA"
+    },
+    {
+        "code": "2764",
+        "name": "SORGENTI DEL PESCHIERA"
+    },
+    {
+        "code": "328",
+        "name": "SORI"
+    },
+    {
+        "code": "162",
+        "name": "SOVERATO"
+    },
+    {
+        "code": "651",
+        "name": "SPADAFORA"
+    },
+    {
+        "code": "2766",
+        "name": "SPAGNUOLA"
+    },
+    {
+        "code": "2768",
+        "name": "SPARANISE"
+    },
+    {
+        "code": "2770",
+        "name": "SPELLO"
+    },
+    {
+        "code": "163",
+        "name": "SPEZZANO ALBANESE TERME"
+    },
+    {
+        "code": "2771",
+        "name": "SPIGNO"
+    },
+    {
+        "code": "2772",
+        "name": "SPINAZZOLA"
+    },
+    {
+        "code": "4083",
+        "name": "SPINEA"
+    },
+    {
+        "code": "2773",
+        "name": "SPINETOLI COLLI"
+    },
+    {
+        "code": "2441",
+        "name": "SPINETOLI VILLA S.PIO X"
+    },
+    {
+        "code": "2774",
+        "name": "SPINETTA"
+    },
+    {
+        "code": "2776",
+        "name": "SPOLETO"
+    },
+    {
+        "code": "329",
+        "name": "SPOTORNO NOLI"
+    },
+    {
+        "code": "2778",
+        "name": "SPRESIANO"
+    },
+    {
+        "code": "164",
+        "name": "SQUILLACE"
+    },
+    {
+        "code": "2779",
+        "name": "SQUINZANO"
+    },
+    {
+        "code": "2780",
+        "name": "ST.DALMAS DE TENDE"
+    },
+    {
+        "code": "85099",
+        "name": "STABIO"
+    },
+    {
+        "code": "2784",
+        "name": "STANGHELLA"
+    },
+    {
+        "code": "2785",
+        "name": "STAZIONE PER L'ALPAGO"
+    },
+    {
+        "code": "3596",
+        "name": "STEZZANO"
+    },
+    {
+        "code": "2787",
+        "name": "STICCIANO"
+    },
+    {
+        "code": "2788",
+        "name": "STIMIGLIANO"
+    },
+    {
+        "code": "2789",
+        "name": "STRADA CASALE"
+    },
+    {
+        "code": "2790",
+        "name": "STRADELLA"
+    },
+    {
+        "code": "2791",
+        "name": "STRAMBINO"
+    },
+    {
+        "code": "2792",
+        "name": "STRASSOLDO"
+    },
+    {
+        "code": "2793",
+        "name": "STRESA"
+    },
+    {
+        "code": "2794",
+        "name": "STREVI"
+    },
+    {
+        "code": "2795",
+        "name": "STRIGNO"
+    },
+    {
+        "code": "165",
+        "name": "STRONGOLI"
+    },
+    {
+        "code": "2797",
+        "name": "SU CANALE"
+    },
+    {
+        "code": "2798",
+        "name": "SULMONA"
+    },
+    {
+        "code": "3550",
+        "name": "SULMONA S.RUFINA"
+    },
+    {
+        "code": "2799",
+        "name": "SULMONA-INTRODACQUA"
+    },
+    {
+        "code": "2800",
+        "name": "SUNO"
+    },
+    {
+        "code": "2801",
+        "name": "SUSA"
+    },
+    {
+        "code": "2802",
+        "name": "SUSEGANA"
+    },
+    {
+        "code": "2803",
+        "name": "SUZZARA"
+    },
+    {
+        "code": "331",
+        "name": "TAGGIA ARMA"
+    },
+    {
+        "code": "2805",
+        "name": "TAGLIACOZZO"
+    },
+    {
+        "code": "2807",
+        "name": "TAINO ANGERA"
+    },
+    {
+        "code": "2808",
+        "name": "TALAMONA"
+    },
+    {
+        "code": "2809",
+        "name": "TALAMONE"
+    },
+    {
+        "code": "2810",
+        "name": "TAORMINA-GIARDINI"
+    },
+    {
+        "code": "2811",
+        "name": "TARANTO"
+    },
+    {
+        "code": "2812",
+        "name": "TARCENTO"
+    },
+    {
+        "code": "2813",
+        "name": "TARGIA"
+    },
+    {
+        "code": "2815",
+        "name": "TARQUINIA"
+    },
+    {
+        "code": "166",
+        "name": "TARSIA"
+    },
+    {
+        "code": "3443",
+        "name": "TARVISIO BOSCOVERDE"
+    },
+    {
+        "code": "2818",
+        "name": "TASSIGNANO-CAPANNORI"
+    },
+    {
+        "code": "2820",
+        "name": "TAVAZZANO"
+    },
+    {
+        "code": "2822",
+        "name": "TEANO"
+    },
+    {
+        "code": "2823",
+        "name": "TEGLIO VENETO"
+    },
+    {
+        "code": "2825",
+        "name": "TELESE CERRETO"
+    },
+    {
+        "code": "3461",
+        "name": "TEMPIO DI VULCANO"
+    },
+    {
+        "code": "2826",
+        "name": "TENDE"
+    },
+    {
+        "code": "2827",
+        "name": "TERAMO"
+    },
+    {
+        "code": "2828",
+        "name": "TERLANO-ANDRIANO"
+    },
+    {
+        "code": "2829",
+        "name": "TERME EUGANEE-ABANO-MONTEGROTTO"
+    },
+    {
+        "code": "2830",
+        "name": "TERME VIGLIATORE"
+    },
+    {
+        "code": "2831",
+        "name": "TERMINI IMERESE"
+    },
+    {
+        "code": "2832",
+        "name": "TERMOLI"
+    },
+    {
+        "code": "2833",
+        "name": "TERNATE VARANO BORGHI"
+    },
+    {
+        "code": "2834",
+        "name": "TERNI"
+    },
+    {
+        "code": "5457",
+        "name": "TERNI BORGO RIVO"
+    },
+    {
+        "code": "2835",
+        "name": "TERNI COSPEA"
+    },
+    {
+        "code": "2836",
+        "name": "TERNO"
+    },
+    {
+        "code": "2837",
+        "name": "TERONTOLA CORTONA"
+    },
+    {
+        "code": "2838",
+        "name": "TERRACINA"
+    },
+    {
+        "code": "2842",
+        "name": "TERRENOVE"
+    },
+    {
+        "code": "2845",
+        "name": "TERZO MONTABONE"
+    },
+    {
+        "code": "2846",
+        "name": "TEZZE DI GRIGNO"
+    },
+    {
+        "code": "2847",
+        "name": "THIENE"
+    },
+    {
+        "code": "2849",
+        "name": "TIONE DEGLI ABRUZZI"
+    },
+    {
+        "code": "2850",
+        "name": "TIRANO"
+    },
+    {
+        "code": "2852",
+        "name": "TITO"
+    },
+    {
+        "code": "2853",
+        "name": "TIVOLI"
+    },
+    {
+        "code": "2867",
+        "name": "TOCCO CASTIGLIONE"
+    },
+    {
+        "code": "5449",
+        "name": "TODI PONTE NAIA"
+    },
+    {
+        "code": "5386",
+        "name": "TODI PONTE RIO"
+    },
+    {
+        "code": "2868",
+        "name": "TOLENTINO"
+    },
+    {
+        "code": "3228",
+        "name": "TOLENTINO CAMPUS"
+    },
+    {
+        "code": "2869",
+        "name": "TOLLO CANOSA SANNITA"
+    },
+    {
+        "code": "2872",
+        "name": "TONCO ALFIANO"
+    },
+    {
+        "code": "2873",
+        "name": "TOR SAPIENZA"
+    },
+    {
+        "code": "3430",
+        "name": "TOR VERGATA"
+    },
+    {
+        "code": "2874",
+        "name": "TORA PRESENZANO"
+    },
+    {
+        "code": "169",
+        "name": "TORANO LATTARICO"
+    },
+    {
+        "code": "5037",
+        "name": "TORINO AEROPORTO DI CASELLE"
+    },
+    {
+        "code": "5388",
+        "name": "TORINO CORSO GROSSETO"
+    },
+    {
+        "code": "2855",
+        "name": "TORINO LINGOTTO"
+    },
+    {
+        "code": "2876",
+        "name": "TORINO PORTA NUOVA"
+    },
+    {
+        "code": "3163",
+        "name": "TORINO PORTA SUSA"
+    },
+    {
+        "code": "194",
+        "name": "TORINO REBAUDENGO FOSSATA"
+    },
+    {
+        "code": "2864",
+        "name": "TORINO STURA"
+    },
+    {
+        "code": "2878",
+        "name": "TORRAZZA PIEMONTE"
+    },
+    {
+        "code": "2879",
+        "name": "TORRE ANNUNZIATA CENTRALE"
+    },
+    {
+        "code": "2880",
+        "name": "TORRE ANNUNZIATA CITTA'"
+    },
+    {
+        "code": "2881",
+        "name": "TORRE DE' PICENARDI"
+    },
+    {
+        "code": "2882",
+        "name": "TORRE DEI PASSERI"
+    },
+    {
+        "code": "2883",
+        "name": "TORRE DEL GRECO"
+    },
+    {
+        "code": "2884",
+        "name": "TORRE DEL LAGO PUCCINI"
+    },
+    {
+        "code": "2886",
+        "name": "TORRE IN PIETRA-PALIDORO"
+    },
+    {
+        "code": "171",
+        "name": "TORRE MELISSA"
+    },
+    {
+        "code": "172",
+        "name": "TORRE ORSAIA"
+    },
+    {
+        "code": "2887",
+        "name": "TORRE PELLICE"
+    },
+    {
+        "code": "2889",
+        "name": "TORREBERETTI"
+    },
+    {
+        "code": "688",
+        "name": "TORREGROTTA"
+    },
+    {
+        "code": "173",
+        "name": "TORREMEZZO DI FALCONARA"
+    },
+    {
+        "code": "2892",
+        "name": "TORRICELLA"
+    },
+    {
+        "code": "2893",
+        "name": "TORRICOLA"
+    },
+    {
+        "code": "2894",
+        "name": "TORRILE S.POLO"
+    },
+    {
+        "code": "2079",
+        "name": "TORRIONE"
+    },
+    {
+        "code": "2895",
+        "name": "TORRITA DI SIENA"
+    },
+    {
+        "code": "332",
+        "name": "TORTONA"
+    },
+    {
+        "code": "2897",
+        "name": "TORTORETO LIDO"
+    },
+    {
+        "code": "174",
+        "name": "TOSCANO"
+    },
+    {
+        "code": "2900",
+        "name": "TRABIA"
+    },
+    {
+        "code": "3165",
+        "name": "TRACCIA"
+    },
+    {
+        "code": "2902",
+        "name": "TRANI"
+    },
+    {
+        "code": "2903",
+        "name": "TRAPANI"
+    },
+    {
+        "code": "2904",
+        "name": "TRAPPA"
+    },
+    {
+        "code": "2905",
+        "name": "TRAPPETO"
+    },
+    {
+        "code": "2906",
+        "name": "TRAVEDONA BIANDRONNO"
+    },
+    {
+        "code": "2907",
+        "name": "TRAVESIO"
+    },
+    {
+        "code": "2908",
+        "name": "TRE CROCI"
+    },
+    {
+        "code": "2140",
+        "name": "TREBASELEGHE"
+    },
+    {
+        "code": "5412",
+        "name": "TREBBIO"
+    },
+    {
+        "code": "175",
+        "name": "TREBISACCE"
+    },
+    {
+        "code": "2909",
+        "name": "TRECATE"
+    },
+    {
+        "code": "2910",
+        "name": "TRECELLA"
+    },
+    {
+        "code": "2911",
+        "name": "TREMESTIERI"
+    },
+    {
+        "code": "2912",
+        "name": "TRENTO"
+    },
+    {
+        "code": "4079",
+        "name": "TRENTO S.BARTOLAMEO"
+    },
+    {
+        "code": "4030",
+        "name": "TRENTO S.CHIARA"
+    },
+    {
+        "code": "2914",
+        "name": "TREPUZZI"
+    },
+    {
+        "code": "2916",
+        "name": "TRESENDA-APRICA-TEGLIO"
+    },
+    {
+        "code": "5423",
+        "name": "TRESTINA"
+    },
+    {
+        "code": "2918",
+        "name": "TREVI"
+    },
+    {
+        "code": "2919",
+        "name": "TREVIGLIO"
+    },
+    {
+        "code": "2920",
+        "name": "TREVIGLIO OVEST"
+    },
+    {
+        "code": "2921",
+        "name": "TREVIGNANO SIGNORESSA"
+    },
+    {
+        "code": "2922",
+        "name": "TREVISO CENTRALE"
+    },
+    {
+        "code": "2923",
+        "name": "TREZZANO SUL NAVIGLIO"
+    },
+    {
+        "code": "2924",
+        "name": "TRICESIMO-S.PELAGIO"
+    },
+    {
+        "code": "3182",
+        "name": "TRIESTE AIRPORT"
+    },
+    {
+        "code": "2925",
+        "name": "TRIESTE CENTRALE"
+    },
+    {
+        "code": "2927",
+        "name": "TRINITA' BENE VAGIENNA"
+    },
+    {
+        "code": "2926",
+        "name": "TRINITAPOLI-S.FERDINANDO DI PUGLIA"
+    },
+    {
+        "code": "2928",
+        "name": "TRINO VERCELLESE"
+    },
+    {
+        "code": "2930",
+        "name": "TRIUGGIO-PONTE ALBIATE"
+    },
+    {
+        "code": "2931",
+        "name": "TRIVIGNO"
+    },
+    {
+        "code": "2932",
+        "name": "TROFARELLO"
+    },
+    {
+        "code": "2934",
+        "name": "TROMELLO"
+    },
+    {
+        "code": "2935",
+        "name": "TRONZANO"
+    },
+    {
+        "code": "176",
+        "name": "TROPEA"
+    },
+    {
+        "code": "2948",
+        "name": "TUFO"
+    },
+    {
+        "code": "2949",
+        "name": "TUORO SUL TRASIMENO"
+    },
+    {
+        "code": "2950",
+        "name": "TUSA"
+    },
+    {
+        "code": "2956",
+        "name": "UDINE"
+    },
+    {
+        "code": "2958",
+        "name": "UGOVIZZA VALBRUNA"
+    },
+    {
+        "code": "5428",
+        "name": "UMBERTIDE"
+    },
+    {
+        "code": "2960",
+        "name": "URAS MOGORO"
+    },
+    {
+        "code": "2961",
+        "name": "URBISAGLIA SFORZACOSTA"
+    },
+    {
+        "code": "2964",
+        "name": "VADA"
+    },
+    {
+        "code": "3420",
+        "name": "VAGLIA"
+    },
+    {
+        "code": "2966",
+        "name": "VAIANO"
+    },
+    {
+        "code": "3158",
+        "name": "VAIO OSPEDALE"
+    },
+    {
+        "code": "2967",
+        "name": "VAIRANO-CAIANELLO"
+    },
+    {
+        "code": "385",
+        "name": "VAL D'ALA"
+    },
+    {
+        "code": "2970",
+        "name": "VALDAORA-ANTERSELVA"
+    },
+    {
+        "code": "2973",
+        "name": "VALENZA"
+    },
+    {
+        "code": "3429",
+        "name": "VALLE AURELIA"
+    },
+    {
+        "code": "1631",
+        "name": "VALLE DELL'ANIENE-MANDELA-SAMBUCI"
+    },
+    {
+        "code": "2977",
+        "name": "VALLE DI MERCATO S.SEVERINO"
+    },
+    {
+        "code": "2976",
+        "name": "VALLE LOMELLINA"
+    },
+    {
+        "code": "3276",
+        "name": "VALLE MADDALONI"
+    },
+    {
+        "code": "337",
+        "name": "VALLECROSIA"
+    },
+    {
+        "code": "2978",
+        "name": "VALLEDOLMO"
+    },
+    {
+        "code": "2980",
+        "name": "VALLELUNGA"
+    },
+    {
+        "code": "177",
+        "name": "VALLO DELLA LUCANIA-CASTELNUOVO"
+    },
+    {
+        "code": "2981",
+        "name": "VALMADONNA"
+    },
+    {
+        "code": "2982",
+        "name": "VALMADRERA"
+    },
+    {
+        "code": "2983",
+        "name": "VALMONTONE"
+    },
+    {
+        "code": "2985",
+        "name": "VALTOPINA"
+    },
+    {
+        "code": "2986",
+        "name": "VANDOIES"
+    },
+    {
+        "code": "2987",
+        "name": "VANZAGO POGLIANO"
+    },
+    {
+        "code": "2989",
+        "name": "VAPRIO D'AGOGNA"
+    },
+    {
+        "code": "2990",
+        "name": "VARALLO POMBIA"
+    },
+    {
+        "code": "2991",
+        "name": "VARALLO SESIA"
+    },
+    {
+        "code": "2992",
+        "name": "VARANO"
+    },
+    {
+        "code": "338",
+        "name": "VARAZZE"
+    },
+    {
+        "code": "2993",
+        "name": "VARENNA ESINO"
+    },
+    {
+        "code": "2994",
+        "name": "VARESE"
+    },
+    {
+        "code": "2995",
+        "name": "VARIGNANA"
+    },
+    {
+        "code": "2998",
+        "name": "VASTO S.SALVO"
+    },
+    {
+        "code": "2999",
+        "name": "VASTOGIRARDI"
+    },
+    {
+        "code": "3006",
+        "name": "VELLETRI"
+    },
+    {
+        "code": "3007",
+        "name": "VENAFRO"
+    },
+    {
+        "code": "5034",
+        "name": "VENARIA REALE REGGIA"
+    },
+    {
+        "code": "5033",
+        "name": "VENARIA REALE RIGOLA STADIO"
+    },
+    {
+        "code": "3000",
+        "name": "VENEZIA CARPENEDO"
+    },
+    {
+        "code": "3002",
+        "name": "VENEZIA MESTRE"
+    },
+    {
+        "code": "1867",
+        "name": "VENEZIA MESTRE GAZZERA"
+    },
+    {
+        "code": "1921",
+        "name": "VENEZIA MESTRE OLIMPIA"
+    },
+    {
+        "code": "3538",
+        "name": "VENEZIA MESTRE OSPEDALE"
+    },
+    {
+        "code": "3004",
+        "name": "VENEZIA PORTO MARGHERA"
+    },
+    {
+        "code": "3009",
+        "name": "VENEZIA S.LUCIA"
+    },
+    {
+        "code": "339",
+        "name": "VENTIMIGLIA"
+    },
+    {
+        "code": "3011",
+        "name": "VENZONE"
+    },
+    {
+        "code": "3012",
+        "name": "VERBANIA-PALLANZA"
+    },
+    {
+        "code": "3013",
+        "name": "VERCEIA"
+    },
+    {
+        "code": "3014",
+        "name": "VERCELLI"
+    },
+    {
+        "code": "3015",
+        "name": "VERCURAGO S.GIROLAMO"
+    },
+    {
+        "code": "3016",
+        "name": "VERDELLO DALMINE"
+    },
+    {
+        "code": "3017",
+        "name": "VERGATO"
+    },
+    {
+        "code": "3018",
+        "name": "VERGIATE"
+    },
+    {
+        "code": "3019",
+        "name": "VERGNASCO"
+    },
+    {
+        "code": "3020",
+        "name": "VERNANTE"
+    },
+    {
+        "code": "341",
+        "name": "VERNAZZA"
+    },
+    {
+        "code": "3021",
+        "name": "VERNIO MONTEPIANO CANTAGALLO"
+    },
+    {
+        "code": "3022",
+        "name": "VEROLANUOVA"
+    },
+    {
+        "code": "3023",
+        "name": "VEROLENGO"
+    },
+    {
+        "code": "3025",
+        "name": "VERONA PORTA NUOVA"
+    },
+    {
+        "code": "3027",
+        "name": "VERONA PORTA VESCOVO"
+    },
+    {
+        "code": "3030",
+        "name": "VERRES"
+    },
+    {
+        "code": "3031",
+        "name": "VERZUOLO"
+    },
+    {
+        "code": "3032",
+        "name": "VESPOLATE"
+    },
+    {
+        "code": "3034",
+        "name": "VETRALLA"
+    },
+    {
+        "code": "3035",
+        "name": "VEZZANO LIGURE"
+    },
+    {
+        "code": "3038",
+        "name": "VIADANA BRESCIANA"
+    },
+    {
+        "code": "3039",
+        "name": "VIAREGGIO"
+    },
+    {
+        "code": "178",
+        "name": "VIBO MARINA"
+    },
+    {
+        "code": "179",
+        "name": "VIBO VALENTIA-PIZZO"
+    },
+    {
+        "code": "3042",
+        "name": "VICCHIO"
+    },
+    {
+        "code": "3043",
+        "name": "VICENZA"
+    },
+    {
+        "code": "3045",
+        "name": "VICOFERTILE"
+    },
+    {
+        "code": "3046",
+        "name": "VICOFORTE S.MICHELE"
+    },
+    {
+        "code": "3047",
+        "name": "VICOVARO"
+    },
+    {
+        "code": "3048",
+        "name": "VIDALENGO"
+    },
+    {
+        "code": "3049",
+        "name": "VIETRI SUL MARE-AMALFI"
+    },
+    {
+        "code": "3050",
+        "name": "VIEVOLA"
+    },
+    {
+        "code": "3053",
+        "name": "VIGEVANO"
+    },
+    {
+        "code": "3054",
+        "name": "VIGLIANO CANDELO"
+    },
+    {
+        "code": "3056",
+        "name": "VIGLIANO D'ASTI"
+    },
+    {
+        "code": "2627",
+        "name": "VIGNA CLARA PES"
+    },
+    {
+        "code": "3058",
+        "name": "VIGNA DI VALLE"
+    },
+    {
+        "code": "3059",
+        "name": "VIGNALE"
+    },
+    {
+        "code": "3060",
+        "name": "VIGNALE RIOTORTO"
+    },
+    {
+        "code": "3061",
+        "name": "VIGNATE"
+    },
+    {
+        "code": "3062",
+        "name": "VIGODARZERE"
+    },
+    {
+        "code": "3064",
+        "name": "VIGONZA PIANIGA"
+    },
+    {
+        "code": "3065",
+        "name": "VILLA BONELLI"
+    },
+    {
+        "code": "3068",
+        "name": "VILLA CLAUDIA"
+    },
+    {
+        "code": "3070",
+        "name": "VILLA DEL CONTE"
+    },
+    {
+        "code": "3071",
+        "name": "VILLA DI TIRANO"
+    },
+    {
+        "code": "3072",
+        "name": "VILLA LITERNO"
+    },
+    {
+        "code": "3073",
+        "name": "VILLA OPICINA"
+    },
+    {
+        "code": "5436",
+        "name": "VILLA PITIGNANO"
+    },
+    {
+        "code": "3074",
+        "name": "VILLA RAVERIO"
+    },
+    {
+        "code": "183",
+        "name": "VILLA S.GIOVANNI"
+    },
+    {
+        "code": "182",
+        "name": "VILLA S.GIOVANNI CANNITELLO"
+    },
+    {
+        "code": "3076",
+        "name": "VILLA S.MICHELE"
+    },
+    {
+        "code": "3077",
+        "name": "VILLA S.SEBASTIANO"
+    },
+    {
+        "code": "3079",
+        "name": "VILLABARTOLOMEA"
+    },
+    {
+        "code": "3080",
+        "name": "VILLABASSA-BRAIES-VAL DI BRAIES"
+    },
+    {
+        "code": "3083",
+        "name": "VILLADOSSOLA"
+    },
+    {
+        "code": "3087",
+        "name": "VILLAFRANCA DI VERONA"
+    },
+    {
+        "code": "3089",
+        "name": "VILLAFRANCA TIRRENA-SAPONARA"
+    },
+    {
+        "code": "3085",
+        "name": "VILLAFRANCA-BAGNONE"
+    },
+    {
+        "code": "3086",
+        "name": "VILLAFRANCA-CANTARANA"
+    },
+    {
+        "code": "3090",
+        "name": "VILLALBA"
+    },
+    {
+        "code": "3092",
+        "name": "VILLAMAGGIORE"
+    },
+    {
+        "code": "3093",
+        "name": "VILLAMASSARGIA DOMUSNOVAS"
+    },
+    {
+        "code": "5041",
+        "name": "VILLANOVA CANAVESE-GROSSO"
+    },
+    {
+        "code": "3094",
+        "name": "VILLANOVA D'ARDA"
+    },
+    {
+        "code": "3095",
+        "name": "VILLANOVA D'ARDENGHI"
+    },
+    {
+        "code": "3096",
+        "name": "VILLANOVA D'ASTI"
+    },
+    {
+        "code": "3097",
+        "name": "VILLANOVA DI REGGIOLO"
+    },
+    {
+        "code": "184",
+        "name": "VILLAPIANA LIDO"
+    },
+    {
+        "code": "185",
+        "name": "VILLAPIANA TORRE CERCHIARA"
+    },
+    {
+        "code": "3100",
+        "name": "VILLAROSA"
+    },
+    {
+        "code": "3101",
+        "name": "VILLASANTA PARCO"
+    },
+    {
+        "code": "3102",
+        "name": "VILLASOR"
+    },
+    {
+        "code": "3103",
+        "name": "VILLASPECIOSA UTA"
+    },
+    {
+        "code": "3104",
+        "name": "VILLASTELLONE"
+    },
+    {
+        "code": "3105",
+        "name": "VILLAVERLA MONTECCHIO"
+    },
+    {
+        "code": "3106",
+        "name": "VILLAZZANO"
+    },
+    {
+        "code": "3107",
+        "name": "VILLENEUVE"
+    },
+    {
+        "code": "3108",
+        "name": "VILLETTA"
+    },
+    {
+        "code": "3109",
+        "name": "VILLETTA MALAGNINO"
+    },
+    {
+        "code": "3110",
+        "name": "VILLETTA S.ROMANO"
+    },
+    {
+        "code": "3111",
+        "name": "VILPIANO-NALLES"
+    },
+    {
+        "code": "3112",
+        "name": "VINCHIATURO"
+    },
+    {
+        "code": "3113",
+        "name": "VIPITENO-VAL DI VIZZE"
+    },
+    {
+        "code": "3114",
+        "name": "VISANO"
+    },
+    {
+        "code": "343",
+        "name": "VISONE"
+    },
+    {
+        "code": "3115",
+        "name": "VITERBO PORTA FIORENTINA"
+    },
+    {
+        "code": "3116",
+        "name": "VITERBO PORTA ROMANA"
+    },
+    {
+        "code": "3117",
+        "name": "VITTORIA"
+    },
+    {
+        "code": "3118",
+        "name": "VITTORIO VENETO"
+    },
+    {
+        "code": "3119",
+        "name": "VITTUONE ARLUNO"
+    },
+    {
+        "code": "3120",
+        "name": "VITULANO FOGLIANISE"
+    },
+    {
+        "code": "3122",
+        "name": "VIZZINI-LICODIA"
+    },
+    {
+        "code": "3123",
+        "name": "VOGHERA"
+    },
+    {
+        "code": "3125",
+        "name": "VOGOGNA OSSOLA"
+    },
+    {
+        "code": "5021",
+        "name": "VOLPIANO"
+    },
+    {
+        "code": "3126",
+        "name": "VOLTANA"
+    },
+    {
+        "code": "3127",
+        "name": "VOLTERRA SALINE-POMARANCE"
+    },
+    {
+        "code": "3129",
+        "name": "ZAGAROLO"
+    },
+    {
+        "code": "3130",
+        "name": "ZAMBRA"
+    },
+    {
+        "code": "187",
+        "name": "ZAMBRONE"
+    },
+    {
+        "code": "3131",
+        "name": "ZAPPULLA"
+    },
+    {
+        "code": "3134",
+        "name": "ZINASCO NUOVO"
+    },
+    {
+        "code": "344",
+        "name": "ZOAGLI"
+    }
+]

@@ -1,0 +1,110 @@
+@font-face {
+  font-family: "LTRailway";
+  src: url("./LTRailway-Regular.woff2") format("woff2"),
+    url("./LTRailway-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --led-on: #fc9c2eff;
+  --led-off: #1b1b1bee;
+}
+
+.hidden {
+  display: none;
+}
+
+#stationSelector {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+  padding: 1rem;
+  font-size: 1.5rem;
+}
+
+body.dim > *:not(#stationSelector) {
+  opacity: 0.2;
+}
+
+html {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+html::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: var(--led-on);
+  font-size: 3rem;
+  overflow-x: hidden;
+}
+
+* {
+    font-family: "LTRailway", sans-serif;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  filter: drop-shadow(0 0 1rem var(--led-on));
+}
+
+th, td {
+  text-align: left;
+  padding: 0.5rem;
+}
+
+h1 {
+  margin: 0;
+  color: #000000;
+}
+
+thead {
+  color: #000000;
+}
+
+.orange-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  filter: drop-shadow(0 0 1rem var(--led-on));
+}
+
+.black-canvas {
+  position: absolute;
+  left: 0;
+  z-index: -2;
+}
+
+#stationSelector {
+    position: fixed;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2.5rem;
+    margin: 1rem 0;
+    border: 5px solid var(--led-on);
+    background-color: #000;
+    color: var(--led-on);
+    padding: 0.5rem 1rem;
+    z-index: 10;
+    outline: none;
+}
+
+.hidden {
+    display: none;
+}
