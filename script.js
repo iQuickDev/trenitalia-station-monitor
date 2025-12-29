@@ -97,7 +97,7 @@ function createMatrixCanvas() {
     const orangeCanvas = document.createElement('canvas');
     const orangeCtx = orangeCanvas.getContext('2d');
     orangeCanvas.width = window.innerWidth;
-    orangeCanvas.height = window.innerHeight / 5.5;
+    orangeCanvas.height = Math.max(window.innerHeight / 5.5, 200);
     orangeCanvas.className = 'orange-canvas';
 
     const blackCanvas = document.createElement('canvas');
